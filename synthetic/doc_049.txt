@@ -1,0 +1,36 @@
+RECORD 49 | TYPE: INPATIENT PROGRESS NOTE (INFECTIOUS DISEASE)
+
+PATIENT: Synthetic-049 | AGE: 50 | SEX: M | DATE: 2027-04-09
+HOSPITAL DAY: 6 | CONSULT DAY: 5
+PRIMARY DIAGNOSIS: Cavitary pulmonary tuberculosis.
+
+SUBJECTIVE:
+The patient is an immigrant from an endemic region who presented with 3 months of chronic cough, hemoptysis, night sweats, and 18-pound weight loss. Currently managed in negative-pressure airborne isolation. Patient states his cough is less frequent today. Denies visual changes, tingling in feet, or nausea.
+
+OBJECTIVE:
+Vitals: Temp 37.1 C (afebrile for 48 hours), BP 122/76 mmHg, HR 78 bpm, RR 18 bpm, SpO2 96% room air.
+Lungs: Decreased breath sounds and coarse amphoric breath sounds over the right upper lung zone.
+Abdomen: Soft, non-tender; liver margin non-tender.
+
+MICROBIOLOGY & LAB TRENDS:
+* Sputum Acid-Fast Bacilli (AFB) Smear:
+  * Specimen 1: 3+ AFB positive.
+  * Specimen 2: 2+ AFB positive.
+  * Specimen 3: 1+ AFB positive.
+* GeneXpert MTB/RIF: Detected Mycobacterium tuberculosis complex; rifampin resistance NOT detected.
+* Hepatic Function Panel: Total Bilirubin 0.6 mg/dL, AST 32 U/L, ALT 28 U/L (baseline LFTs normal).
+
+ASSESSMENT & PLAN:
+Active pulmonary tuberculosis, pan-susceptible by rapid molecular testing, demonstrating initial clinical improvement on first-line anti-TB therapy (RIPE regimen).
+1. Continue First-Line RIPE Therapy:
+   * Rifampin 600 mg PO daily.
+   * Isoniazid 300 mg PO daily.
+   * Pyrazinamide 1500 mg PO daily.
+   * Ethambutol 1200 mg PO daily.
+   * Pyridoxine (Vitamin B6) 50 mg PO daily to prevent isoniazid peripheral neuropathy.
+2. Monitoring:
+   * Baseline visual acuity and Ishihara color testing normal (monitored for ethambutol optic neuritis).
+   * Weekly LFTs to monitor for drug-induced liver injury.
+3. Isolation & Discharge Coordination:
+   * Maintain airborne infection isolation until 3 consecutive negative sputum AFB smears collected at least 8 hours apart.
+   * Coordinate directly with County Public Health Department for outpatient Directly Observed Therapy (DOT).

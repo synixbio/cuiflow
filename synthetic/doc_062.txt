@@ -1,0 +1,26 @@
+RECORD 62 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (OB/GYN)
+
+PATIENT: Synthetic-062 | AGE: 32 | SEX: F | DATE: 2027-10-21
+REASON FOR ENCOUNTER: Routine Initial Prenatal Intake (10 weeks gestation).
+
+SUBJECTIVE:
+The patient is a 32-year-old G2P1001 female who presents for initial prenatal care. Last normal menstrual period was 10 weeks ago (conception confirmed by home pregnancy test). Reports mild morning nausea managed with small frequent meals, breast tenderness, and fatigue. Denies vaginal bleeding, pelvic cramping, dysuria, or fevers. Her first pregnancy 3 years ago was uncomplicated and delivered vaginally at 39 weeks.
+
+PAST OB/GYN HISTORY:
+* G2P1 (one prior uncomplicated spontaneous vaginal delivery, 7 lbs 6 oz).
+* Pap smear normal 2 years ago (HPV negative).
+* No history of sexually transmitted infections.
+
+PHYSICAL EXAMINATION:
+BP 112/68 mmHg, HR 72 bpm, RR 14 bpm, BMI 24.2 kg/m^2.
+Pelvic Exam: Normal external genitalia. Speculum exam shows closed cervix with bluish discoloration (Chadwick sign), no active bleeding or discharge. Bimanual exam reveals non-tender, anteverted, enlarged uterus consistent with 10-week size; adnexa non-tender without palpable masses.
+
+BEDSIDE ULTRASOUND:
+Transabdominal ultrasound confirms a single intrauterine pregnancy. Crown-Rump Length (CRL) measures 33 mm, corresponding exactly to 10 weeks 1 day. Fetal heart rate documented at 168 bpm. Normal gestational sac and yolk sac.
+
+ASSESSMENT & PLAN:
+Intrauterine pregnancy at 10 weeks 1 day; normal initial prenatal evaluation.
+1. Prenatal Vitamins: Continue daily prenatal multivitamin containing 800 mcg Folic Acid and iron.
+2. Routine Prenatal Panel Ordered: Blood type and Rh, antibody screen, CBC, Rubella IgG, Varicella, Syphilis RPR, Hepatitis B surface antigen, HIV, urine culture, and Chlamydia/Gonorrhea PCR.
+3. Aneuploidy Screening: Patient opted for cell-free fetal DNA (NIPT) screening and carrier screening; blood drawn today.
+4. Scheduling: Follow-up visit in 4 weeks for routine prenatal examination and fetal Doppler check.

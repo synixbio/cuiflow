@@ -1,0 +1,34 @@
+RECORD 100 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-100 | AGE: 67 | SEX: M | DATE: 2029-05-18 21:50
+CHIEF COMPLAINT: Sudden "tearing" chest and back pain radiating between the shoulder blades.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 67-year-old male with poorly controlled essential hypertension who presents via EMS with sudden-onset, catastrophic chest and interscapular back pain that started 45 minutes ago while watching television. He describes the pain as a "ripping, tearing knife" that began retrosternally and shot straight through into his mid-back. Pain severity is 10/10. Associated with diaphoresis, shortness of breath, and mild numbness in his right leg. Denies prior cardiac history.
+
+PHYSICAL EXAMINATION:
+Vitals:
+* Right Arm BP: 188/104 mmHg.
+* Left Arm BP: 136/78 mmHg (Significant inter-arm blood pressure discrepancy of 52 mmHg).
+* HR: 98 bpm regular, RR 24 bpm, Temp 36.7 C, SpO2 96% room air.
+Cardiovascular: Tachycardic, regular rhythm. A new high-pitched, blowing decrescendo 3/6 diastolic murmur is audible along the right upper and left middle sternal borders (aortic regurgitation). Right femoral pulse is weak/thready compared to strong left femoral pulse.
+Neurologic: Mild sensory deficit to light touch in the right foot; motor strength 5/5 bilaterally.
+
+EMERGENCY DIAGNOSTICS:
+* 12-lead ECG: Sinus tachycardia at 98 bpm. Left ventricular hypertrophy with strain pattern; no focal ST-segment elevations.
+* Portable Chest X-ray: Marked widening of the superior mediastinum (> 8 cm) and deviation of the trachea to the right.
+* Stat CT Angiography (CTA) Chest, Abdomen, and Pelvis:
+  * Stanford Type A (DeBakey Type I) Aortic Dissection.
+  * Dissection flap originates in the ascending aorta 1.5 cm above the aortic root, extends through the aortic arch, descending thoracic aorta, and down to the right common iliac artery.
+  * Severe acute aortic insufficiency.
+  * Right renal artery supplied by false lumen. True lumen compression in right common iliac. No pericardial tamponade.
+
+ASSESSMENT & EMERGENCY MANAGEMENT:
+Acute Stanford Type A Aortic Dissection with severe aortic regurgitation and right lower extremity malperfusion. Surgical emergency.
+1. Immediate Medical Anti-Impulse Therapy:
+   * Target: Rapid reduction of heart rate (< 60 bpm) and systolic blood pressure (100-120 mmHg) to decrease aortic wall shear stress ($dP/dt$).
+   * Administered IV Esmolol loading dose (500 mcg/kg over 1 min) followed by continuous infusion at 150 mcg/kg/min (beta-blocker given first to prevent reflex tachycardia).
+   * Added IV Nicardipine infusion (titrated starting at 5 mg/hr) to achieve SBP target of 110 mmHg.
+2. Cardiothoracic Surgery Consultation: Code Aorta activated. Cardiothoracic surgery team arrived bedside.
+3. Blood Bank: Typed and crossed for 6 units PRBCs, 4 units FFP, and 2 apheresis platelet packs.
+4. Disposition: Transported immediately to the cardiac surgery operative suite for emergency emergent ascending aorta and hemiarch repair.

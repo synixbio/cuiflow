@@ -1,0 +1,32 @@
+RECORD 76 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-076 | AGE: 73 | SEX: M | DATE: 2028-05-06 08:30
+CHIEF COMPLAINT: Dizziness, profound generalized weakness, and near-syncope.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 73-year-old male with chronic kidney disease (baseline creatinine 1.8 mg/dL) and hypertension who presents with severe lethargy and generalized muscle weakness that made it impossible for him to stand from his chair this morning. He mistakenly doubled his daily dose of Lisinopril and Spironolactone over the past 4 days. Denies chest pain, vomiting, or diarrhea.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 92/54 mmHg, HR 38 bpm (marked bradycardia), RR 18 bpm, Temp 36.6 C, SpO2 96% room air.
+General: Somnolent, pale, slow verbal responses.
+Cardiovascular: Severe bradycardia, regular rhythm, distant heart sounds, weak radial pulses.
+Neurologic: Generalized flaccid muscle weakness (3/5 in upper and lower extremities); deep tendon reflexes are globally absent (0/4).
+
+STAT DIAGNOSTICS:
+* 12-lead ECG: Marked junctional bradycardia at 36 bpm, complete absence of P waves, widened QRS complex (172 ms) merging into peaked, symmetrical "tented" T waves in precordial leads (sine-wave configuration concerning for imminent ventricular standstill).
+* Point-of-Care Potassium: 8.6 mEq/L (Critically Elevated).
+* Serum Creatinine: 3.4 mg/dL (Acute Kidney Injury).
+
+EMERGENCY RESUSCITATION & MANAGEMENT:
+Severe, life-threatening hyperkalemia with conduction abnormalities and near-sine wave ECG.
+1. Myocardial Membrane Stabilization:
+   * Administered IV Calcium Gluconate 10% (30 mL / 3 grams) IV over 5 minutes stat. Repeat ECG at 10 minutes shows narrowing of QRS complex and restoration of rhythm.
+2. Intracellular Potassium Shifting:
+   * Regular Insulin 10 units IV bolus with 50 mL of 50% Dextrose (D50W) IV over 5 minutes.
+   * Continuous nebulized Albuterol 20 mg over 30 minutes.
+   * IV Sodium Bicarbonate 100 mEq (two 50-mL ampules) IV push.
+3. Potassium Elimination:
+   * Sodium zirconium cyclosilicate (Lokelma) 10 g PO slurry administered.
+   * IV Furosemide 80 mg IV push.
+4. Emergent Nephrology Consultation: Stat bedside consult for emergency hemodialysis catheter placement and urgent dialysis run.
+5. Disposition: Immediate transfer to Intensive Care Unit.

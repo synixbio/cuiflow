@@ -1,0 +1,29 @@
+RECORD 42 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (CARDIOLOGY)
+
+PATIENT: Synthetic-042 | AGE: 74 | SEX: M | DATE: 2027-01-22
+REASON FOR ENCOUNTER: Evaluation of exertional lightheadedness and systolic murmur.
+
+SUBJECTIVE:
+The patient is a 74-year-old male with hypertension and hyperlipidemia who reports progressive exertional dyspnea and lightheadedness when walking up an incline or climbing stairs over the past 5 months. He has had two near-syncopal episodes where he felt the world "graying out" after mowing the lawn, resolving promptly upon sitting down. Denies true syncope, orthopnea, chest pressure, or paroxysmal nocturnal dyspnea.
+
+OBJECTIVE:
+Vitals: BP 106/78 mmHg (narrow pulse pressure), HR 66 bpm regular, SpO2 96% room air.
+Physical Exam:
+* Carotid Arteries: Slow upstroke with low-amplitude pulses bilaterally (pulsus parvus et tardus).
+* Cardiovascular: Sustained apical impulse. S2 is soft and single. A harsh, late-peaking 3/6 crescendo-decrescendo systolic ejection murmur is best heard at the right second intercostal space, radiating prominently to bilateral carotids. Murmur decreases with Valsalva maneuver.
+* Lungs: Clear to auscultation bilaterally.
+* Extremities: No edema.
+
+DIAGNOSTIC STUDIES:
+* Transthoracic Echocardiogram: Calcified, heavily stenotic trileaflet aortic valve.
+  * Aortic Valve Area (AVA): 0.72 cm^2 (Severe: < 1.0 cm^2).
+  * Mean Transvalvular Gradient: 48 mmHg (Severe: > 40 mmHg).
+  * Peak Jet Velocity: 4.4 m/s (Severe: > 4.0 m/s).
+  * LVEF: 52% with concentric left ventricular hypertrophy.
+
+ASSESSMENT & PLAN:
+Severe symptomatic aortic valve stenosis (Stage D).
+1. Referral to Structural Heart Multidisciplinary Team: Given age (74 years) and classic symptoms, patient is a candidate for Transcatheter Aortic Valve Replacement (TAVR) vs. Surgical AVR.
+2. Diagnostics Ordered: ECG-gated Cardiac CT Angiography (TAVR protocol) of chest, abdomen, and pelvis to assess transfemoral vascular access and annular dimensions.
+3. Activity Guidance: Strictly avoid strenuous physical exertion or heavy lifting until valve replacement is completed.
+4. Medication Adjustments: Avoid aggressive vasodilators or high-dose nitrates which could precipitate hemodynamic collapse.

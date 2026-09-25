@@ -1,0 +1,19 @@
+RECORD 40 | TYPE: DISCHARGE SUMMARY (PEDIATRIC INPATIENT)
+
+PATIENT: Synthetic-040 | AGE: 8 months | SEX: M | ADMISSION: 2026-12-18 | DISCHARGE: 2026-12-22
+ADMISSION DIAGNOSIS: Acute viral bronchiolitis with respiratory distress and poor feeding.
+DISCHARGE DIAGNOSES:
+1. Respiratory Syncytial Virus (RSV) bronchiolitis, resolved.
+2. Dehydration secondary to respiratory distress, resolved.
+
+HOSPITAL COURSE:
+An 8-month-old male infant presented with a 3-day history of clear rhinorrhea, cough, and fevers, progressing to rapid breathing, subcostal retractions, and poor feeding (wet diapers decreased to 2 per 24 hours). Nasopharyngeal PCR on admission was positive for Respiratory Syncytial Virus (RSV). Initial room air oxygen saturation was 88%, with respiratory rate of 62 bpm.
+
+Patient was admitted to the pediatric ward and placed on high-flow nasal cannula (HFNC) support at 8 L/min with FiO2 30%, alongside IV maintenance fluids (D5 0.45% NS with 20 mEq KCl). Frequent nasal suctioning was performed prior to small volume bottle-feeding attempts. Over the next 72 hours, work of breathing improved steadily. HFNC was weaned to standard low-flow nasal cannula on Day 3 and discontinued on Day 4. Patient resumed ad libitum formula feeding, achieving normal oral hydration status. At discharge, infant is breathing comfortably on room air with normal feeding and 5 wet diapers in the preceding 18 hours.
+
+DISCHARGE INSTRUCTIONS:
+* Normal saline nasal drops (2-3 drops per nostril) followed by bulb suctioning before feedings and naps.
+* Continue frequent small-volume oral formula feeds.
+* Avoid second-hand tobacco smoke exposure.
+* Follow up with pediatrician Dr. Jennifer Adams in 48 to 72 hours.
+* Return precautions reviewed: worsening retractions, grunting, lethargy, or poor feeding.

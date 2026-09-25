@@ -1,0 +1,33 @@
+RECORD 25 | TYPE: CONSULTATION NOTE (HEMATOLOGY)
+
+PATIENT: Synthetic-025 | AGE: 63 | SEX: F | CONSULTANT: Dr. Douglas Sterling, MD
+REQUESTING SERVICE: Hospital Medicine
+REASON FOR CONSULTATION: Progressive microcytic anemia and refractory thrombocytopenia.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 63-year-old female admitted for symptomatic anemia with fatigue, exertional dyspnea, and easy bruising. Over the past 4 months, her primary care physician noted a progressive drop in platelets from 180k to 48k and hemoglobin from 12.0 to 7.8 g/dL. She denies overt melena, hematochezia, hematuria, or menorrhagia. Has not taken any new medications, NSAIDs, or herbal supplements.
+
+PHYSICAL EXAMINATION:
+BP 118/68 mmHg, HR 88 bpm regular, RR 16 bpm, SpO2 97% room air.
+General: Pale conjunctiva, mucosal pallor, no jaundice.
+Lymphatics: No cervical, axillary, or inguinal lymphadenopathy.
+Abdomen: Soft, non-tender. Spleen tip palpable 3 cm below left costal margin (splenomegaly confirmed).
+Skin: Petechiae over bilateral distal pretibial regions; scattered ecchymoses on forearms.
+
+DIAGNOSTIC WORKUP REVIEW:
+* Complete Blood Count: WBC 2.4 x 10^3/uL (Leukopenia with absolute neutrophil count 1,100/uL), Hb 7.6 g/dL, MCV 104 fL (macrocytic), Platelets 42 x 10^3/uL.
+* Reticulocyte Count: 0.6% (hypoproliferative response).
+* Peripheral Blood Smear: Marked anisopoikilocytosis, teardrop cells, Pelger-Huët anomaly (bilobed hypogranulated neutrophils), giant hypogranular platelets, and 2% circulating blasts.
+* Iron studies, Vitamin B12, and Folate: Within normal limits.
+* Renal/Hepatic panels: Unremarkable; LDH elevated at 340 U/L.
+
+IMPRESSION:
+Bicytopenia/pancytopenia with dysplastic features and circulating blasts concerning for Myelodysplastic Syndrome (MDS) vs. Acute Myeloid Leukemia (AML) evolution.
+
+RECOMMENDATIONS:
+1. Urgent Bone Marrow Biopsy and Aspirate: Scheduled for tomorrow morning with flow cytometry, cytogenetics, and Next-Generation Sequencing (NGS) myeloid mutation panel.
+2. Transfusion Support:
+   * Maintain Hemoglobin > 8.0 g/dL (transfuse 1 unit PRBCs for symptomatic anemia).
+   * Maintain Platelets > 20 x 10^3/uL, or > 50 x 10^3/uL prior to bone marrow biopsy.
+3. Hold antiplatelet and anticoagulant agents.
+4. Screen for infectious triggers: HIV, Hepatitis B/C, and Parvovirus B19 serologies.

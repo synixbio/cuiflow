@@ -1,0 +1,37 @@
+RECORD 57 | TYPE: INPATIENT PROGRESS NOTE (HEMATOLOGY/ONCOLOGY)
+
+PATIENT: Synthetic-057 | AGE: 55 | SEX: M | DATE: 2027-07-28
+HOSPITAL DAY: 12 | POST-CHEMOTHERAPY DAY: 8
+PRIMARY DIAGNOSIS: De novo Acute Myeloid Leukemia (AML), status-post "7+3" induction chemotherapy (Cytarabine + Daunorubicin).
+
+SUBJECTIVE:
+Patient developed a sudden fever spike to 38.9 C at 04:00 with rigors. He reports mild fatigue and anorexia. Denies cough, dyspnea, burning on urination, diarrhea, abdominal pain, or redness around his right subclavian Hickman central venous line.
+
+OBJECTIVE:
+Vitals: Temp 38.8 C, BP 110/68 mmHg, HR 106 bpm regular, RR 20 bpm, SpO2 98% room air.
+Exam:
+* General: Febrile, flushed, rigors, non-toxic.
+* HEENT: Moist oral mucosa, no mucositis, no thrush, pharynx non-erythematous.
+* Central Line Site: Right chest wall Hickman line dressing clean and dry. No tunnel tenderness, erythema, induration, or purulent drainage.
+* Lungs: Clear to auscultation bilaterally.
+* Abdomen: Soft, non-tender, active bowel sounds.
+* Perianal: Visual inspection negative for fissures, abscesses, or skin breakdown; gentle digital exam strictly avoided.
+
+LABORATORIES:
+* CBC: WBC 0.2 x 10^3/uL, Absolute Neutrophil Count (ANC): 20 cells/uL (Severe Neutropenia, nadir).
+* Hemoglobin: 7.9 g/dL | Platelets: 18 x 10^3/uL.
+* Serum Creatinine: 0.85 mg/dL.
+* Lactate: 1.3 mmol/L.
+
+ASSESSMENT & PLAN:
+Febrile Neutropenia (ANC 20/uL) during post-induction marrow aplasia. Medical emergency.
+1. Stat Sepsis Workup:
+   * Two sets of blood cultures drawn immediately (one peripheral set and one from each lumen of the Hickman catheter).
+   * Urinalysis and urine culture obtained.
+   * Portable chest radiograph ordered (no infiltrates seen).
+2. Empiric Broad-Spectrum Antibiotic Coverage:
+   * Initiate IV Cefepime 2 g Q8H immediately (completed within 45 minutes of fever spike).
+   * Vancomycin deferred for now as patient is hemodynamically stable without obvious catheter tunnel infection.
+3. Transfusion Support:
+   * Transfuse 1 apheresis unit of irradiated, leukoreduced platelets for platelet count < 20k.
+4. Strict neutropenic precautions and HEPA filter isolation maintained.

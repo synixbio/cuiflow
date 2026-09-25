@@ -1,0 +1,28 @@
+RECORD 66 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-066 | AGE: 19 | SEX: M | DATE: 2027-12-16 02:45
+CHIEF COMPLAINT: Acute severe left testicular pain and swelling.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 19-year-old male who was awakened from sleep at 01:00 by excruciating, sudden-onset left scrotal pain. The pain is continuous, sharp, and radiates into the left groin. Associated with nausea and one episode of emesis. Denies trauma, fever, dysuria, urethral discharge, or history of similar episodes.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 142/86 mmHg, HR 104 bpm, RR 20 bpm, Temp 36.8 C.
+Genitourinary Examination:
+* Left hemiscrotum is markedly swollen, erythematous, and exquisitely tender to gentle palpation.
+* The left testis is retracted cephalad with an abnormal transverse lie (bell-clapper deformity).
+* Absent left cremasteric reflex (stroking the inner thigh fails to elevate the left testis).
+* Prehn sign negative (manual elevation of the left hemiscrotum does not relieve pain; rather worsens it).
+* Right scrotum and testis are normal with intact cremasteric reflex.
+
+DIAGNOSTIC WORKUP:
+* Emergent Scrotal Color Doppler Ultrasound:
+  * Left Testis: Enlarged, heterogeneous parenchymal echotexture with complete absence of internal arterial and venous blood flow on color and power Doppler. Twisting of the spermatic cord ("whirlpool sign") visualized.
+  * Right Testis: Normal size, homogeneous echogenicity, robust normal vascular flow.
+
+ASSESSMENT & ACTION PLAN:
+Acute left testicular torsion; surgical emergency with < 6 hour ischemia window.
+1. Immediate Urology Consult: Dr. Marcus contacted directly; patient evaluated within 10 minutes.
+2. Patient Kept NPO: Consented for emergent scrotal exploration, left testicular detorsion, and bilateral orchiopexy (to prevent contralateral torsion).
+3. Analgesia: IV Fentanyl 75 mcg administered with partial relief.
+4. Transported to Operating Room at 03:10.

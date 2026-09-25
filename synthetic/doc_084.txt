@@ -1,0 +1,15 @@
+RECORD 84 | TYPE: SURGICAL OPERATIVE REPORT
+
+PATIENT: Synthetic-084 | AGE: 56 | SEX: M | DATE: 2028-09-22
+PREOPERATIVE DIAGNOSIS: Bilateral proliferative diabetic retinopathy with non-clearing vitreous hemorrhage, right eye.
+POSTOPERATIVE DIAGNOSIS: Proliferative diabetic retinopathy with vitreous hemorrhage and fibrovascular traction, right eye.
+PROCEDURE: Pars plana vitrectomy (25-gauge), membrane peeling, endolaser photocoagulation, and air-fluid exchange, right eye.
+SURGEON: Dr. Sean Patel, MD | ANESTHESIA: Monitored anesthesia care with retrobulbar block.
+ESTIMATED BLOOD LOSS: Negligible | COMPLICATIONS: None.
+
+SURGICAL DETAILS:
+Under retrobulbar anesthesia, the right periocular region was prepped with 5% povidone-iodine. Standard 25-gauge valved cannulas were inserted through the pars plana 3.5 mm posterior to the limbus in the superotemporal, superonasal, and inferotemporal quadrants.
+
+The vitreous cutter was introduced. A core vitrectomy was performed, clearing dense, dark, non-clearing intravitreal hemorrhage that obscured retinal details. Posterior hyaloid detachment was induced using active aspiration over the optic nerve head. Fibrovascular proliferative membranes along the superior and inferior vascular arcades were carefully dissected, segmented, and delaminated from the retinal surface using intraocular microforceps and curved scissors, releasing all anteroposterior and tangential traction.
+
+Complete peripheral vitrectomy was performed under wide-field illumination with scleral depression. Panretinal endolaser photocoagulation was applied, placing approximately 1,200 laser spots in the mid-peripheral and peripheral retina, sparing the central macula. Fluid-air exchange was performed, verifying that the retina remained completely flat and attached without iatrogenic retinal tears. Sclerotomies were self-sealing; trocars were removed and integrity verified with balanced salt solution. Subconjunctival Cefazolin and Dexamethasone were injected.

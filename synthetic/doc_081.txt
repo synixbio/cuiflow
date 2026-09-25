@@ -1,0 +1,30 @@
+RECORD 81 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-081 | AGE: 38 | SEX: M | DATE: 2028-08-02 04:15
+CHIEF COMPLAINT: Ingestion of unknown quantity of acetaminophen in suicide attempt.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 38-year-old male brought by EMS after sending a text message to his sister indicating suicidal intent. On arrival, he admits to ingesting approximately 40 to 50 extra-strength acetaminophen tablets (500 mg each, estimated 20-25 grams total) approximately 3 hours prior to arrival, accompanied by 6 beers. He is currently complaining of mild epigastric nausea and diaphoresis. Denies co-ingestion of aspirin, opioids, or benzodiazepines.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 122/74 mmHg, HR 82 bpm, RR 16 bpm, Temp 36.8 C, SpO2 98% room air.
+General: Alert, cooperative, mildly diaphoretic, depressed affect.
+HEENT: Normocephalic, pupils equal and reactive, oral mucosa clear.
+Abdomen: Soft, mild tenderness to deep palpation in the right upper quadrant; no guarding, rigidity, or rebound.
+Neurologic: Alert, oriented x 4. Asterixis absent.
+
+DIAGNOSTIC WORKUP:
+* Serum Acetaminophen Level (at exactly 4 hours post-ingestion): 240 mcg/mL (Significantly above the treatment line on the Rumack-Matthew Nomogram).
+* Comprehensive Metabolic Panel: AST 34 U/L, ALT 28 U/L, Total Bilirubin 0.6 mg/dL, Creatinine 0.9 mg/dL.
+* Coagulation: PT 12.1 s, INR 1.0.
+* Salicylate Level: < 1.0 mg/dL (undetectable).
+* Blood Alcohol Content: 0.12 g/dL.
+
+ASSESSMENT & PLAN:
+Acute severe toxic acetaminophen ingestion; 4-hour level plots well above the "probable hepatic toxicity" threshold line.
+1. Antidote Therapy: Initiate IV N-acetylcysteine (NAC) protocol immediately:
+   * Loading dose: 150 mg/kg IV infused over 60 minutes.
+   * Second dose: 50 mg/kg IV over 4 hours.
+   * Third dose: 100 mg/kg IV over 16 hours.
+2. Inpatient Admission: Admit to Intensive Care Unit for continuous NAC infusion, serial transaminases, and repeated acetaminophen levels.
+3. Psychiatric Consultation: Place on 1:1 suicide safety observation; formal psychiatric evaluation once medically cleared.

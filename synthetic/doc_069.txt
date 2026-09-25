@@ -1,0 +1,15 @@
+RECORD 69 | TYPE: SURGICAL OPERATIVE REPORT
+
+PATIENT: Synthetic-069 | AGE: 62 | SEX: M | DATE: 2028-02-08
+PREOPERATIVE DIAGNOSIS: Left inguinal hernia, symptomatic.
+POSTOPERATIVE DIAGNOSIS: Direct and indirect left inguinal hernia (Pantaloon hernia).
+PROCEDURE: Left laparoscopic totally extraperitoneal (TEP) inguinal hernia repair with polypropylene mesh.
+SURGEON: Dr. Christopher Bailey, MD | ANESTHESIA: General endotracheal.
+ESTIMATED BLOOD LOSS: < 10 mL | COMPLICATIONS: None.
+
+OPERATIVE TECHNIQUE:
+Under general anesthesia, a transverse infraumbilical incision was made down to the anterior rectus sheath. The sheath was incised, the rectus muscle retracted laterally, and the preperitoneal space entered. A structural balloon dissecting trocar was placed into the preperitoneal space and inflated under vision toward the pubic symphysis, creating the working extraperitoneal pocket without violating the peritoneum.
+
+Pneumo-preperitoneum was maintained at 12 mmHg with carbon dioxide. Two 5-mm working ports were placed in the midline between the umbilicus and pubis. Dissection identified Cooper's ligament and the pubic tubercle. A large direct hernia sac was reduced from Hesselbach's triangle. Further lateral dissection identified the cord structures, and an indirect hernia sac was dissected free from the vas deferens and gonadal vessels and completely reduced.
+
+The anatomical landmarks were cleared, exposing the "Triangle of Doom" (iliac vessels) and "Triangle of Pain" (femoral nerve branches), avoiding any mechanical or thermal injury in these zones. A 10 x 15 cm 3D anatomical polypropylene mesh was placed into the preperitoneal space, covering the direct, indirect, and femoral spaces widely, extending well past the midline and Cooper's ligament. The mesh was fixed medially to Cooper's ligament with absorbable fixation tacks, avoiding tacking inferior to the iliopubic tract. Desufflation was performed under direct vision ensuring the mesh remained flat without folding. Port sites were closed.

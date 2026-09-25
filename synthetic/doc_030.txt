@@ -1,0 +1,38 @@
+RECORD 30 | TYPE: CONSULTATION NOTE (ENDOCRINOLOGY)
+
+PATIENT: Synthetic-030 | AGE: 42 | SEX: F | CONSULTANT: Dr. Rachel Gomez, MD
+REQUESTING SERVICE: Internal Medicine
+REASON FOR CONSULTATION: Severe refractory hypercalcemia.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 42-year-old female admitted with confusion, lethargy, severe constipation, and polyuria. Corrected serum calcium on admission was markedly elevated at 14.8 mg/dL. Her family noted progressive cognitive slowing and weakness over the past 3 weeks. She has no prior personal history of nephrolithiasis or fragility fractures.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 142/86 mmHg, HR 64 bpm, RR 14 bpm, Temp 36.7 C.
+General: Somnolent, awakens to voice, oriented to self and hospital but not year. Mildly dehydrated oral mucous membranes.
+Neck: Supple, no palpable thyroid or parathyroid masses, no lymphadenopathy.
+Abdomen: Hypoactive bowel sounds, non-tender, no organomegaly.
+Neurological: Generalized proximal muscle weakness (4/5 in bilateral hips and shoulders), deep tendon reflexes 1+ globally.
+
+LABORATORY INVESTIGATIONS:
+* Total Serum Calcium: 14.6 mg/dL (Critical High)
+* Serum Albumin: 3.8 g/dL (Corrected Calcium: 14.8 mg/dL)
+* Ionized Calcium: 1.88 mmol/L (Ref: 1.15-1.33)
+* Intact Parathyroid Hormone (iPTH): 482 pg/mL (Markedly elevated; normal 15-65 pg/mL)
+* 25-Hydroxyvitamin D: 28 ng/mL | 1,25-Dihydroxyvitamin D: 84 pg/mL (elevated)
+* Serum Phosphate: 1.8 mg/dL (hypophosphatemia)
+* 24-hour urine calcium: 420 mg/24hr (hypercalciuria, ruling out FHH)
+* Neck Ultrasound: 1.8 cm hypoechoic, well-circumscribed, vascular nodule posterior to the inferior pole of the left thyroid lobe.
+
+IMPRESSION:
+Hypercalcemic crisis secondary to primary hyperparathyroidism likely due to a solitary left inferior parathyroid adenoma.
+
+RECOMMENDATIONS:
+1. Acute Hypercalcemia Management:
+   * Aggressive IV hydration with 0.9% Normal Saline at 200-250 mL/hr to restore intravascular volume and promote renal calciuresis.
+   * Administer IV Zoledronic acid 4 mg over 15 minutes (monitor for delayed nadir in 48-72 hours).
+   * Calcitonin (salmon) 4 units/kg subcutaneous every 12 hours for rapid transient lowering of calcium over the next 24-48 hours.
+2. Surgical Consultation:
+   * Consult Endocrine Surgery for parathyroidectomy once serum calcium stabilizes below 11.5 mg/dL.
+   * Order 99mTc-Sestamibi SPECT-CT scan for definitive preoperative parathyroid localization.
+3. Telemetry: Continuous cardiac monitoring for QT-interval shortening.

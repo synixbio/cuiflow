@@ -1,0 +1,24 @@
+RECORD 53 | TYPE: INPATIENT PROGRESS NOTE (GENERAL SURGERY)
+
+PATIENT: Synthetic-053 | AGE: 60 | SEX: F | DATE: 2027-06-04
+POSTOPERATIVE DAY: 1
+PRIMARY PROCEDURE: Laparoscopic partial colectomy with primary end-to-end stapled anastomosis for diverticular stricture.
+
+SUBJECTIVE:
+Patient reports postoperative incisional soreness rated 4/10, well controlled with multimodal oral analgesia and PCA hydromorphone. Denies severe nausea or emesis. She sat in the bedside chair for 2 hours this morning and ambulated 50 feet down the hallway with nursing assistance. Passing flatus; no bowel movement.
+
+OBJECTIVE:
+Vitals: BP 126/78 mmHg, HR 76 bpm, RR 14 bpm, Temp 37.1 C, SpO2 97% on room air.
+Exam:
+* Cardiovascular: Regular rate and rhythm, peripheral pulses intact.
+* Lungs: Clear to auscultation bilaterally, no atelectatic crackles.
+* Abdomen: Soft, mildly distended, appropriately tender around surgical trocar sites. Bowel sounds are hypoactive but audible in all quadrants. No rebound tenderness or rigidity. Surgical incisions are clean, dry, and intact with Dermabond; no erythema or hematoma.
+* Foley Catheter: Clear yellow urine draining; output 850 mL overnight.
+
+PLAN:
+Enhanced Recovery After Surgery (ERAS) pathway:
+1. Diet: Advance from clear liquids to low-residue soft diet as tolerated today.
+2. Foley Removal: Discontinue Foley catheter this morning; conduct bladder scan protocol if no spontaneous voiding within 6 hours.
+3. Pain Management: Transition completely from IV PCA to oral Acetaminophen 1000 mg Q8H and oral Celecoxib 100 mg BID, reserving oral Oxycodone 5 mg PRN breakthrough pain.
+4. Mobility: Ambulate in hallway at least 3 times daily.
+5. Anticoagulation: Enoxaparin 40 mg SC daily for post-surgical VTE prophylaxis.

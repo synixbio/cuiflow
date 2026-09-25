@@ -1,0 +1,27 @@
+RECORD 55 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (PULMONOLOGY)
+
+PATIENT: Synthetic-055 | AGE: 64 | SEX: F | DATE: 2027-06-22
+REASON FOR ENCOUNTER: Follow-up of Idiopathic Pulmonary Fibrosis (IPF) and antifibrotic therapy.
+
+SUBJECTIVE:
+The patient is a 64-year-old female diagnosed with Idiopathic Pulmonary Fibrosis (IPF) 14 months ago based on high-resolution chest CT demonstrating a definite Usual Interstitial Pneumonia (UIP) pattern with subpleural basilar honeycombing and traction bronchiectasis. She has been taking Nintedanib 150 mg PO BID for 10 months. She reports mild, manageable diarrhea (1-2 loose stools every couple of days), controlled with PRN Loperamide. Her dry, hacking cough persists. She notes mild progression of exertional dyspnea when walking uphill but remains stable on level ground.
+
+OBJECTIVE:
+Vitals: BP 124/76 mmHg, HR 78 bpm, RR 20 bpm, SpO2 95% at rest on room air; desaturates to 88% on 6-minute walk test requiring 2 L/min nasal cannula.
+Exam:
+* Respiratory: Fine, dry, end-inspiratory "Velcro-like" crackles prominent over bilateral lower lung bases.
+* Extremities: Definite digital clubbing present in fingers bilaterally. No peripheral cyanosis or edema.
+
+PULMONARY FUNCTION TESTING TREND:
+* Forced Vital Capacity (FVC): 2.10 L (64% predicted) - stable compared to 2.14 L (65%) 6 months ago.
+* DLCO (Diffusion Capacity): 42% predicted (severely reduced, prior 44%).
+
+LABORATORY MONITORING:
+* Hepatic Function Panel: Total Bilirubin 0.5 mg/dL, AST 24 U/L, ALT 28 U/L (liver enzymes remain normal on Nintedanib).
+
+ASSESSMENT & PLAN:
+Idiopathic Pulmonary Fibrosis with stable spirometry over the past 6 months on antifibrotic therapy; exertional hypoxemia.
+1. Antifibrotic Maintenance: Continue Nintedanib 150 mg PO BID with meals. Continue monthly LFT surveillance.
+2. Supplemental Oxygen: Prescribe ambulatory portable pulse-dose oxygen system at 2 L/min for exertion and exercise.
+3. Lung Transplant Referral: Given progressive disease and DLCO < 50%, initiate formal referral to the Regional Lung Transplantation Center for initial evaluation.
+4. Preventative Health: Rechecked pneumococcal and annual influenza vaccine status; up-to-date.

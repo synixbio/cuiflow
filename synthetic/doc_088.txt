@@ -1,0 +1,30 @@
+RECORD 88 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (ENDOCRINOLOGY)
+
+PATIENT: Synthetic-088 | AGE: 51 | SEX: M | DATE: 2028-11-30
+REASON FOR ENCOUNTER: Follow-up of Acromegaly status-post transsphenoidal adenomectomy.
+
+SUBJECTIVE:
+The patient is a 51-year-old male who underwent endoscopic transsphenoidal resection of a pituitary somatotroph macroadenoma 6 months ago. He reports noticeable improvement in soft tissue swelling; his wedding ring and shoes fit more comfortably. Joint pains have eased, and snoring has reduced. Denies headaches, visual field cuts, galactorrhea, or polyuria.
+
+OBJECTIVE:
+Vitals: BP 124/78 mmHg, HR 68 bpm, RR 14 bpm, Wt 88.5 kg.
+Physical Exam:
+* Head/Face: Broadening of nasal bridge and prominent supraorbital ridges (stable bony features); macroglossia visibly improved.
+* Visual Fields: Full to confrontation testing bilaterally.
+* Extremities: Large hands with spade-like fingers; no active doughy soft tissue edema.
+
+LABORATORY & ENDOCRINE TESTING:
+* Serum Insulin-like Growth Factor 1 (IGF-1): 182 ng/mL (Normal age-adjusted reference: 75-215 ng/mL; normalized from preoperative 640 ng/mL).
+* Oral Glucose Tolerance Test (OGTT) with Growth Hormone:
+  * Fasting GH: 0.6 ng/mL.
+  * Nadir GH at 120 minutes post-75g glucose: 0.28 ng/mL (Normal suppression is < 0.4 ng/mL; confirms biochemical cure).
+* Anterior Pituitary Axis:
+  * Morning Cortisol: 14.2 mcg/dL (intact adrenal axis).
+  * Free T4: 1.1 ng/dL | TSH: 1.6 mIU/L (euthyroid).
+  * Total Testosterone: 440 ng/dL (normal).
+
+ASSESSMENT & PLAN:
+Acromegaly in complete biochemical remission following transsphenoidal surgery. Intact anterior pituitary hormone axes.
+1. Surveillance: No adjuvant medical therapy (somatostatin receptor ligands or pegvisomant) required.
+2. Imaging: Scheduled routine 1-year surveillance contrast-enhanced pituitary MRI in 6 months to confirm complete tumor excision without recurrence.
+3. Follow-up: Recheck IGF-1 in 6 months alongside MRI review.

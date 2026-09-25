@@ -1,0 +1,38 @@
+RECORD 82 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (CARDIOLOGY)
+
+PATIENT: Synthetic-082 | AGE: 66 | SEX: F | DATE: 2028-08-19
+REASON FOR ENCOUNTER: Follow-up of resistant hypertension and hyperaldosteronism workup.
+
+SUBJECTIVE:
+The patient is a 66-year-old female with essential hypertension refractory to four concurrent antihypertensive medications at maximal tolerated doses. She reports occasional muscle weakness and fatigue. Denies headaches, visual disturbances, chest pain, or palpitations. Home blood pressure measurements consistently average 155-170 / 92-100 mmHg.
+
+CURRENT MEDICATIONS:
+* Losartan 100 mg PO daily
+* Amlodipine 10 mg PO daily
+* Chlorthalidone 25 mg PO daily
+* Carvedilol 25 mg PO BID
+
+OBJECTIVE:
+Vitals: BP 162/96 mmHg (verified in both arms), HR 64 bpm regular, BMI 27.2 kg/m^2.
+Physical Exam:
+* Fundi: Mild arteriolar narrowing, no papilledema.
+* Cardiovascular: Regular rhythm, S4 present, no carotid or renal artery bruits.
+* Extremities: Trace pretibial edema bilaterally.
+
+LABORATORY INVESTIGATIONS:
+* Serum Sodium: 143 mEq/L
+* Serum Potassium: 3.1 mEq/L (Persistent hypokalemia despite potassium repletion)
+* Serum Creatinine: 0.84 mg/dL
+* Plasma Aldosterone Concentration (PAC): 38 ng/dL
+* Plasma Renin Activity (PRA): 0.3 ng/mL/hr
+* Aldosterone-to-Renin Ratio (ARR): 126 (Normal < 20; strongly positive screen for primary aldosteronism).
+
+ASSESSMENT & PLAN:
+Resistant hypertension with hypokalemia and markedly elevated ARR, highly suspicious for Primary Aldosteronism (Conn's Syndrome).
+1. Diagnostic Confirmation:
+   * Perform oral sodium loading confirmatory test vs. 24-hour urine aldosterone excretion test.
+   * Scheduled non-contrast and IV contrast adrenal protocol CT to assess for solitary adrenal adenoma vs. bilateral adrenal hyperplasia.
+2. Targeted Pharmacotherapy:
+   * Initiate Spironolactone (mineralocorticoid receptor antagonist) 25 mg PO daily, titrating to 50 mg daily.
+   * Discontinue Chlorthalidone to prevent further potassium wasting.
+3. Monitoring: Recheck serum potassium and creatinine in 2 weeks. If unilateral adrenal adenoma is confirmed on imaging, refer for adrenal venous sampling (AVS) prior to laparoscopic adrenalectomy.

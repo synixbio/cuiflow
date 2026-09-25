@@ -1,0 +1,37 @@
+RECORD 44 | TYPE: CONSULTATION NOTE (NEPHROLOGY)
+
+PATIENT: Synthetic-044 | AGE: 58 | SEX: M | CONSULTANT: Dr. Kevin O'Donnell, MD
+REQUESTING SERVICE: Pulmonary Medicine
+REASON FOR CONSULTATION: Rapidly Progressive Glomerulonephritis (RPGN) with pulmonary hemorrhage.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 58-year-old male admitted with 2 weeks of progressive fatigue, dark smoky tea-colored urine, and 2 days of hemoptysis and dyspnea. Initial chest radiograph and high-resolution CT chest revealed diffuse bilateral alveolar ground-glass infiltrates. Serum creatinine has doubled in the last 48 hours from 2.1 to 4.4 mg/dL.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 162/96 mmHg, HR 90 bpm, RR 24 bpm, SpO2 92% on 3L nasal cannula.
+General: Moderately tachypneic, pale, non-toxic.
+Respiratory: Coarse crackles over bilateral mid and lower lung fields.
+Cardiovascular: Normal S1/S2, trace bilateral pretibial edema.
+Skin: Palpable non-blanching purpura over lower extremities.
+
+LABORATORY INVESTIGATIONS:
+* Serum Creatinine: 4.4 mg/dL (Baseline 1.0 mg/dL one month ago).
+* Urinalysis: 3+ blood, 3+ protein (>300 mg/dL).
+* Urine Microscopy: Dysmorphic red blood cells, > 25 RBCs/HPF, and multiple cellular RBC casts confirmed.
+* Serologies:
+  * Anti-Proteinase 3 (PR3-ANCA / c-ANCA): > 100 IU/mL (Strongly Positive)
+  * Anti-Myeloperoxidase (MPO-ANCA): Negative
+  * Anti-Glomerular Basement Membrane (Anti-GBM): Negative
+  * Complement C3: 98 mg/dL, C4: 26 mg/dL (Normal)
+
+IMPRESSION:
+Pulmonary-Renal Syndrome characterized by Rapidly Progressive Glomerulonephritis and diffuse alveolar hemorrhage secondary to Granulomatosis with Polyangiitis (GPA / PR3-ANCA vasculitis).
+
+RECOMMENDATIONS:
+1. High-Dose Pulse Immunosuppression:
+   * IV Methylprednisolone 1,000 mg daily for 3 consecutive days, followed by oral Prednisone 1 mg/kg/day.
+2. Induction Therapy:
+   * Rituximab infusion 375 mg/m^2 weekly x 4 doses (preferred over cyclophosphamide given preserved non-dialysis status).
+3. Urgent Renal Biopsy: Scheduled for tomorrow under interventional radiology guidance to determine chronicity vs active crescentic glomerulonephritis.
+4. Pneumocystis jirovecii Prophylaxis: Initiate trimethoprim-sulfamethoxazole (TMP-SMX) 800/160 mg three times weekly.
+5. Daily renal panels, urine output monitoring, and respiratory status checks.

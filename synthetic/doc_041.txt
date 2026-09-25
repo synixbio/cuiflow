@@ -1,0 +1,26 @@
+RECORD 41 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-041 | AGE: 47 | SEX: M | DATE: 2027-01-03 16:45
+CHIEF COMPLAINT: Sudden onset excruciating left flank pain radiating to the groin.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 47-year-old male who developed sudden, severe, colicky left flank pain 2 hours ago while sitting at his desk. The pain waxes and wanes, radiates anteriorly toward the left lower quadrant and ipsilateral testicle, and is rated 10/10. Accompanied by severe nausea and three episodes of non-bloody vomiting. He cannot find a comfortable position and is pacing the room. Denies fever, chills, previous history of nephrolithiasis, or gross hematuria.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 164/98 mmHg, HR 102 bpm, RR 22 bpm, Temp 36.9 C, SpO2 99% room air.
+General: Severe distress, writhing in pain on gurney.
+Abdomen: Soft, non-distended, flat, mild left lower quadrant tenderness without peritoneal signs.
+Back: Exquisite costovertebral angle (CVA) tenderness on the left side; right CVA non-tender.
+Genitourinary: Normal external male genitalia; left testicle descended, non-tender, normal lie, cremasteric reflex intact.
+
+LABS & IMAGING:
+* Urinalysis: Yellow, hazy, pH 5.5, microscopic hematuria (50-100 RBCs/HPF), negative leukocyte esterase, negative nitrites.
+* Serum Creatinine: 1.02 mg/dL | WBC: 8.8 x 10^3/uL.
+* Non-Contrast CT Abdomen and Pelvis: Demonstrates a 4.5-mm hyperdense calculus lodged at the left ureterovesical junction (UVJ) with mild left-sided hydroureter and hydronephrosis. Perinephric stranding noted. No bilateral calculi or secondary infection signs.
+
+ASSESSMENT & PLAN:
+Acute left ureteral colic secondary to a 4.5-mm left UVJ calculus with mild hydronephrosis; non-obstructive infection ruled out.
+1. Analgesia: IV Ketorolac 30 mg administered with marked relief (pain down to 2/10); IV Ondansetron 4 mg for nausea.
+2. Medical Expulsive Therapy: Initiate Tamsulosin 0.4 mg PO daily to facilitate spontaneous stone expulsion.
+3. Hydration: IV 1 liter Normal Saline; encouraged oral hydration upon discharge (2-3 L/day).
+4. Disposition: Discharged home with urine strainer, oral Hydrocodone-Acetaminophen 5/325 mg for breakthrough colic, and outpatient urology follow-up within 7-10 days.

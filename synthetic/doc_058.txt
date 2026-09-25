@@ -1,0 +1,33 @@
+RECORD 58 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (RHEUMATOLOGY)
+
+PATIENT: Synthetic-058 | AGE: 33 | SEX: F | DATE: 2027-08-14
+REASON FOR ENCOUNTER: Management of Systemic Lupus Erythematosus (SLE) and lupus nephritis monitoring.
+
+SUBJECTIVE:
+The patient is a 33-year-old female with a 4-year history of SLE (ANA positive, anti-dsDNA positive, historic malar rash and polyarthritis) who presents for regular quarterly follow-up. She reports feeling reasonably well with mild morning finger stiffness lasting 20 minutes. Denies new rashes, oral ulcers, chest pain, shortness of breath, foamy urine, or peripheral edema. Compliant with Hydroxychloroquine and Mycophenolate Mofetil.
+
+OBJECTIVE:
+Vitals: BP 122/76 mmHg, HR 70 bpm, RR 14 bpm, Wt 61.5 kg.
+Physical Exam:
+* Skin: No active malar rash, discoid lesions, or photosensitivity eruptions.
+* Joints: No active synovitis, warmth, or effusions in bilateral MCPs, PIPs, wrists, or knees.
+* Cardiovascular/Pulmonary: Heart sounds normal; lungs clear to auscultation.
+* Extremities: No pretibial or ankle edema.
+
+LABORATORY MONITORING:
+* Complete Blood Count: WBC 4.8 x 10^3/uL, Hemoglobin 12.4 g/dL, Platelets 220 x 10^3/uL.
+* Comprehensive Metabolic Panel: Creatinine 0.72 mg/dL, eGFR >90 mL/min, normal electrolytes and AST/ALT.
+* SLE Disease Activity Markers:
+  * Anti-dsDNA: 18 IU/mL (mildly elevated, trending down from 42 IU/mL).
+  * Complement C3: 88 mg/dL (Normal: 80-160, normalized from 68).
+  * Complement C4: 18 mg/dL (Normal).
+* Urinalysis: Clear, negative protein, negative blood, no active cellular casts.
+* Urine Protein-to-Creatinine Ratio: 0.18 mg/mg (Normal: < 0.20).
+
+ASSESSMENT & PLAN:
+Systemic Lupus Erythematosus, clinically quiescent with well-controlled disease activity and no active renal involvement.
+1. Maintenance Pharmacotherapy:
+   * Continue Hydroxychloroquine 200 mg PO daily (annual ophthalmologic visual field and OCT screening verified up-to-date 2 months ago).
+   * Continue Mycophenolate Mofetil 1,000 mg PO BID.
+2. Health Maintenance: Reminded patient regarding daily broad-spectrum sunblock (SPF 50+) and avoidance of UV exposure.
+3. Follow-up: Recheck labs and clinical exam in 3 months.

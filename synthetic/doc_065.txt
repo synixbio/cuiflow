@@ -1,0 +1,31 @@
+RECORD 65 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (CARDIOLOGY)
+
+PATIENT: Synthetic-065 | AGE: 58 | SEX: F | DATE: 2027-12-01
+REASON FOR ENCOUNTER: Management of Hypertrophic Cardiomyopathy (HCM).
+
+SUBJECTIVE:
+The patient is a 58-year-old female with known non-obstructive hypertrophic cardiomyopathy diagnosed 3 years ago. She presents for annual clinical review. Over the past 6 months, she notes mild increase in exertional dyspnea when walking up steep hills. Denies palpitations, chest pressure, orthopnea, presyncope, or syncope. Family history is significant for sudden unexplained death in a maternal uncle at age 34.
+
+OBJECTIVE:
+Vitals: BP 124/76 mmHg, HR 62 bpm regular, RR 14 bpm, SpO2 99% room air.
+Physical Exam:
+* Cardiovascular: Normal carotid pulse upstroke. Prominent apical impulse. Soft 2/6 harsh systolic ejection murmur heard along the left sternal border; murmur intensifies with Valsalva strain and reduces in intensity with passive leg raise (consistent with dynamic LVOT obstruction).
+* Pulmonary: Lungs clear bilaterally.
+* Extremities: No edema.
+
+CARDIAC INVESTIGATIONS:
+* Transthoracic Echocardiogram (Today):
+  * Asymmetric septal hypertrophy with maximal interventricular septal wall thickness of 22 mm.
+  * Systolic Anterior Motion (SAM) of the anterior mitral valve leaflet present.
+  * Resting LVOT peak gradient: 18 mmHg; dynamic gradient with Valsalva maneuver: 46 mmHg.
+  * LVEF: 68% (hyperdynamic).
+* 48-Hour Holter Monitor: Sinus rhythm throughout; one asymptomatic 4-beat run of non-sustained ventricular tachycardia (NSVT) at 140 bpm.
+
+ASSESSMENT & PLAN:
+Hypertrophic Obstructive Cardiomyopathy (HOCM) with dynamic LVOT obstruction, family history of sudden death, and documented non-sustained VT.
+1. Medical Therapy: Titrate Metoprolol Succinate from 50 mg to 100 mg PO daily to reduce dynamic gradient and prevent arrhythmias.
+2. Sudden Cardiac Death Risk Stratification:
+   * Assessed ESC HCM Risk-SCD: 5-year risk calculated at 6.4% (high risk due to maximal wall thickness > 20 mm, documented NSVT, and family history of sudden death).
+   * Recommendation: Primary prevention Implantable Cardioverter-Defibrillator (ICD) placement indicated.
+3. Patient Discussion: Discussed ICD risks/benefits; patient agreed to proceed with electrophysiology consult for transvenous dual-chamber ICD implantation.
+4. Genetic Counseling: Recommended first-degree relatives undergo clinical screening (ECG and echocardiogram) and offered cascade genetic testing.

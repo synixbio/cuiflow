@@ -1,0 +1,26 @@
+RECORD 28 | TYPE: OUTPATIENT PEDIATRIC CLINICAL NOTE
+
+PATIENT: Synthetic-028 | AGE: 6 years | SEX: M | DATE: 2026-07-08
+REASON FOR VISIT: Well-child examination and ADHD evaluation.
+
+SUBJECTIVE:
+The patient's mother presents for his 6-year health maintenance visit. She expresses concern regarding behavioral reports from his kindergarten teacher, who notes marked difficulty remaining seated, constant fidgeting, interrupting peers, and inability to complete quiet tasks. Symptoms have been present since preschool but have become more problematic in the structured kindergarten environment. Mother notes similar behavior at home (runs excessively, loses toys, struggles with multi-step directions). Sleep is restful; appetite is good. No tics noted.
+
+PHYSICAL EXAMINATION:
+Height: 116 cm (55th percentile), Weight: 20.8 kg (50th percentile), BP: 98/62 mmHg, HR: 86 bpm.
+General: Active, curious, well-nourished young male. Constantly exploring the examination room, touches medical instruments, cooperative when redirected.
+HEENT: Normocephalic, atraumatic, tympanic membranes clear bilaterally, vision screen 20/20 bilaterally.
+Cardiopulmonary: Regular rate and rhythm, no murmurs. Lungs clear.
+Neuromuscular: Age-appropriate gross and fine motor skills. Cranial nerves II-XII intact. DTRs 2+ symmetric.
+
+SCREENING TOOL DATA:
+* Vanderbilt ADHD Diagnostic Parent Rating Scale: 7/9 inattention items endorsed, 8/9 hyperactive/impulsive items endorsed.
+* Vanderbilt ADHD Diagnostic Teacher Rating Scale: Confirms elevated scores across classroom behaviors.
+
+ASSESSMENT & PLAN:
+1. Attention-Deficit/Hyperactivity Disorder (ADHD), Combined Presentation.
+2. Behavioral Interventions: Discussed school accommodations under a 504 plan (frequent breaks, preferential seating, visual schedules). Referred to behavioral child psychologist for parent training in behavior management.
+3. Pharmacotherapy: Following parent discussion regarding educational distress, decided to initiate Methylphenidate extended-release (Concerta) 18 mg PO once daily in the morning after breakfast.
+   * Monitored baseline vitals and charted growth percentiles.
+   * Emphasized potential adverse effects: appetite suppression, weight loss, sleep latency delay, and palpitations.
+4. Follow-up: In-person appointment in 4 weeks for blood pressure, pulse, weight check, and treatment response evaluation.

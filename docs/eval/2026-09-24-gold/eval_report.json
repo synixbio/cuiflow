@@ -1,0 +1,3178 @@
+{
+  "cuiflow_version": "0.1.0",
+  "created_at": "2026-09-25T05:12:39Z",
+  "reference": {
+    "name": "gold.jsonl",
+    "kind": "cuiflow",
+    "documents": 30,
+    "caveat": "Reference sources: adjudicated:claude-draft. Not human-annotated: scores are agreement with this reference, not accuracy."
+  },
+  "scope_groups": [
+    "ANATOMY",
+    "DISORDER",
+    "DRUG",
+    "FINDING",
+    "PROCEDURE"
+  ],
+  "config": {
+    "mode": "single:umlsmatch",
+    "profile": "strict",
+    "overlaps": "keep",
+    "conflict_policy": "prefer:umlsmatch",
+    "semantic_groups": [],
+    "code_systems": [],
+    "ancestor_depth": 0,
+    "include_ingredients": false,
+    "include_text": false,
+    "mention_filter": "none",
+    "mmlite_negation": "negex",
+    "mmlite_index": "ivf",
+    "umlsmatch_db": "umls_sno_rx.sqlite",
+    "terminology_db": null,
+    "extra": {}
+  },
+  "engines": {
+    "mmlite": {
+      "name": "mmlite",
+      "version": "0.1.3",
+      "dictionary": "ivf",
+      "umls_release": null,
+      "settings": {
+        "negation": "negex",
+        "keep_subsumed": false
+      }
+    },
+    "umlsmatch": {
+      "name": "umlsmatch",
+      "version": "0.1.0",
+      "dictionary": "umls_sno_rx.sqlite",
+      "umls_release": null,
+      "settings": {
+        "profile": "strict",
+        "assessed_attributes": [
+          "history_of",
+          "negated",
+          "subject",
+          "uncertain"
+        ]
+      }
+    }
+  },
+  "modes": {
+    "single:mmlite": {
+      "reference_mentions": 843,
+      "predicted_mentions": 5818,
+      "overlap": {
+        "precision": 0.1038,
+        "recall": 0.7165,
+        "f1": 0.1814,
+        "tp": 604,
+        "fp": 5214,
+        "fn": 239
+      },
+      "exact": {
+        "precision": 0.1031,
+        "recall": 0.7117,
+        "f1": 0.1802,
+        "tp": 600,
+        "fp": 5218,
+        "fn": 243
+      },
+      "cui_set": {
+        "precision": 0.1126,
+        "recall": 0.7337,
+        "f1": 0.1953,
+        "tp": 529,
+        "fp": 4167,
+        "fn": 192
+      },
+      "attributes": {
+        "conditional": {
+          "reference_assessed": 604,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 59
+        },
+        "history_of": {
+          "reference_assessed": 604,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 51
+        },
+        "negated": {
+          "reference_assessed": 604,
+          "coverage": 1.0,
+          "precision": 0.9891,
+          "recall": 0.7054,
+          "f1": 0.8235,
+          "tp": 91,
+          "fp": 1,
+          "fn": 38
+        },
+        "subject": {
+          "reference_assessed": 604,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 43
+        },
+        "uncertain": {
+          "reference_assessed": 604,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 26
+        }
+      },
+      "seconds": 2.1,
+      "per_document": {
+        "doc_01.txt": {
+          "overlap": {
+            "precision": 0.0996,
+            "recall": 0.6098,
+            "f1": 0.1712,
+            "tp": 25,
+            "fp": 226,
+            "fn": 16
+          },
+          "cui_set": {
+            "precision": 0.1132,
+            "recall": 0.6316,
+            "f1": 0.192,
+            "tp": 24,
+            "fp": 188,
+            "fn": 14
+          }
+        },
+        "doc_02.txt": {
+          "overlap": {
+            "precision": 0.1139,
+            "recall": 0.7931,
+            "f1": 0.1991,
+            "tp": 23,
+            "fp": 179,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.1458,
+            "recall": 0.84,
+            "f1": 0.2485,
+            "tp": 21,
+            "fp": 123,
+            "fn": 4
+          }
+        },
+        "doc_03.txt": {
+          "overlap": {
+            "precision": 0.0892,
+            "recall": 0.76,
+            "f1": 0.1597,
+            "tp": 19,
+            "fp": 194,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.099,
+            "recall": 0.76,
+            "f1": 0.1751,
+            "tp": 19,
+            "fp": 173,
+            "fn": 6
+          }
+        },
+        "doc_04.txt": {
+          "overlap": {
+            "precision": 0.095,
+            "recall": 0.7308,
+            "f1": 0.1681,
+            "tp": 19,
+            "fp": 181,
+            "fn": 7
+          },
+          "cui_set": {
+            "precision": 0.087,
+            "recall": 0.7273,
+            "f1": 0.1553,
+            "tp": 16,
+            "fp": 168,
+            "fn": 6
+          }
+        },
+        "doc_05.txt": {
+          "overlap": {
+            "precision": 0.1278,
+            "recall": 0.6042,
+            "f1": 0.2109,
+            "tp": 29,
+            "fp": 198,
+            "fn": 19
+          },
+          "cui_set": {
+            "precision": 0.1413,
+            "recall": 0.619,
+            "f1": 0.2301,
+            "tp": 26,
+            "fp": 158,
+            "fn": 16
+          }
+        },
+        "doc_06.txt": {
+          "overlap": {
+            "precision": 0.055,
+            "recall": 0.7333,
+            "f1": 0.1023,
+            "tp": 11,
+            "fp": 189,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.0637,
+            "recall": 0.7692,
+            "f1": 0.1176,
+            "tp": 10,
+            "fp": 147,
+            "fn": 3
+          }
+        },
+        "doc_07.txt": {
+          "overlap": {
+            "precision": 0.0632,
+            "recall": 0.5312,
+            "f1": 0.113,
+            "tp": 17,
+            "fp": 252,
+            "fn": 15
+          },
+          "cui_set": {
+            "precision": 0.0859,
+            "recall": 0.5862,
+            "f1": 0.1498,
+            "tp": 17,
+            "fp": 181,
+            "fn": 12
+          }
+        },
+        "doc_08.txt": {
+          "overlap": {
+            "precision": 0.1214,
+            "recall": 0.7143,
+            "f1": 0.2075,
+            "tp": 25,
+            "fp": 181,
+            "fn": 10
+          },
+          "cui_set": {
+            "precision": 0.1221,
+            "recall": 0.7241,
+            "f1": 0.209,
+            "tp": 21,
+            "fp": 151,
+            "fn": 8
+          }
+        },
+        "doc_09.txt": {
+          "overlap": {
+            "precision": 0.1174,
+            "recall": 0.7838,
+            "f1": 0.2042,
+            "tp": 29,
+            "fp": 218,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.1194,
+            "recall": 0.75,
+            "f1": 0.206,
+            "tp": 24,
+            "fp": 177,
+            "fn": 8
+          }
+        },
+        "doc_10.txt": {
+          "overlap": {
+            "precision": 0.1046,
+            "recall": 0.7353,
+            "f1": 0.1832,
+            "tp": 25,
+            "fp": 214,
+            "fn": 9
+          },
+          "cui_set": {
+            "precision": 0.102,
+            "recall": 0.7692,
+            "f1": 0.1802,
+            "tp": 20,
+            "fp": 176,
+            "fn": 6
+          }
+        },
+        "doc_11.txt": {
+          "overlap": {
+            "precision": 0.1304,
+            "recall": 0.6364,
+            "f1": 0.2165,
+            "tp": 21,
+            "fp": 140,
+            "fn": 12
+          },
+          "cui_set": {
+            "precision": 0.121,
+            "recall": 0.6,
+            "f1": 0.2013,
+            "tp": 15,
+            "fp": 109,
+            "fn": 10
+          }
+        },
+        "doc_12.txt": {
+          "overlap": {
+            "precision": 0.0829,
+            "recall": 0.6522,
+            "f1": 0.1471,
+            "tp": 15,
+            "fp": 166,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.0855,
+            "recall": 0.619,
+            "f1": 0.1503,
+            "tp": 13,
+            "fp": 139,
+            "fn": 8
+          }
+        },
+        "doc_13.txt": {
+          "overlap": {
+            "precision": 0.0802,
+            "recall": 0.6538,
+            "f1": 0.1429,
+            "tp": 17,
+            "fp": 195,
+            "fn": 9
+          },
+          "cui_set": {
+            "precision": 0.0926,
+            "recall": 0.6522,
+            "f1": 0.1622,
+            "tp": 15,
+            "fp": 147,
+            "fn": 8
+          }
+        },
+        "doc_14.txt": {
+          "overlap": {
+            "precision": 0.0613,
+            "recall": 0.5714,
+            "f1": 0.1107,
+            "tp": 16,
+            "fp": 245,
+            "fn": 12
+          },
+          "cui_set": {
+            "precision": 0.0762,
+            "recall": 0.6154,
+            "f1": 0.1356,
+            "tp": 16,
+            "fp": 194,
+            "fn": 10
+          }
+        },
+        "doc_15.txt": {
+          "overlap": {
+            "precision": 0.1017,
+            "recall": 0.6923,
+            "f1": 0.1773,
+            "tp": 18,
+            "fp": 159,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.1069,
+            "recall": 0.7391,
+            "f1": 0.1868,
+            "tp": 17,
+            "fp": 142,
+            "fn": 6
+          }
+        },
+        "doc_16.txt": {
+          "overlap": {
+            "precision": 0.0777,
+            "recall": 0.6389,
+            "f1": 0.1386,
+            "tp": 23,
+            "fp": 273,
+            "fn": 13
+          },
+          "cui_set": {
+            "precision": 0.1023,
+            "recall": 0.6667,
+            "f1": 0.1774,
+            "tp": 22,
+            "fp": 193,
+            "fn": 11
+          }
+        },
+        "doc_17.txt": {
+          "overlap": {
+            "precision": 0.0579,
+            "recall": 0.6,
+            "f1": 0.1056,
+            "tp": 18,
+            "fp": 293,
+            "fn": 12
+          },
+          "cui_set": {
+            "precision": 0.0723,
+            "recall": 0.6538,
+            "f1": 0.1303,
+            "tp": 17,
+            "fp": 218,
+            "fn": 9
+          }
+        },
+        "doc_18.txt": {
+          "overlap": {
+            "precision": 0.0852,
+            "recall": 0.6216,
+            "f1": 0.1498,
+            "tp": 23,
+            "fp": 247,
+            "fn": 14
+          },
+          "cui_set": {
+            "precision": 0.0995,
+            "recall": 0.7241,
+            "f1": 0.175,
+            "tp": 21,
+            "fp": 190,
+            "fn": 8
+          }
+        },
+        "doc_19.txt": {
+          "overlap": {
+            "precision": 0.0293,
+            "recall": 0.3529,
+            "f1": 0.0541,
+            "tp": 6,
+            "fp": 199,
+            "fn": 11
+          },
+          "cui_set": {
+            "precision": 0.035,
+            "recall": 0.4167,
+            "f1": 0.0645,
+            "tp": 5,
+            "fp": 138,
+            "fn": 7
+          }
+        },
+        "doc_20.txt": {
+          "overlap": {
+            "precision": 0.0969,
+            "recall": 0.8,
+            "f1": 0.1728,
+            "tp": 28,
+            "fp": 261,
+            "fn": 7
+          },
+          "cui_set": {
+            "precision": 0.0991,
+            "recall": 0.8077,
+            "f1": 0.1765,
+            "tp": 21,
+            "fp": 191,
+            "fn": 5
+          }
+        },
+        "doc_21.txt": {
+          "overlap": {
+            "precision": 0.128,
+            "recall": 0.8421,
+            "f1": 0.2222,
+            "tp": 16,
+            "fp": 109,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.13,
+            "recall": 0.8667,
+            "f1": 0.2261,
+            "tp": 13,
+            "fp": 87,
+            "fn": 2
+          }
+        },
+        "doc_22.txt": {
+          "overlap": {
+            "precision": 0.188,
+            "recall": 0.8929,
+            "f1": 0.3106,
+            "tp": 25,
+            "fp": 108,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.1698,
+            "recall": 0.8571,
+            "f1": 0.2835,
+            "tp": 18,
+            "fp": 88,
+            "fn": 3
+          }
+        },
+        "doc_23.txt": {
+          "overlap": {
+            "precision": 0.1296,
+            "recall": 0.8235,
+            "f1": 0.224,
+            "tp": 14,
+            "fp": 94,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.1327,
+            "recall": 0.8125,
+            "f1": 0.2281,
+            "tp": 13,
+            "fp": 85,
+            "fn": 3
+          }
+        },
+        "doc_24.txt": {
+          "overlap": {
+            "precision": 0.2063,
+            "recall": 0.8667,
+            "f1": 0.3333,
+            "tp": 26,
+            "fp": 100,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.1892,
+            "recall": 0.84,
+            "f1": 0.3088,
+            "tp": 21,
+            "fp": 90,
+            "fn": 4
+          }
+        },
+        "doc_25.txt": {
+          "overlap": {
+            "precision": 0.163,
+            "recall": 0.7143,
+            "f1": 0.2655,
+            "tp": 15,
+            "fp": 77,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.1705,
+            "recall": 0.7895,
+            "f1": 0.2804,
+            "tp": 15,
+            "fp": 73,
+            "fn": 4
+          }
+        },
+        "doc_26.txt": {
+          "overlap": {
+            "precision": 0.2439,
+            "recall": 0.8333,
+            "f1": 0.3774,
+            "tp": 20,
+            "fp": 62,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.225,
+            "recall": 0.8182,
+            "f1": 0.3529,
+            "tp": 18,
+            "fp": 62,
+            "fn": 4
+          }
+        },
+        "doc_27.txt": {
+          "overlap": {
+            "precision": 0.1765,
+            "recall": 0.7778,
+            "f1": 0.2877,
+            "tp": 21,
+            "fp": 98,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.1923,
+            "recall": 0.8333,
+            "f1": 0.3125,
+            "tp": 20,
+            "fp": 84,
+            "fn": 4
+          }
+        },
+        "doc_28.txt": {
+          "overlap": {
+            "precision": 0.1164,
+            "recall": 1.0,
+            "f1": 0.2086,
+            "tp": 17,
+            "fp": 129,
+            "fn": 0
+          },
+          "cui_set": {
+            "precision": 0.1339,
+            "recall": 1.0,
+            "f1": 0.2362,
+            "tp": 15,
+            "fp": 97,
+            "fn": 0
+          }
+        },
+        "doc_29.txt": {
+          "overlap": {
+            "precision": 0.1667,
+            "recall": 0.875,
+            "f1": 0.28,
+            "tp": 21,
+            "fp": 105,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.1593,
+            "recall": 0.9,
+            "f1": 0.2707,
+            "tp": 18,
+            "fp": 95,
+            "fn": 2
+          }
+        },
+        "doc_30.txt": {
+          "overlap": {
+            "precision": 0.1528,
+            "recall": 0.9565,
+            "f1": 0.2635,
+            "tp": 22,
+            "fp": 122,
+            "fn": 1
+          },
+          "cui_set": {
+            "precision": 0.1488,
+            "recall": 0.9474,
+            "f1": 0.2571,
+            "tp": 18,
+            "fp": 103,
+            "fn": 1
+          }
+        }
+      }
+    },
+    "single:umlsmatch": {
+      "reference_mentions": 843,
+      "predicted_mentions": 2928,
+      "overlap": {
+        "precision": 0.2176,
+        "recall": 0.7556,
+        "f1": 0.3378,
+        "tp": 637,
+        "fp": 2291,
+        "fn": 206
+      },
+      "exact": {
+        "precision": 0.2165,
+        "recall": 0.7521,
+        "f1": 0.3363,
+        "tp": 634,
+        "fp": 2294,
+        "fn": 209
+      },
+      "cui_set": {
+        "precision": 0.2536,
+        "recall": 0.7725,
+        "f1": 0.3819,
+        "tp": 557,
+        "fp": 1639,
+        "fn": 164
+      },
+      "attributes": {
+        "conditional": {
+          "reference_assessed": 637,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 60
+        },
+        "history_of": {
+          "reference_assessed": 637,
+          "coverage": 1.0,
+          "precision": 0.7083,
+          "recall": 0.3036,
+          "f1": 0.425,
+          "tp": 17,
+          "fp": 7,
+          "fn": 39
+        },
+        "negated": {
+          "reference_assessed": 637,
+          "coverage": 1.0,
+          "precision": 0.9746,
+          "recall": 0.8712,
+          "f1": 0.92,
+          "tp": 115,
+          "fp": 3,
+          "fn": 17
+        },
+        "subject": {
+          "reference_assessed": 637,
+          "coverage": 1.0,
+          "precision": 0.7778,
+          "recall": 0.5,
+          "f1": 0.6087,
+          "tp": 21,
+          "fp": 6,
+          "fn": 21
+        },
+        "uncertain": {
+          "reference_assessed": 637,
+          "coverage": 1.0,
+          "precision": 0.8636,
+          "recall": 0.7037,
+          "f1": 0.7755,
+          "tp": 19,
+          "fp": 3,
+          "fn": 8
+        }
+      },
+      "seconds": 2.59,
+      "per_document": {
+        "doc_01.txt": {
+          "overlap": {
+            "precision": 0.2188,
+            "recall": 0.6829,
+            "f1": 0.3314,
+            "tp": 28,
+            "fp": 100,
+            "fn": 13
+          },
+          "cui_set": {
+            "precision": 0.2653,
+            "recall": 0.6842,
+            "f1": 0.3824,
+            "tp": 26,
+            "fp": 72,
+            "fn": 12
+          }
+        },
+        "doc_02.txt": {
+          "overlap": {
+            "precision": 0.2549,
+            "recall": 0.8966,
+            "f1": 0.3969,
+            "tp": 26,
+            "fp": 76,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.3067,
+            "recall": 0.92,
+            "f1": 0.46,
+            "tp": 23,
+            "fp": 52,
+            "fn": 2
+          }
+        },
+        "doc_03.txt": {
+          "overlap": {
+            "precision": 0.198,
+            "recall": 0.8,
+            "f1": 0.3175,
+            "tp": 20,
+            "fp": 81,
+            "fn": 5
+          },
+          "cui_set": {
+            "precision": 0.2174,
+            "recall": 0.8,
+            "f1": 0.3419,
+            "tp": 20,
+            "fp": 72,
+            "fn": 5
+          }
+        },
+        "doc_04.txt": {
+          "overlap": {
+            "precision": 0.2051,
+            "recall": 0.6154,
+            "f1": 0.3077,
+            "tp": 16,
+            "fp": 62,
+            "fn": 10
+          },
+          "cui_set": {
+            "precision": 0.2,
+            "recall": 0.6364,
+            "f1": 0.3043,
+            "tp": 14,
+            "fp": 56,
+            "fn": 8
+          }
+        },
+        "doc_05.txt": {
+          "overlap": {
+            "precision": 0.2727,
+            "recall": 0.6875,
+            "f1": 0.3905,
+            "tp": 33,
+            "fp": 88,
+            "fn": 15
+          },
+          "cui_set": {
+            "precision": 0.3523,
+            "recall": 0.7381,
+            "f1": 0.4769,
+            "tp": 31,
+            "fp": 57,
+            "fn": 11
+          }
+        },
+        "doc_06.txt": {
+          "overlap": {
+            "precision": 0.1587,
+            "recall": 0.6667,
+            "f1": 0.2564,
+            "tp": 10,
+            "fp": 53,
+            "fn": 5
+          },
+          "cui_set": {
+            "precision": 0.1731,
+            "recall": 0.6923,
+            "f1": 0.2769,
+            "tp": 9,
+            "fp": 43,
+            "fn": 4
+          }
+        },
+        "doc_07.txt": {
+          "overlap": {
+            "precision": 0.119,
+            "recall": 0.4688,
+            "f1": 0.1899,
+            "tp": 15,
+            "fp": 111,
+            "fn": 17
+          },
+          "cui_set": {
+            "precision": 0.1546,
+            "recall": 0.5172,
+            "f1": 0.2381,
+            "tp": 15,
+            "fp": 82,
+            "fn": 14
+          }
+        },
+        "doc_08.txt": {
+          "overlap": {
+            "precision": 0.24,
+            "recall": 0.8571,
+            "f1": 0.375,
+            "tp": 30,
+            "fp": 95,
+            "fn": 5
+          },
+          "cui_set": {
+            "precision": 0.2376,
+            "recall": 0.8276,
+            "f1": 0.3692,
+            "tp": 24,
+            "fp": 77,
+            "fn": 5
+          }
+        },
+        "doc_09.txt": {
+          "overlap": {
+            "precision": 0.2417,
+            "recall": 0.7838,
+            "f1": 0.3694,
+            "tp": 29,
+            "fp": 91,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.3289,
+            "recall": 0.7812,
+            "f1": 0.463,
+            "tp": 25,
+            "fp": 51,
+            "fn": 7
+          }
+        },
+        "doc_10.txt": {
+          "overlap": {
+            "precision": 0.2577,
+            "recall": 0.7353,
+            "f1": 0.3817,
+            "tp": 25,
+            "fp": 72,
+            "fn": 9
+          },
+          "cui_set": {
+            "precision": 0.274,
+            "recall": 0.7692,
+            "f1": 0.404,
+            "tp": 20,
+            "fp": 53,
+            "fn": 6
+          }
+        },
+        "doc_11.txt": {
+          "overlap": {
+            "precision": 0.266,
+            "recall": 0.7576,
+            "f1": 0.3937,
+            "tp": 25,
+            "fp": 69,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.2597,
+            "recall": 0.8,
+            "f1": 0.3922,
+            "tp": 20,
+            "fp": 57,
+            "fn": 5
+          }
+        },
+        "doc_12.txt": {
+          "overlap": {
+            "precision": 0.2267,
+            "recall": 0.7391,
+            "f1": 0.3469,
+            "tp": 17,
+            "fp": 58,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.25,
+            "recall": 0.7143,
+            "f1": 0.3704,
+            "tp": 15,
+            "fp": 45,
+            "fn": 6
+          }
+        },
+        "doc_13.txt": {
+          "overlap": {
+            "precision": 0.2045,
+            "recall": 0.6923,
+            "f1": 0.3158,
+            "tp": 18,
+            "fp": 70,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.2388,
+            "recall": 0.6957,
+            "f1": 0.3556,
+            "tp": 16,
+            "fp": 51,
+            "fn": 7
+          }
+        },
+        "doc_14.txt": {
+          "overlap": {
+            "precision": 0.1681,
+            "recall": 0.6786,
+            "f1": 0.2695,
+            "tp": 19,
+            "fp": 94,
+            "fn": 9
+          },
+          "cui_set": {
+            "precision": 0.2022,
+            "recall": 0.6923,
+            "f1": 0.313,
+            "tp": 18,
+            "fp": 71,
+            "fn": 8
+          }
+        },
+        "doc_15.txt": {
+          "overlap": {
+            "precision": 0.2111,
+            "recall": 0.7308,
+            "f1": 0.3276,
+            "tp": 19,
+            "fp": 71,
+            "fn": 7
+          },
+          "cui_set": {
+            "precision": 0.2267,
+            "recall": 0.7391,
+            "f1": 0.3469,
+            "tp": 17,
+            "fp": 58,
+            "fn": 6
+          }
+        },
+        "doc_16.txt": {
+          "overlap": {
+            "precision": 0.1611,
+            "recall": 0.6667,
+            "f1": 0.2595,
+            "tp": 24,
+            "fp": 125,
+            "fn": 12
+          },
+          "cui_set": {
+            "precision": 0.2222,
+            "recall": 0.6667,
+            "f1": 0.3333,
+            "tp": 22,
+            "fp": 77,
+            "fn": 11
+          }
+        },
+        "doc_17.txt": {
+          "overlap": {
+            "precision": 0.1375,
+            "recall": 0.7333,
+            "f1": 0.2316,
+            "tp": 22,
+            "fp": 138,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.1947,
+            "recall": 0.8462,
+            "f1": 0.3165,
+            "tp": 22,
+            "fp": 91,
+            "fn": 4
+          }
+        },
+        "doc_18.txt": {
+          "overlap": {
+            "precision": 0.1857,
+            "recall": 0.7027,
+            "f1": 0.2938,
+            "tp": 26,
+            "fp": 114,
+            "fn": 11
+          },
+          "cui_set": {
+            "precision": 0.2447,
+            "recall": 0.7931,
+            "f1": 0.374,
+            "tp": 23,
+            "fp": 71,
+            "fn": 6
+          }
+        },
+        "doc_19.txt": {
+          "overlap": {
+            "precision": 0.0986,
+            "recall": 0.4118,
+            "f1": 0.1591,
+            "tp": 7,
+            "fp": 64,
+            "fn": 10
+          },
+          "cui_set": {
+            "precision": 0.1176,
+            "recall": 0.5,
+            "f1": 0.1905,
+            "tp": 6,
+            "fp": 45,
+            "fn": 6
+          }
+        },
+        "doc_20.txt": {
+          "overlap": {
+            "precision": 0.2256,
+            "recall": 0.8571,
+            "f1": 0.3571,
+            "tp": 30,
+            "fp": 103,
+            "fn": 5
+          },
+          "cui_set": {
+            "precision": 0.2079,
+            "recall": 0.8077,
+            "f1": 0.3307,
+            "tp": 21,
+            "fp": 80,
+            "fn": 5
+          }
+        },
+        "doc_21.txt": {
+          "overlap": {
+            "precision": 0.2093,
+            "recall": 0.9474,
+            "f1": 0.3429,
+            "tp": 18,
+            "fp": 68,
+            "fn": 1
+          },
+          "cui_set": {
+            "precision": 0.3125,
+            "recall": 1.0,
+            "f1": 0.4762,
+            "tp": 15,
+            "fp": 33,
+            "fn": 0
+          }
+        },
+        "doc_22.txt": {
+          "overlap": {
+            "precision": 0.321,
+            "recall": 0.9286,
+            "f1": 0.4771,
+            "tp": 26,
+            "fp": 55,
+            "fn": 2
+          },
+          "cui_set": {
+            "precision": 0.3704,
+            "recall": 0.9524,
+            "f1": 0.5333,
+            "tp": 20,
+            "fp": 34,
+            "fn": 1
+          }
+        },
+        "doc_23.txt": {
+          "overlap": {
+            "precision": 0.1724,
+            "recall": 0.8824,
+            "f1": 0.2885,
+            "tp": 15,
+            "fp": 72,
+            "fn": 2
+          },
+          "cui_set": {
+            "precision": 0.2778,
+            "recall": 0.9375,
+            "f1": 0.4286,
+            "tp": 15,
+            "fp": 39,
+            "fn": 1
+          }
+        },
+        "doc_24.txt": {
+          "overlap": {
+            "precision": 0.2667,
+            "recall": 0.8,
+            "f1": 0.4,
+            "tp": 24,
+            "fp": 66,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.2899,
+            "recall": 0.8,
+            "f1": 0.4255,
+            "tp": 20,
+            "fp": 49,
+            "fn": 5
+          }
+        },
+        "doc_25.txt": {
+          "overlap": {
+            "precision": 0.2121,
+            "recall": 0.6667,
+            "f1": 0.3218,
+            "tp": 14,
+            "fp": 52,
+            "fn": 7
+          },
+          "cui_set": {
+            "precision": 0.2453,
+            "recall": 0.6842,
+            "f1": 0.3611,
+            "tp": 13,
+            "fp": 40,
+            "fn": 6
+          }
+        },
+        "doc_26.txt": {
+          "overlap": {
+            "precision": 0.4762,
+            "recall": 0.8333,
+            "f1": 0.6061,
+            "tp": 20,
+            "fp": 22,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.5143,
+            "recall": 0.8182,
+            "f1": 0.6316,
+            "tp": 18,
+            "fp": 17,
+            "fn": 4
+          }
+        },
+        "doc_27.txt": {
+          "overlap": {
+            "precision": 0.2771,
+            "recall": 0.8519,
+            "f1": 0.4182,
+            "tp": 23,
+            "fp": 60,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.339,
+            "recall": 0.8333,
+            "f1": 0.4819,
+            "tp": 20,
+            "fp": 39,
+            "fn": 4
+          }
+        },
+        "doc_28.txt": {
+          "overlap": {
+            "precision": 0.2742,
+            "recall": 1.0,
+            "f1": 0.4304,
+            "tp": 17,
+            "fp": 45,
+            "fn": 0
+          },
+          "cui_set": {
+            "precision": 0.2885,
+            "recall": 1.0,
+            "f1": 0.4478,
+            "tp": 15,
+            "fp": 37,
+            "fn": 0
+          }
+        },
+        "doc_29.txt": {
+          "overlap": {
+            "precision": 0.2532,
+            "recall": 0.8333,
+            "f1": 0.3883,
+            "tp": 20,
+            "fp": 59,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.2464,
+            "recall": 0.85,
+            "f1": 0.382,
+            "tp": 17,
+            "fp": 52,
+            "fn": 3
+          }
+        },
+        "doc_30.txt": {
+          "overlap": {
+            "precision": 0.2692,
+            "recall": 0.913,
+            "f1": 0.4158,
+            "tp": 21,
+            "fp": 57,
+            "fn": 2
+          },
+          "cui_set": {
+            "precision": 0.3091,
+            "recall": 0.8947,
+            "f1": 0.4595,
+            "tp": 17,
+            "fp": 38,
+            "fn": 2
+          }
+        }
+      }
+    },
+    "ensemble:union": {
+      "reference_mentions": 843,
+      "predicted_mentions": 7077,
+      "overlap": {
+        "precision": 0.0959,
+        "recall": 0.8055,
+        "f1": 0.1715,
+        "tp": 679,
+        "fp": 6398,
+        "fn": 164
+      },
+      "exact": {
+        "precision": 0.0954,
+        "recall": 0.8007,
+        "f1": 0.1705,
+        "tp": 675,
+        "fp": 6402,
+        "fn": 168
+      },
+      "cui_set": {
+        "precision": 0.108,
+        "recall": 0.8155,
+        "f1": 0.1907,
+        "tp": 588,
+        "fp": 4857,
+        "fn": 133
+      },
+      "attributes": {
+        "conditional": {
+          "reference_assessed": 679,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 64
+        },
+        "history_of": {
+          "reference_assessed": 679,
+          "coverage": 0.9381,
+          "precision": 0.7083,
+          "recall": 0.2931,
+          "f1": 0.4146,
+          "tp": 17,
+          "fp": 7,
+          "fn": 41
+        },
+        "negated": {
+          "reference_assessed": 679,
+          "coverage": 1.0,
+          "precision": 0.9748,
+          "recall": 0.8657,
+          "f1": 0.917,
+          "tp": 116,
+          "fp": 3,
+          "fn": 18
+        },
+        "subject": {
+          "reference_assessed": 679,
+          "coverage": 0.9381,
+          "precision": 0.7778,
+          "recall": 0.4773,
+          "f1": 0.5915,
+          "tp": 21,
+          "fp": 6,
+          "fn": 23
+        },
+        "uncertain": {
+          "reference_assessed": 679,
+          "coverage": 0.9381,
+          "precision": 0.8636,
+          "recall": 0.6786,
+          "f1": 0.76,
+          "tp": 19,
+          "fp": 3,
+          "fn": 9
+        }
+      },
+      "seconds": 2.97,
+      "per_document": {
+        "doc_01.txt": {
+          "overlap": {
+            "precision": 0.0967,
+            "recall": 0.7073,
+            "f1": 0.1701,
+            "tp": 29,
+            "fp": 271,
+            "fn": 12
+          },
+          "cui_set": {
+            "precision": 0.1134,
+            "recall": 0.7105,
+            "f1": 0.1957,
+            "tp": 27,
+            "fp": 211,
+            "fn": 11
+          }
+        },
+        "doc_02.txt": {
+          "overlap": {
+            "precision": 0.1057,
+            "recall": 0.8966,
+            "f1": 0.1891,
+            "tp": 26,
+            "fp": 220,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.1337,
+            "recall": 0.92,
+            "f1": 0.2335,
+            "tp": 23,
+            "fp": 149,
+            "fn": 2
+          }
+        },
+        "doc_03.txt": {
+          "overlap": {
+            "precision": 0.0837,
+            "recall": 0.84,
+            "f1": 0.1522,
+            "tp": 21,
+            "fp": 230,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.095,
+            "recall": 0.84,
+            "f1": 0.1707,
+            "tp": 21,
+            "fp": 200,
+            "fn": 4
+          }
+        },
+        "doc_04.txt": {
+          "overlap": {
+            "precision": 0.0901,
+            "recall": 0.7692,
+            "f1": 0.1613,
+            "tp": 20,
+            "fp": 202,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.0837,
+            "recall": 0.7727,
+            "f1": 0.1511,
+            "tp": 17,
+            "fp": 186,
+            "fn": 5
+          }
+        },
+        "doc_05.txt": {
+          "overlap": {
+            "precision": 0.1224,
+            "recall": 0.7292,
+            "f1": 0.2096,
+            "tp": 35,
+            "fp": 251,
+            "fn": 13
+          },
+          "cui_set": {
+            "precision": 0.1468,
+            "recall": 0.7619,
+            "f1": 0.2462,
+            "tp": 32,
+            "fp": 186,
+            "fn": 10
+          }
+        },
+        "doc_06.txt": {
+          "overlap": {
+            "precision": 0.0561,
+            "recall": 0.8,
+            "f1": 0.1048,
+            "tp": 12,
+            "fp": 202,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.0667,
+            "recall": 0.8462,
+            "f1": 0.1236,
+            "tp": 11,
+            "fp": 154,
+            "fn": 2
+          }
+        },
+        "doc_07.txt": {
+          "overlap": {
+            "precision": 0.0512,
+            "recall": 0.5312,
+            "f1": 0.0934,
+            "tp": 17,
+            "fp": 315,
+            "fn": 15
+          },
+          "cui_set": {
+            "precision": 0.073,
+            "recall": 0.5862,
+            "f1": 0.1298,
+            "tp": 17,
+            "fp": 216,
+            "fn": 12
+          }
+        },
+        "doc_08.txt": {
+          "overlap": {
+            "precision": 0.119,
+            "recall": 0.8571,
+            "f1": 0.2091,
+            "tp": 30,
+            "fp": 222,
+            "fn": 5
+          },
+          "cui_set": {
+            "precision": 0.1188,
+            "recall": 0.8276,
+            "f1": 0.2078,
+            "tp": 24,
+            "fp": 178,
+            "fn": 5
+          }
+        },
+        "doc_09.txt": {
+          "overlap": {
+            "precision": 0.1085,
+            "recall": 0.8649,
+            "f1": 0.1928,
+            "tp": 32,
+            "fp": 263,
+            "fn": 5
+          },
+          "cui_set": {
+            "precision": 0.1222,
+            "recall": 0.8438,
+            "f1": 0.2134,
+            "tp": 27,
+            "fp": 194,
+            "fn": 5
+          }
+        },
+        "doc_10.txt": {
+          "overlap": {
+            "precision": 0.0939,
+            "recall": 0.7647,
+            "f1": 0.1672,
+            "tp": 26,
+            "fp": 251,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.0922,
+            "recall": 0.7692,
+            "f1": 0.1646,
+            "tp": 20,
+            "fp": 197,
+            "fn": 6
+          }
+        },
+        "doc_11.txt": {
+          "overlap": {
+            "precision": 0.1349,
+            "recall": 0.8788,
+            "f1": 0.2339,
+            "tp": 29,
+            "fp": 186,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.1265,
+            "recall": 0.84,
+            "f1": 0.2199,
+            "tp": 21,
+            "fp": 145,
+            "fn": 4
+          }
+        },
+        "doc_12.txt": {
+          "overlap": {
+            "precision": 0.0927,
+            "recall": 0.8261,
+            "f1": 0.1667,
+            "tp": 19,
+            "fp": 186,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.103,
+            "recall": 0.8095,
+            "f1": 0.1828,
+            "tp": 17,
+            "fp": 148,
+            "fn": 4
+          }
+        },
+        "doc_13.txt": {
+          "overlap": {
+            "precision": 0.075,
+            "recall": 0.6923,
+            "f1": 0.1353,
+            "tp": 18,
+            "fp": 222,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.0899,
+            "recall": 0.6957,
+            "f1": 0.1592,
+            "tp": 16,
+            "fp": 162,
+            "fn": 7
+          }
+        },
+        "doc_14.txt": {
+          "overlap": {
+            "precision": 0.0649,
+            "recall": 0.7143,
+            "f1": 0.119,
+            "tp": 20,
+            "fp": 288,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.0798,
+            "recall": 0.7308,
+            "f1": 0.1439,
+            "tp": 19,
+            "fp": 219,
+            "fn": 7
+          }
+        },
+        "doc_15.txt": {
+          "overlap": {
+            "precision": 0.0892,
+            "recall": 0.7308,
+            "f1": 0.159,
+            "tp": 19,
+            "fp": 194,
+            "fn": 7
+          },
+          "cui_set": {
+            "precision": 0.0919,
+            "recall": 0.7391,
+            "f1": 0.1635,
+            "tp": 17,
+            "fp": 168,
+            "fn": 6
+          }
+        },
+        "doc_16.txt": {
+          "overlap": {
+            "precision": 0.0693,
+            "recall": 0.6944,
+            "f1": 0.1259,
+            "tp": 25,
+            "fp": 336,
+            "fn": 11
+          },
+          "cui_set": {
+            "precision": 0.0913,
+            "recall": 0.697,
+            "f1": 0.1614,
+            "tp": 23,
+            "fp": 229,
+            "fn": 10
+          }
+        },
+        "doc_17.txt": {
+          "overlap": {
+            "precision": 0.0613,
+            "recall": 0.7667,
+            "f1": 0.1136,
+            "tp": 23,
+            "fp": 352,
+            "fn": 7
+          },
+          "cui_set": {
+            "precision": 0.0803,
+            "recall": 0.8462,
+            "f1": 0.1467,
+            "tp": 22,
+            "fp": 252,
+            "fn": 4
+          }
+        },
+        "doc_18.txt": {
+          "overlap": {
+            "precision": 0.0762,
+            "recall": 0.7027,
+            "f1": 0.1376,
+            "tp": 26,
+            "fp": 315,
+            "fn": 11
+          },
+          "cui_set": {
+            "precision": 0.0935,
+            "recall": 0.7931,
+            "f1": 0.1673,
+            "tp": 23,
+            "fp": 223,
+            "fn": 6
+          }
+        },
+        "doc_19.txt": {
+          "overlap": {
+            "precision": 0.0299,
+            "recall": 0.4118,
+            "f1": 0.0558,
+            "tp": 7,
+            "fp": 227,
+            "fn": 10
+          },
+          "cui_set": {
+            "precision": 0.0382,
+            "recall": 0.5,
+            "f1": 0.071,
+            "tp": 6,
+            "fp": 151,
+            "fn": 6
+          }
+        },
+        "doc_20.txt": {
+          "overlap": {
+            "precision": 0.0947,
+            "recall": 0.9143,
+            "f1": 0.1716,
+            "tp": 32,
+            "fp": 306,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.0947,
+            "recall": 0.8846,
+            "f1": 0.171,
+            "tp": 23,
+            "fp": 220,
+            "fn": 3
+          }
+        },
+        "doc_21.txt": {
+          "overlap": {
+            "precision": 0.1034,
+            "recall": 0.9474,
+            "f1": 0.1865,
+            "tp": 18,
+            "fp": 156,
+            "fn": 1
+          },
+          "cui_set": {
+            "precision": 0.1271,
+            "recall": 1.0,
+            "f1": 0.2256,
+            "tp": 15,
+            "fp": 103,
+            "fn": 0
+          }
+        },
+        "doc_22.txt": {
+          "overlap": {
+            "precision": 0.1588,
+            "recall": 0.9643,
+            "f1": 0.2727,
+            "tp": 27,
+            "fp": 143,
+            "fn": 1
+          },
+          "cui_set": {
+            "precision": 0.1587,
+            "recall": 0.9524,
+            "f1": 0.2721,
+            "tp": 20,
+            "fp": 106,
+            "fn": 1
+          }
+        },
+        "doc_23.txt": {
+          "overlap": {
+            "precision": 0.1019,
+            "recall": 0.9412,
+            "f1": 0.1839,
+            "tp": 16,
+            "fp": 141,
+            "fn": 1
+          },
+          "cui_set": {
+            "precision": 0.1282,
+            "recall": 0.9375,
+            "f1": 0.2256,
+            "tp": 15,
+            "fp": 102,
+            "fn": 1
+          }
+        },
+        "doc_24.txt": {
+          "overlap": {
+            "precision": 0.157,
+            "recall": 0.9,
+            "f1": 0.2673,
+            "tp": 27,
+            "fp": 145,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.156,
+            "recall": 0.88,
+            "f1": 0.2651,
+            "tp": 22,
+            "fp": 119,
+            "fn": 3
+          }
+        },
+        "doc_25.txt": {
+          "overlap": {
+            "precision": 0.128,
+            "recall": 0.7619,
+            "f1": 0.2192,
+            "tp": 16,
+            "fp": 109,
+            "fn": 5
+          },
+          "cui_set": {
+            "precision": 0.1351,
+            "recall": 0.7895,
+            "f1": 0.2308,
+            "tp": 15,
+            "fp": 96,
+            "fn": 4
+          }
+        },
+        "doc_26.txt": {
+          "overlap": {
+            "precision": 0.2222,
+            "recall": 0.9167,
+            "f1": 0.3577,
+            "tp": 22,
+            "fp": 77,
+            "fn": 2
+          },
+          "cui_set": {
+            "precision": 0.2174,
+            "recall": 0.9091,
+            "f1": 0.3509,
+            "tp": 20,
+            "fp": 72,
+            "fn": 2
+          }
+        },
+        "doc_27.txt": {
+          "overlap": {
+            "precision": 0.1562,
+            "recall": 0.9259,
+            "f1": 0.2674,
+            "tp": 25,
+            "fp": 135,
+            "fn": 2
+          },
+          "cui_set": {
+            "precision": 0.1705,
+            "recall": 0.9167,
+            "f1": 0.2876,
+            "tp": 22,
+            "fp": 107,
+            "fn": 2
+          }
+        },
+        "doc_28.txt": {
+          "overlap": {
+            "precision": 0.0971,
+            "recall": 1.0,
+            "f1": 0.1771,
+            "tp": 17,
+            "fp": 158,
+            "fn": 0
+          },
+          "cui_set": {
+            "precision": 0.1119,
+            "recall": 1.0,
+            "f1": 0.2013,
+            "tp": 15,
+            "fp": 119,
+            "fn": 0
+          }
+        },
+        "doc_29.txt": {
+          "overlap": {
+            "precision": 0.1411,
+            "recall": 0.9583,
+            "f1": 0.246,
+            "tp": 23,
+            "fp": 140,
+            "fn": 1
+          },
+          "cui_set": {
+            "precision": 0.1389,
+            "recall": 1.0,
+            "f1": 0.2439,
+            "tp": 20,
+            "fp": 124,
+            "fn": 0
+          }
+        },
+        "doc_30.txt": {
+          "overlap": {
+            "precision": 0.1243,
+            "recall": 0.9565,
+            "f1": 0.22,
+            "tp": 22,
+            "fp": 155,
+            "fn": 1
+          },
+          "cui_set": {
+            "precision": 0.1295,
+            "recall": 0.9474,
+            "f1": 0.2278,
+            "tp": 18,
+            "fp": 121,
+            "fn": 1
+          }
+        }
+      }
+    },
+    "ensemble:consensus": {
+      "reference_mentions": 843,
+      "predicted_mentions": 1670,
+      "overlap": {
+        "precision": 0.3365,
+        "recall": 0.6667,
+        "f1": 0.4473,
+        "tp": 562,
+        "fp": 1108,
+        "fn": 281
+      },
+      "exact": {
+        "precision": 0.3347,
+        "recall": 0.6631,
+        "f1": 0.4449,
+        "tp": 559,
+        "fp": 1111,
+        "fn": 284
+      },
+      "cui_set": {
+        "precision": 0.3444,
+        "recall": 0.6879,
+        "f1": 0.459,
+        "tp": 496,
+        "fp": 944,
+        "fn": 225
+      },
+      "attributes": {
+        "conditional": {
+          "reference_assessed": 562,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 55
+        },
+        "history_of": {
+          "reference_assessed": 562,
+          "coverage": 1.0,
+          "precision": 0.65,
+          "recall": 0.2653,
+          "f1": 0.3768,
+          "tp": 13,
+          "fp": 7,
+          "fn": 36
+        },
+        "negated": {
+          "reference_assessed": 562,
+          "coverage": 1.0,
+          "precision": 0.9735,
+          "recall": 0.8661,
+          "f1": 0.9167,
+          "tp": 110,
+          "fp": 3,
+          "fn": 17
+        },
+        "subject": {
+          "reference_assessed": 562,
+          "coverage": 1.0,
+          "precision": 0.7778,
+          "recall": 0.5122,
+          "f1": 0.6176,
+          "tp": 21,
+          "fp": 6,
+          "fn": 20
+        },
+        "uncertain": {
+          "reference_assessed": 562,
+          "coverage": 1.0,
+          "precision": 0.85,
+          "recall": 0.68,
+          "f1": 0.7556,
+          "tp": 17,
+          "fp": 3,
+          "fn": 8
+        }
+      },
+      "seconds": 2.89,
+      "per_document": {
+        "doc_01.txt": {
+          "overlap": {
+            "precision": 0.3038,
+            "recall": 0.5854,
+            "f1": 0.4,
+            "tp": 24,
+            "fp": 55,
+            "fn": 17
+          },
+          "cui_set": {
+            "precision": 0.3194,
+            "recall": 0.6053,
+            "f1": 0.4182,
+            "tp": 23,
+            "fp": 49,
+            "fn": 15
+          }
+        },
+        "doc_02.txt": {
+          "overlap": {
+            "precision": 0.3966,
+            "recall": 0.7931,
+            "f1": 0.5287,
+            "tp": 23,
+            "fp": 35,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.4468,
+            "recall": 0.84,
+            "f1": 0.5833,
+            "tp": 21,
+            "fp": 26,
+            "fn": 4
+          }
+        },
+        "doc_03.txt": {
+          "overlap": {
+            "precision": 0.2857,
+            "recall": 0.72,
+            "f1": 0.4091,
+            "tp": 18,
+            "fp": 45,
+            "fn": 7
+          },
+          "cui_set": {
+            "precision": 0.2857,
+            "recall": 0.72,
+            "f1": 0.4091,
+            "tp": 18,
+            "fp": 45,
+            "fn": 7
+          }
+        },
+        "doc_04.txt": {
+          "overlap": {
+            "precision": 0.2679,
+            "recall": 0.5769,
+            "f1": 0.3659,
+            "tp": 15,
+            "fp": 41,
+            "fn": 11
+          },
+          "cui_set": {
+            "precision": 0.2549,
+            "recall": 0.5909,
+            "f1": 0.3562,
+            "tp": 13,
+            "fp": 38,
+            "fn": 9
+          }
+        },
+        "doc_05.txt": {
+          "overlap": {
+            "precision": 0.4286,
+            "recall": 0.5625,
+            "f1": 0.4865,
+            "tp": 27,
+            "fp": 36,
+            "fn": 21
+          },
+          "cui_set": {
+            "precision": 0.463,
+            "recall": 0.5952,
+            "f1": 0.5208,
+            "tp": 25,
+            "fp": 29,
+            "fn": 17
+          }
+        },
+        "doc_06.txt": {
+          "overlap": {
+            "precision": 0.1837,
+            "recall": 0.6,
+            "f1": 0.2812,
+            "tp": 9,
+            "fp": 40,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.1818,
+            "recall": 0.6154,
+            "f1": 0.2807,
+            "tp": 8,
+            "fp": 36,
+            "fn": 5
+          }
+        },
+        "doc_07.txt": {
+          "overlap": {
+            "precision": 0.2381,
+            "recall": 0.4688,
+            "f1": 0.3158,
+            "tp": 15,
+            "fp": 48,
+            "fn": 17
+          },
+          "cui_set": {
+            "precision": 0.2632,
+            "recall": 0.5172,
+            "f1": 0.3488,
+            "tp": 15,
+            "fp": 42,
+            "fn": 14
+          }
+        },
+        "doc_08.txt": {
+          "overlap": {
+            "precision": 0.3165,
+            "recall": 0.7143,
+            "f1": 0.4386,
+            "tp": 25,
+            "fp": 54,
+            "fn": 10
+          },
+          "cui_set": {
+            "precision": 0.2958,
+            "recall": 0.7241,
+            "f1": 0.42,
+            "tp": 21,
+            "fp": 50,
+            "fn": 8
+          }
+        },
+        "doc_09.txt": {
+          "overlap": {
+            "precision": 0.3611,
+            "recall": 0.7027,
+            "f1": 0.4771,
+            "tp": 26,
+            "fp": 46,
+            "fn": 11
+          },
+          "cui_set": {
+            "precision": 0.3929,
+            "recall": 0.6875,
+            "f1": 0.5,
+            "tp": 22,
+            "fp": 34,
+            "fn": 10
+          }
+        },
+        "doc_10.txt": {
+          "overlap": {
+            "precision": 0.4068,
+            "recall": 0.7059,
+            "f1": 0.5161,
+            "tp": 24,
+            "fp": 35,
+            "fn": 10
+          },
+          "cui_set": {
+            "precision": 0.3846,
+            "recall": 0.7692,
+            "f1": 0.5128,
+            "tp": 20,
+            "fp": 32,
+            "fn": 6
+          }
+        },
+        "doc_11.txt": {
+          "overlap": {
+            "precision": 0.425,
+            "recall": 0.5152,
+            "f1": 0.4658,
+            "tp": 17,
+            "fp": 23,
+            "fn": 16
+          },
+          "cui_set": {
+            "precision": 0.4,
+            "recall": 0.56,
+            "f1": 0.4667,
+            "tp": 14,
+            "fp": 21,
+            "fn": 11
+          }
+        },
+        "doc_12.txt": {
+          "overlap": {
+            "precision": 0.2549,
+            "recall": 0.5652,
+            "f1": 0.3514,
+            "tp": 13,
+            "fp": 38,
+            "fn": 10
+          },
+          "cui_set": {
+            "precision": 0.234,
+            "recall": 0.5238,
+            "f1": 0.3235,
+            "tp": 11,
+            "fp": 36,
+            "fn": 10
+          }
+        },
+        "doc_13.txt": {
+          "overlap": {
+            "precision": 0.2833,
+            "recall": 0.6538,
+            "f1": 0.3953,
+            "tp": 17,
+            "fp": 43,
+            "fn": 9
+          },
+          "cui_set": {
+            "precision": 0.2941,
+            "recall": 0.6522,
+            "f1": 0.4054,
+            "tp": 15,
+            "fp": 36,
+            "fn": 8
+          }
+        },
+        "doc_14.txt": {
+          "overlap": {
+            "precision": 0.2273,
+            "recall": 0.5357,
+            "f1": 0.3191,
+            "tp": 15,
+            "fp": 51,
+            "fn": 13
+          },
+          "cui_set": {
+            "precision": 0.2459,
+            "recall": 0.5769,
+            "f1": 0.3448,
+            "tp": 15,
+            "fp": 46,
+            "fn": 11
+          }
+        },
+        "doc_15.txt": {
+          "overlap": {
+            "precision": 0.3333,
+            "recall": 0.6923,
+            "f1": 0.45,
+            "tp": 18,
+            "fp": 36,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.3469,
+            "recall": 0.7391,
+            "f1": 0.4722,
+            "tp": 17,
+            "fp": 32,
+            "fn": 6
+          }
+        },
+        "doc_16.txt": {
+          "overlap": {
+            "precision": 0.2619,
+            "recall": 0.6111,
+            "f1": 0.3667,
+            "tp": 22,
+            "fp": 62,
+            "fn": 14
+          },
+          "cui_set": {
+            "precision": 0.3387,
+            "recall": 0.6364,
+            "f1": 0.4421,
+            "tp": 21,
+            "fp": 41,
+            "fn": 12
+          }
+        },
+        "doc_17.txt": {
+          "overlap": {
+            "precision": 0.1771,
+            "recall": 0.5667,
+            "f1": 0.2698,
+            "tp": 17,
+            "fp": 79,
+            "fn": 13
+          },
+          "cui_set": {
+            "precision": 0.2192,
+            "recall": 0.6154,
+            "f1": 0.3232,
+            "tp": 16,
+            "fp": 57,
+            "fn": 10
+          }
+        },
+        "doc_18.txt": {
+          "overlap": {
+            "precision": 0.3333,
+            "recall": 0.6216,
+            "f1": 0.434,
+            "tp": 23,
+            "fp": 46,
+            "fn": 14
+          },
+          "cui_set": {
+            "precision": 0.3559,
+            "recall": 0.7241,
+            "f1": 0.4773,
+            "tp": 21,
+            "fp": 38,
+            "fn": 8
+          }
+        },
+        "doc_19.txt": {
+          "overlap": {
+            "precision": 0.1429,
+            "recall": 0.3529,
+            "f1": 0.2034,
+            "tp": 6,
+            "fp": 36,
+            "fn": 11
+          },
+          "cui_set": {
+            "precision": 0.1351,
+            "recall": 0.4167,
+            "f1": 0.2041,
+            "tp": 5,
+            "fp": 32,
+            "fn": 7
+          }
+        },
+        "doc_20.txt": {
+          "overlap": {
+            "precision": 0.3095,
+            "recall": 0.7429,
+            "f1": 0.437,
+            "tp": 26,
+            "fp": 58,
+            "fn": 9
+          },
+          "cui_set": {
+            "precision": 0.2714,
+            "recall": 0.7308,
+            "f1": 0.3958,
+            "tp": 19,
+            "fp": 51,
+            "fn": 7
+          }
+        },
+        "doc_21.txt": {
+          "overlap": {
+            "precision": 0.4324,
+            "recall": 0.8421,
+            "f1": 0.5714,
+            "tp": 16,
+            "fp": 21,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.4333,
+            "recall": 0.8667,
+            "f1": 0.5778,
+            "tp": 13,
+            "fp": 17,
+            "fn": 2
+          }
+        },
+        "doc_22.txt": {
+          "overlap": {
+            "precision": 0.5455,
+            "recall": 0.8571,
+            "f1": 0.6667,
+            "tp": 24,
+            "fp": 20,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.5294,
+            "recall": 0.8571,
+            "f1": 0.6545,
+            "tp": 18,
+            "fp": 16,
+            "fn": 3
+          }
+        },
+        "doc_23.txt": {
+          "overlap": {
+            "precision": 0.3421,
+            "recall": 0.7647,
+            "f1": 0.4727,
+            "tp": 13,
+            "fp": 25,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.3529,
+            "recall": 0.75,
+            "f1": 0.48,
+            "tp": 12,
+            "fp": 22,
+            "fn": 4
+          }
+        },
+        "doc_24.txt": {
+          "overlap": {
+            "precision": 0.5227,
+            "recall": 0.7667,
+            "f1": 0.6216,
+            "tp": 23,
+            "fp": 21,
+            "fn": 7
+          },
+          "cui_set": {
+            "precision": 0.4872,
+            "recall": 0.76,
+            "f1": 0.5938,
+            "tp": 19,
+            "fp": 20,
+            "fn": 6
+          }
+        },
+        "doc_25.txt": {
+          "overlap": {
+            "precision": 0.3939,
+            "recall": 0.619,
+            "f1": 0.4815,
+            "tp": 13,
+            "fp": 20,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.4333,
+            "recall": 0.6842,
+            "f1": 0.5306,
+            "tp": 13,
+            "fp": 17,
+            "fn": 6
+          }
+        },
+        "doc_26.txt": {
+          "overlap": {
+            "precision": 0.72,
+            "recall": 0.75,
+            "f1": 0.7347,
+            "tp": 18,
+            "fp": 7,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.6957,
+            "recall": 0.7273,
+            "f1": 0.7111,
+            "tp": 16,
+            "fp": 7,
+            "fn": 6
+          }
+        },
+        "doc_27.txt": {
+          "overlap": {
+            "precision": 0.4524,
+            "recall": 0.7037,
+            "f1": 0.5507,
+            "tp": 19,
+            "fp": 23,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.5294,
+            "recall": 0.75,
+            "f1": 0.6207,
+            "tp": 18,
+            "fp": 16,
+            "fn": 6
+          }
+        },
+        "doc_28.txt": {
+          "overlap": {
+            "precision": 0.5152,
+            "recall": 1.0,
+            "f1": 0.68,
+            "tp": 17,
+            "fp": 16,
+            "fn": 0
+          },
+          "cui_set": {
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1": 0.6667,
+            "tp": 15,
+            "fp": 15,
+            "fn": 0
+          }
+        },
+        "doc_29.txt": {
+          "overlap": {
+            "precision": 0.4286,
+            "recall": 0.75,
+            "f1": 0.5455,
+            "tp": 18,
+            "fp": 24,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.3947,
+            "recall": 0.75,
+            "f1": 0.5172,
+            "tp": 15,
+            "fp": 23,
+            "fn": 5
+          }
+        },
+        "doc_30.txt": {
+          "overlap": {
+            "precision": 0.4667,
+            "recall": 0.913,
+            "f1": 0.6176,
+            "tp": 21,
+            "fp": 24,
+            "fn": 2
+          },
+          "cui_set": {
+            "precision": 0.4595,
+            "recall": 0.8947,
+            "f1": 0.6071,
+            "tp": 17,
+            "fp": 20,
+            "fn": 2
+          }
+        }
+      }
+    },
+    "ensemble:hybrid_staged": {
+      "reference_mentions": 843,
+      "predicted_mentions": 5818,
+      "overlap": {
+        "precision": 0.1038,
+        "recall": 0.7165,
+        "f1": 0.1814,
+        "tp": 604,
+        "fp": 5214,
+        "fn": 239
+      },
+      "exact": {
+        "precision": 0.1031,
+        "recall": 0.7117,
+        "f1": 0.1802,
+        "tp": 600,
+        "fp": 5218,
+        "fn": 243
+      },
+      "cui_set": {
+        "precision": 0.1126,
+        "recall": 0.7337,
+        "f1": 0.1953,
+        "tp": 529,
+        "fp": 4167,
+        "fn": 192
+      },
+      "attributes": {
+        "conditional": {
+          "reference_assessed": 604,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 59
+        },
+        "history_of": {
+          "reference_assessed": 604,
+          "coverage": 1.0,
+          "precision": 0.65,
+          "recall": 0.2549,
+          "f1": 0.3662,
+          "tp": 13,
+          "fp": 7,
+          "fn": 38
+        },
+        "negated": {
+          "reference_assessed": 604,
+          "coverage": 1.0,
+          "precision": 0.9739,
+          "recall": 0.8682,
+          "f1": 0.918,
+          "tp": 112,
+          "fp": 3,
+          "fn": 17
+        },
+        "subject": {
+          "reference_assessed": 604,
+          "coverage": 1.0,
+          "precision": 0.7778,
+          "recall": 0.4884,
+          "f1": 0.6,
+          "tp": 21,
+          "fp": 6,
+          "fn": 22
+        },
+        "uncertain": {
+          "reference_assessed": 604,
+          "coverage": 1.0,
+          "precision": 0.8571,
+          "recall": 0.6923,
+          "f1": 0.766,
+          "tp": 18,
+          "fp": 3,
+          "fn": 8
+        }
+      },
+      "seconds": 2.96,
+      "per_document": {
+        "doc_01.txt": {
+          "overlap": {
+            "precision": 0.0996,
+            "recall": 0.6098,
+            "f1": 0.1712,
+            "tp": 25,
+            "fp": 226,
+            "fn": 16
+          },
+          "cui_set": {
+            "precision": 0.1132,
+            "recall": 0.6316,
+            "f1": 0.192,
+            "tp": 24,
+            "fp": 188,
+            "fn": 14
+          }
+        },
+        "doc_02.txt": {
+          "overlap": {
+            "precision": 0.1139,
+            "recall": 0.7931,
+            "f1": 0.1991,
+            "tp": 23,
+            "fp": 179,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.1458,
+            "recall": 0.84,
+            "f1": 0.2485,
+            "tp": 21,
+            "fp": 123,
+            "fn": 4
+          }
+        },
+        "doc_03.txt": {
+          "overlap": {
+            "precision": 0.0892,
+            "recall": 0.76,
+            "f1": 0.1597,
+            "tp": 19,
+            "fp": 194,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.099,
+            "recall": 0.76,
+            "f1": 0.1751,
+            "tp": 19,
+            "fp": 173,
+            "fn": 6
+          }
+        },
+        "doc_04.txt": {
+          "overlap": {
+            "precision": 0.095,
+            "recall": 0.7308,
+            "f1": 0.1681,
+            "tp": 19,
+            "fp": 181,
+            "fn": 7
+          },
+          "cui_set": {
+            "precision": 0.087,
+            "recall": 0.7273,
+            "f1": 0.1553,
+            "tp": 16,
+            "fp": 168,
+            "fn": 6
+          }
+        },
+        "doc_05.txt": {
+          "overlap": {
+            "precision": 0.1278,
+            "recall": 0.6042,
+            "f1": 0.2109,
+            "tp": 29,
+            "fp": 198,
+            "fn": 19
+          },
+          "cui_set": {
+            "precision": 0.1413,
+            "recall": 0.619,
+            "f1": 0.2301,
+            "tp": 26,
+            "fp": 158,
+            "fn": 16
+          }
+        },
+        "doc_06.txt": {
+          "overlap": {
+            "precision": 0.055,
+            "recall": 0.7333,
+            "f1": 0.1023,
+            "tp": 11,
+            "fp": 189,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.0637,
+            "recall": 0.7692,
+            "f1": 0.1176,
+            "tp": 10,
+            "fp": 147,
+            "fn": 3
+          }
+        },
+        "doc_07.txt": {
+          "overlap": {
+            "precision": 0.0632,
+            "recall": 0.5312,
+            "f1": 0.113,
+            "tp": 17,
+            "fp": 252,
+            "fn": 15
+          },
+          "cui_set": {
+            "precision": 0.0859,
+            "recall": 0.5862,
+            "f1": 0.1498,
+            "tp": 17,
+            "fp": 181,
+            "fn": 12
+          }
+        },
+        "doc_08.txt": {
+          "overlap": {
+            "precision": 0.1214,
+            "recall": 0.7143,
+            "f1": 0.2075,
+            "tp": 25,
+            "fp": 181,
+            "fn": 10
+          },
+          "cui_set": {
+            "precision": 0.1221,
+            "recall": 0.7241,
+            "f1": 0.209,
+            "tp": 21,
+            "fp": 151,
+            "fn": 8
+          }
+        },
+        "doc_09.txt": {
+          "overlap": {
+            "precision": 0.1174,
+            "recall": 0.7838,
+            "f1": 0.2042,
+            "tp": 29,
+            "fp": 218,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.1194,
+            "recall": 0.75,
+            "f1": 0.206,
+            "tp": 24,
+            "fp": 177,
+            "fn": 8
+          }
+        },
+        "doc_10.txt": {
+          "overlap": {
+            "precision": 0.1046,
+            "recall": 0.7353,
+            "f1": 0.1832,
+            "tp": 25,
+            "fp": 214,
+            "fn": 9
+          },
+          "cui_set": {
+            "precision": 0.102,
+            "recall": 0.7692,
+            "f1": 0.1802,
+            "tp": 20,
+            "fp": 176,
+            "fn": 6
+          }
+        },
+        "doc_11.txt": {
+          "overlap": {
+            "precision": 0.1304,
+            "recall": 0.6364,
+            "f1": 0.2165,
+            "tp": 21,
+            "fp": 140,
+            "fn": 12
+          },
+          "cui_set": {
+            "precision": 0.121,
+            "recall": 0.6,
+            "f1": 0.2013,
+            "tp": 15,
+            "fp": 109,
+            "fn": 10
+          }
+        },
+        "doc_12.txt": {
+          "overlap": {
+            "precision": 0.0829,
+            "recall": 0.6522,
+            "f1": 0.1471,
+            "tp": 15,
+            "fp": 166,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.0855,
+            "recall": 0.619,
+            "f1": 0.1503,
+            "tp": 13,
+            "fp": 139,
+            "fn": 8
+          }
+        },
+        "doc_13.txt": {
+          "overlap": {
+            "precision": 0.0802,
+            "recall": 0.6538,
+            "f1": 0.1429,
+            "tp": 17,
+            "fp": 195,
+            "fn": 9
+          },
+          "cui_set": {
+            "precision": 0.0926,
+            "recall": 0.6522,
+            "f1": 0.1622,
+            "tp": 15,
+            "fp": 147,
+            "fn": 8
+          }
+        },
+        "doc_14.txt": {
+          "overlap": {
+            "precision": 0.0613,
+            "recall": 0.5714,
+            "f1": 0.1107,
+            "tp": 16,
+            "fp": 245,
+            "fn": 12
+          },
+          "cui_set": {
+            "precision": 0.0762,
+            "recall": 0.6154,
+            "f1": 0.1356,
+            "tp": 16,
+            "fp": 194,
+            "fn": 10
+          }
+        },
+        "doc_15.txt": {
+          "overlap": {
+            "precision": 0.1017,
+            "recall": 0.6923,
+            "f1": 0.1773,
+            "tp": 18,
+            "fp": 159,
+            "fn": 8
+          },
+          "cui_set": {
+            "precision": 0.1069,
+            "recall": 0.7391,
+            "f1": 0.1868,
+            "tp": 17,
+            "fp": 142,
+            "fn": 6
+          }
+        },
+        "doc_16.txt": {
+          "overlap": {
+            "precision": 0.0777,
+            "recall": 0.6389,
+            "f1": 0.1386,
+            "tp": 23,
+            "fp": 273,
+            "fn": 13
+          },
+          "cui_set": {
+            "precision": 0.1023,
+            "recall": 0.6667,
+            "f1": 0.1774,
+            "tp": 22,
+            "fp": 193,
+            "fn": 11
+          }
+        },
+        "doc_17.txt": {
+          "overlap": {
+            "precision": 0.0579,
+            "recall": 0.6,
+            "f1": 0.1056,
+            "tp": 18,
+            "fp": 293,
+            "fn": 12
+          },
+          "cui_set": {
+            "precision": 0.0723,
+            "recall": 0.6538,
+            "f1": 0.1303,
+            "tp": 17,
+            "fp": 218,
+            "fn": 9
+          }
+        },
+        "doc_18.txt": {
+          "overlap": {
+            "precision": 0.0852,
+            "recall": 0.6216,
+            "f1": 0.1498,
+            "tp": 23,
+            "fp": 247,
+            "fn": 14
+          },
+          "cui_set": {
+            "precision": 0.0995,
+            "recall": 0.7241,
+            "f1": 0.175,
+            "tp": 21,
+            "fp": 190,
+            "fn": 8
+          }
+        },
+        "doc_19.txt": {
+          "overlap": {
+            "precision": 0.0293,
+            "recall": 0.3529,
+            "f1": 0.0541,
+            "tp": 6,
+            "fp": 199,
+            "fn": 11
+          },
+          "cui_set": {
+            "precision": 0.035,
+            "recall": 0.4167,
+            "f1": 0.0645,
+            "tp": 5,
+            "fp": 138,
+            "fn": 7
+          }
+        },
+        "doc_20.txt": {
+          "overlap": {
+            "precision": 0.0969,
+            "recall": 0.8,
+            "f1": 0.1728,
+            "tp": 28,
+            "fp": 261,
+            "fn": 7
+          },
+          "cui_set": {
+            "precision": 0.0991,
+            "recall": 0.8077,
+            "f1": 0.1765,
+            "tp": 21,
+            "fp": 191,
+            "fn": 5
+          }
+        },
+        "doc_21.txt": {
+          "overlap": {
+            "precision": 0.128,
+            "recall": 0.8421,
+            "f1": 0.2222,
+            "tp": 16,
+            "fp": 109,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.13,
+            "recall": 0.8667,
+            "f1": 0.2261,
+            "tp": 13,
+            "fp": 87,
+            "fn": 2
+          }
+        },
+        "doc_22.txt": {
+          "overlap": {
+            "precision": 0.188,
+            "recall": 0.8929,
+            "f1": 0.3106,
+            "tp": 25,
+            "fp": 108,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.1698,
+            "recall": 0.8571,
+            "f1": 0.2835,
+            "tp": 18,
+            "fp": 88,
+            "fn": 3
+          }
+        },
+        "doc_23.txt": {
+          "overlap": {
+            "precision": 0.1296,
+            "recall": 0.8235,
+            "f1": 0.224,
+            "tp": 14,
+            "fp": 94,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.1327,
+            "recall": 0.8125,
+            "f1": 0.2281,
+            "tp": 13,
+            "fp": 85,
+            "fn": 3
+          }
+        },
+        "doc_24.txt": {
+          "overlap": {
+            "precision": 0.2063,
+            "recall": 0.8667,
+            "f1": 0.3333,
+            "tp": 26,
+            "fp": 100,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.1892,
+            "recall": 0.84,
+            "f1": 0.3088,
+            "tp": 21,
+            "fp": 90,
+            "fn": 4
+          }
+        },
+        "doc_25.txt": {
+          "overlap": {
+            "precision": 0.163,
+            "recall": 0.7143,
+            "f1": 0.2655,
+            "tp": 15,
+            "fp": 77,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.1705,
+            "recall": 0.7895,
+            "f1": 0.2804,
+            "tp": 15,
+            "fp": 73,
+            "fn": 4
+          }
+        },
+        "doc_26.txt": {
+          "overlap": {
+            "precision": 0.2439,
+            "recall": 0.8333,
+            "f1": 0.3774,
+            "tp": 20,
+            "fp": 62,
+            "fn": 4
+          },
+          "cui_set": {
+            "precision": 0.225,
+            "recall": 0.8182,
+            "f1": 0.3529,
+            "tp": 18,
+            "fp": 62,
+            "fn": 4
+          }
+        },
+        "doc_27.txt": {
+          "overlap": {
+            "precision": 0.1765,
+            "recall": 0.7778,
+            "f1": 0.2877,
+            "tp": 21,
+            "fp": 98,
+            "fn": 6
+          },
+          "cui_set": {
+            "precision": 0.1923,
+            "recall": 0.8333,
+            "f1": 0.3125,
+            "tp": 20,
+            "fp": 84,
+            "fn": 4
+          }
+        },
+        "doc_28.txt": {
+          "overlap": {
+            "precision": 0.1164,
+            "recall": 1.0,
+            "f1": 0.2086,
+            "tp": 17,
+            "fp": 129,
+            "fn": 0
+          },
+          "cui_set": {
+            "precision": 0.1339,
+            "recall": 1.0,
+            "f1": 0.2362,
+            "tp": 15,
+            "fp": 97,
+            "fn": 0
+          }
+        },
+        "doc_29.txt": {
+          "overlap": {
+            "precision": 0.1667,
+            "recall": 0.875,
+            "f1": 0.28,
+            "tp": 21,
+            "fp": 105,
+            "fn": 3
+          },
+          "cui_set": {
+            "precision": 0.1593,
+            "recall": 0.9,
+            "f1": 0.2707,
+            "tp": 18,
+            "fp": 95,
+            "fn": 2
+          }
+        },
+        "doc_30.txt": {
+          "overlap": {
+            "precision": 0.1528,
+            "recall": 0.9565,
+            "f1": 0.2635,
+            "tp": 22,
+            "fp": 122,
+            "fn": 1
+          },
+          "cui_set": {
+            "precision": 0.1488,
+            "recall": 0.9474,
+            "f1": 0.2571,
+            "tp": 18,
+            "fp": 103,
+            "fn": 1
+          }
+        }
+      }
+    }
+  }
+}

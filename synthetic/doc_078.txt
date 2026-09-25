@@ -1,0 +1,31 @@
+RECORD 78 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (INFECTIOUS DISEASE)
+
+PATIENT: Synthetic-078 | AGE: 45 | SEX: M | DATE: 2028-06-12
+REASON FOR ENCOUNTER: Follow-up of chronic Hepatitis C virus (HCV) infection.
+
+SUBJECTIVE:
+The patient is a 45-year-old male referred for management of chronic hepatitis C diagnosed during blood donation screening. He has no prior history of antiviral treatment. Reports mild fatigue but is otherwise asymptomatic. Denies jaundice, ascites, hematemesis, or pruritus. Does not consume alcohol; has a history of remote injection drug use 20 years ago.
+
+OBJECTIVE:
+Vitals: BP 120/74 mmHg, HR 68 bpm, RR 14 bpm, BMI 25.1 kg/m^2.
+Physical Exam:
+* Sclerae anicteric. No palmar erythema or spider angiomas.
+* Abdomen: Soft, non-tender, no hepatosplenomegaly or ascites.
+* Extremities: No edema.
+
+DIAGNOSTIC WORKUP:
+* HCV RNA Viral Load (Quantitative PCR): 2,450,000 IU/mL.
+* HCV Genotype: Genotype 1a.
+* Hepatic Fibrosis Evaluation (Transient Elastography / FibroScan): Median liver stiffness 6.2 kPa (consistent with F0-F1 mild fibrosis; rules out cirrhosis).
+* Complete Metabolic Panel: AST 48 U/L, ALT 62 U/L, Total Bilirubin 0.7 mg/dL, Albumin 4.2 g/dL, Platelets 240 x 10^3/uL.
+* Hepatitis B Serology: HBsAg negative, anti-HBs positive (immune).
+* HIV 1/2 Combo Screen: Negative.
+
+ASSESSMENT & PLAN:
+Chronic Hepatitis C viral infection, Genotype 1a, non-cirrhotic (F0-F1).
+1. Direct-Acting Antiviral (DAA) Therapy:
+   * Initiate Sofosbuvir / Velpatasvir (Epclusa 400/100 mg) one tablet PO daily for 12 weeks.
+   * Reviewed high cure rates (>98%) and low adverse effect profile (transient headache, fatigue).
+2. Drug Interaction Check: Patient takes no interacting acid-reducing medications or St. John's Wort.
+3. Follow-up & Cure Documentation:
+   * Order repeat HCV RNA viral load at 12 weeks post-treatment completion to document Sustained Virologic Response (SVR12 = virologic cure).

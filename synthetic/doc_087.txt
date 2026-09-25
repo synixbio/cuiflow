@@ -1,0 +1,28 @@
+RECORD 87 | TYPE: INPATIENT PROGRESS NOTE (NEUROLOGY / ICU)
+
+PATIENT: Synthetic-087 | AGE: 31 | SEX: F | DATE: 2028-11-14
+HOSPITAL DAY: 6 | ICU DAY: 6
+PRIMARY DIAGNOSIS: Guillain-Barré Syndrome (Acute Inflammatory Demyelinating Polyneuropathy - AIDP).
+
+SUBJECTIVE:
+Patient is intubated for airway protection secondary to progressive neuromuscular respiratory failure. Able to communicate using eye blinks and letter board. She states her pain (deep aching muscular dysesthesias) is currently 3/10 following initiation of Gabapentin. Today is Day 4 of Intravenous Immunoglobulin (IVIG) therapy.
+
+OBJECTIVE:
+Vitals: BP fluctuates between 110/68 and 158/94 mmHg (autonomic dysreflexia), HR 78-105 bpm, RR 16 bpm, SpO2 99% on FiO2 30%, PEEP 5 cmH2O.
+Physical Exam:
+* Cranial Nerves: Bilateral facial weakness (incomplete eye closure), intact extraocular movements.
+* Motor: Bilateral flaccid quadriparesis: upper extremities 2/5 proximally, 1/5 distally; lower extremities 0/5 throughout.
+* Reflexes: Globally absent (0/4) throughout bilateral upper and lower extremities.
+* Pulmonary Mechanics (prior to intubation): Forced Vital Capacity had dropped to 11 mL/kg with Negative Inspiratory Force (NIF) of -16 cmH2O.
+* Autonomic: Significant blood pressure lability and resting sinus tachycardia consistent with autonomic instability.
+
+LABS:
+CSF Analysis (from Day 2): Protein 168 mg/dL, WBC 2 cells/uL (classic albuminocytologic dissociation).
+
+ASSESSMENT & PLAN:
+Severe Guillain-Barré Syndrome (AIDP) with quadriparesis, respiratory failure, and autonomic instability; currently receiving IVIG.
+1. Immunotherapy: Administer Day 5 (final dose) of IVIG (0.4 g/kg/day, completing 2 g/kg total course).
+2. Pulmonary Support: Continue mechanical ventilation. Monitor for ventilator-associated complications. Tracheostomy consult requested if no weaning progress by Day 12-14.
+3. Autonomic Monitoring: Continuous arterial line blood pressure monitoring. Avoid aggressive vasodilators due to risk of precipitous hypotension.
+4. Neuropathic Pain: Continue Gabapentin 300 mg TID via nasogastric tube and transdermal Fentanyl patch 25 mcg/hr.
+5. VTE Prophylaxis: Enoxaparin 40 mg SC daily plus bilateral sequential compression devices.

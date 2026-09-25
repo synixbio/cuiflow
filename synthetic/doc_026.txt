@@ -1,0 +1,29 @@
+RECORD 26 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (PULMONOLOGY)
+
+PATIENT: Synthetic-026 | AGE: 59 | SEX: M | DATE: 2026-05-19
+REASON FOR ENCOUNTER: Follow-up of Chronic Obstructive Pulmonary Disease (COPD) and persistent dyspnea.
+
+SUBJECTIVE:
+The patient is a 59-year-old male with severe COPD (GOLD Stage 3, Group E) with a 45 pack-year tobacco history (quit 2 years ago). He presents for routine assessment following a hospital admission 6 weeks ago for an acute infective COPD exacerbation. He currently reports baseline dyspnea on walking half a block (mMRC grade 3). Uses his Albuterol rescue inhaler 3 to 4 times per day. Cough is chronic with morning production of 1-2 tablespoons of white, mucoid sputum. Denies fevers, chills, or lower extremity edema. Compliant with nocturnal CPAP for concomitant obstructive sleep apnea.
+
+OBJECTIVE:
+Vitals: BP 132/80 mmHg, HR 82 bpm, RR 20 bpm, SpO2 92% on ambient air, BMI 27.4.
+Physical Exam:
+* Chest: Increased anterior-posterior diameter (barrel chest). Prolonged expiratory phase with distant breath sounds. Scattered end-expiratory wheezing throughout bilateral upper lobes. No rales or rhonchi.
+* CV: Distant heart sounds, regular, no murmurs.
+* Extremities: No digital clubbing; trace pitting pretibial edema.
+
+SPIROMETRY (Post-Bronchodilator):
+* FEV1: 1.42 L (44% of predicted)
+* FVC: 2.85 L (68% of predicted)
+* FEV1/FVC ratio: 0.50 (severe fixed airflow obstruction)
+
+ASSESSMENT & PLAN:
+Severe Chronic Obstructive Pulmonary Disease with frequent exacerbations.
+1. Escalation of Inhaled Maintenance Therapy:
+   * Discontinue current dual therapy (Fluticasone/Salmeterol).
+   * Initiate Single-Inhaler Triple Therapy: Fluticasone furoate / Umeclidinium / Vilanterol (Trelegy Ellipta 100/62.5/25 mcg) 1 inhalation once daily.
+2. Rescue Medication: Continue Albuterol HFA 90 mcg 2 puffs Q4H PRN acute bronchospasm.
+3. Pulmonary Rehabilitation: Enrolled patient in our 12-week comprehensive outpatient pulmonary rehabilitation program.
+4. Vaccinations: Administered updated RSV vaccine today; confirmed 20-valent pneumococcal conjugate vaccine (PCV20) was received last year.
+5. Follow-up: Clinic visit in 3 months with repeat spirometry and COPD Assessment Test (CAT) scoring.

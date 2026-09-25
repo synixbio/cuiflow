@@ -1,0 +1,26 @@
+RECORD 79 | TYPE: INPATIENT PROGRESS NOTE (BURN & WOUND CARE)
+
+PATIENT: Synthetic-079 | AGE: 34 | SEX: M | DATE: 2028-06-29
+HOSPITAL DAY: 4
+PRIMARY DIAGNOSIS: 18% Total Body Surface Area (TBSA) second- and third-degree thermal burns involving bilateral upper extremities and anterior torso following an industrial flash fire.
+
+SUBJECTIVE:
+Patient reports pain is moderately controlled at 5/10 with IV PCA fentanyl and oral gabapentin. Tolerating enteral tube feeds at goal rate (75 mL/hr). Had dressing change under IV analgesia this morning. Urine output has averaged 45 mL/hr over the past 24 hours.
+
+OBJECTIVE:
+Vitals: BP 118/74 mmHg, HR 92 bpm, RR 18 bpm, Temp 37.4 C, SpO2 98% room air.
+Burn Wound Assessment:
+* Anterior Chest and Abdomen: Approximately 8% TBSA superficial partial-thickness burns; bright pink, moist, intact sensation, healing well with re-epithelialization along margins. Silver sulfadiazine dressings clean.
+* Bilateral Upper Extremities: Approximately 10% TBSA deep partial-thickness and full-thickness burns extending from mid-forearms to dorsum of bilateral hands. Pale, leathery, non-blanching eschar over dorsal hands; sensation diminished to pinprick. Radial and ulnar pulses palpable bilaterally with brisk capillary refill in all digits (no compartment syndrome).
+
+LABORATORY VALUES:
+* WBC: 10.4 x 10^3/uL | Hemoglobin: 11.2 g/dL | Platelets: 280 x 10^3/uL
+* Serum Sodium: 138 mEq/L | Potassium: 4.1 mEq/L | Creatinine: 0.78 mg/dL
+* Albumin: 2.8 g/dL (post-burn hypoalbuminemia)
+
+ASSESSMENT & PLAN:
+18% TBSA partial- and full-thickness burns, hemodynamically stable post-resuscitation phase.
+1. Surgical Intervention: Scheduled for tangential excision and split-thickness skin grafting (STSG) of bilateral dorsal hands and forearms on Hospital Day 6.
+2. Nutrition: Continue high-protein, high-calorie enteral feeds (Promote with fiber) to support hypermetabolic wound healing; supplement with Vitamin C 500 mg BID and Zinc sulfate 220 mg daily.
+3. Wound Care: Daily topical silver sulfadiazine dressings and gentle whirlpool debridement.
+4. Physical/Occupational Therapy: Active range of motion and functional anti-deformity hand splinting (intrinsic plus position) between dressing changes.

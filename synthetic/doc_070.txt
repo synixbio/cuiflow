@@ -1,0 +1,28 @@
+RECORD 70 | TYPE: INPATIENT PROGRESS NOTE (PULMONARY/CRITICAL CARE)
+
+PATIENT: Synthetic-070 | AGE: 57 | SEX: M | DATE: 2028-02-23
+ICU DAY: 5
+PRIMARY DIAGNOSIS: Severe Acute Respiratory Distress Syndrome (ARDS) secondary to aspiration pneumonia.
+
+SUBJECTIVE:
+Patient remains intubated, deeply sedated on Propofol and Fentanyl, and chemically paralyzed with continuous Cisatracurium infusion to optimize ventilator synchrony. Patient completed an 18-hour cycle of prone positioning at 08:00 today and was returned to the supine position.
+
+OBJECTIVE:
+Vitals: BP 118/72 mmHg, HR 80 bpm, Temp 37.0 C, SpO2 94% on FiO2 60%, PEEP 14 cmH2O.
+Physical Exam:
+* Neuro: RASS -5 (sedated/paralyzed), pupils equal, unreactive to light. Train-of-four monitoring: 1/4 twitches.
+* Lungs: Bilateral diffuse crackles, endotracheal tube secured at 23 cm at teeth.
+* CV: Regular rhythm, normal heart sounds, central venous line left internal jugular dressing intact.
+
+VENTILATOR PARAMETERS (Volume Control ARDSNet):
+Tidal Volume: 380 mL (6 mL/kg predicted body weight), Set Rate: 26 bpm, PEEP: 14 cmH2O, FiO2: 60%.
+Plateau Pressure: 27 cmH2O (Target < 30 cmH2O). Driving Pressure: 13 cmH2O.
+Arterial Blood Gas (08:30): pH 7.33, PaCO2 48 mmHg, PaO2 86 mmHg, HCO3 25 mEq/L.
+PaO2 / FiO2 Ratio: 143 (Improved from 92 prior to prone positioning cycle).
+
+ASSESSMENT & PLAN:
+Moderate-to-severe ARDS demonstrating positive physiologic response to prone ventilation and neuromuscular blockade with improved PaO2/FiO2 ratio and lung compliance.
+1. Paralysis & Sedation: Continue Cisatracurium infusion for 24 more hours; perform daily neuromuscular recovery checks.
+2. Prone Therapy: Plan for next 16-hour prone positioning session starting at 16:00 today.
+3. Ventilation Strategy: Maintain lung-protective ventilation (Vt 6 mL/kg PBW, plateau pressure < 30 cmH2O).
+4. Conservative Fluid Strategy: Strict negative fluid balance protocol with IV Furosemide continuous infusion targeting net -1,500 mL/day as MAP permits.

@@ -1,0 +1,34 @@
+RECORD 93 | TYPE: INPATIENT PROGRESS NOTE (INTERNAL MEDICINE)
+
+PATIENT: Synthetic-093 | AGE: 63 | SEX: M | DATE: 2029-02-11
+HOSPITAL DAY: 4
+PRIMARY DIAGNOSIS: Severe acute pancreatitis secondary to hypertriglyceridemia.
+
+SUBJECTIVE:
+Patient notes significant reduction in epigastric pain (currently 2/10, down from 9/10 on admission). He has tolerated sips of water and clear broths this morning without nausea or vomiting. Passing flatus.
+
+OBJECTIVE:
+Vitals: BP 124/76 mmHg, HR 76 bpm regular, RR 16 bpm, Temp 36.9 C, SpO2 98% room air.
+Exam:
+* Abdomen: Soft, non-distended, mild residual tenderness in epigastrium, normal bowel sounds, no guarding or rebound.
+* Skin: Eruptive xanthomas on bilateral extensor elbows visibly flattening.
+
+LABORATORY MONITORING:
+* Serum Triglycerides:
+  * Admission: 3,420 mg/dL (Lipemic serum)
+  * Day 2: 1,840 mg/dL
+  * Day 3: 820 mg/dL
+  * Today: 390 mg/dL (Target < 500 mg/dL achieved).
+* Serum Lipase: Trending down from 1,280 U/L to 145 U/L.
+* Blood Glucose: Maintained at 130-170 mg/dL on IV dextrose co-infusion.
+* Calcium: 8.8 mg/dL | Creatinine: 0.82 mg/dL.
+
+ASSESSMENT & PLAN:
+Hypertriglyceridemic pancreatitis, resolving rapidly; target triglyceride level (< 500 mg/dL) achieved.
+1. Wean IV Insulin Infusion: Discontinue regular insulin infusion (previously running at 0.1 units/kg/hr alongside D10W).
+2. Oral Lipid-Lowering Pharmacotherapy:
+   * Initiate Fenofibrate 145 mg PO daily.
+   * Add Icosapent ethyl 2 g PO BID.
+   * Add Atorvastatin 40 mg PO daily.
+3. Diet: Advance from clear liquids to a strict very low-fat (< 20 grams/day) solid diet.
+4. Lifestyle Counseling: Outpatient dietitian consult; strict alcohol abstinence emphasized.

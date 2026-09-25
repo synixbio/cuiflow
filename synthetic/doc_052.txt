@@ -1,0 +1,25 @@
+RECORD 52 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (DERMATOLOGY)
+
+PATIENT: Synthetic-052 | AGE: 28 | SEX: M | DATE: 2027-05-18
+REASON FOR ENCOUNTER: Severe cystic acne unresponsive to topical regimens.
+
+SUBJECTIVE:
+The patient is a 28-year-old male presenting with painful, inflammatory acne lesions over his face, chest, and upper back for over 5 years. He has previously failed 6-month trials of topical tretinoin 0.05%, benzoyl peroxide 5%, topical clindamycin, and two full 3-month courses of oral Doxycycline (100 mg BID). He notes that the lesions are painful, leave purple marks and pitted scars, and negatively affect his self-esteem and social interactions. Denies joint pain, depression, or GI distress.
+
+OBJECTIVE:
+Dermatologic Examination:
+* Face: Marked erythematous papules, deep inflammatory nodules, and multiple large (1-2 cm) fluctuant cysts clustered along the bilateral cheeks, jawline, and mandibular angles. Extensive ice-pick and boxcar scarring.
+* Chest and Back: Scattered inflammatory pustules and multiple prominent erythematous cystic lesions across the upper back and shoulders.
+
+LABORATORIES (Baseline):
+* Complete Blood Count: Within normal limits.
+* Comprehensive Metabolic Panel: Normal transaminases (AST 18, ALT 22), Creatinine 0.8 mg/dL.
+* Fasting Lipid Panel: Total Cholesterol 152 mg/dL, Triglycerides 98 mg/dL, LDL 82 mg/dL.
+
+ASSESSMENT & PLAN:
+Severe, scarring, nodulocystic acne vulgaris refractory to conventional topical therapies and oral tetracyclines.
+1. Systemic Retinoid Therapy: Candidate for Oral Isotretinoin (Accutane).
+   * Patient enrolled in the iPLEDGE REMS risk management program.
+   * Starting dose: 40 mg PO daily (~0.5 mg/kg/day) for month 1, titrating to cumulative target of 120-150 mg/kg.
+2. Patient Education: Detailed counseling regarding anticipated mucocutaneous xerosis (cheilitis, dry skin, epistaxis), myalgias, and mandatory avoidance of vitamin A supplements and tetracyclines.
+3. Laboratory Monitoring: Repeat fasting lipid panel and liver function tests in 30 days prior to dose escalation.

@@ -1,0 +1,31 @@
+RECORD 35 | TYPE: CONSULTATION NOTE (ALLERGY & IMMUNOLOGY)
+
+PATIENT: Synthetic-035 | AGE: 39 | SEX: F | CONSULTANT: Dr. Alan Foster, MD
+REQUESTING CLINIC: Otolaryngology
+REASON FOR CONSULTATION: Suspected Aspirin-Exacerbated Respiratory Disease (AERD) / Samter's Triad.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 39-year-old female with adult-onset severe asthma and recurrent nasal polyposis (status-post two prior functional endoscopic sinus surgeries). She presents following an acute reaction 2 weeks ago: within 45 minutes of taking 400 mg of Ibuprofen for a headache, she developed sudden severe rhinorrhea, profound nasal congestion, conjunctival injection, followed by intense bronchospasm and wheezing requiring emergency room care and nebulizer treatments. She gives a similar history of chest tightness after taking an Alka-Seltzer 3 years ago.
+
+CURRENT MEDICATIONS:
+* Fluticasone-Salmeterol 250/50 mcg 1 puff BID
+* Montelukast 10 mg PO daily
+* Mometasone furoate nasal spray 2 sprays each nostril daily
+* Albuterol rescue inhaler
+
+PHYSICAL EXAMINATION:
+Vitals: BP 122/74 mmHg, HR 72 bpm, SpO2 98% room air.
+Nose: Anterior rhinoscopy shows marked mucosal edema and large, glistening, pale polyps filling both middle meatuses.
+Chest: Clear to auscultation bilaterally, good air movement, trace end-expiratory wheeze on forced expiration.
+
+ASSESSMENT:
+Aspirin-Exacerbated Respiratory Disease (Samter's Triad) characterized by:
+1. Adult-onset asthma.
+2. Recurrent nasal polyposis.
+3. Severe acute respiratory reactions to COX-1 inhibiting non-steroidal anti-inflammatory drugs.
+
+RECOMMENDATIONS:
+1. Strict avoidance of all COX-1 inhibitors (Aspirin, Ibuprofen, Naproxen, Ketorolac, Meloxicam). Acetaminophen is safe at doses <= 650 mg (weak COX inhibitor).
+2. Leukotriene Modulator Optimization: Switch from Montelukast to Zileuton (5-lipoxygenase inhibitor) 600 mg QID or ER 1200 mg BID, with baseline and regular LFT monitoring.
+3. Biologic Therapy: Patient is an ideal candidate for Dupilumab (anti-IL-4R alpha) 600 mg loading dose then 300 mg SQ every 2 weeks to treat both nasal polyposis and comorbid asthma. Prior authorization paperwork initiated.
+4. Aspirin Desensitization: Discussed inpatient aspirin desensitization protocol if biologic therapy does not control polyp recurrence or if cardioprotective aspirin is required in the future.

@@ -1,0 +1,15 @@
+RECORD 27 | TYPE: SURGICAL OPERATIVE REPORT
+
+PATIENT: Synthetic-027 | AGE: 66 | SEX: F | DATE: 2026-06-11
+PREOPERATIVE DIAGNOSIS: Symptomatic cholelithiasis and chronic cholecystitis.
+POSTOPERATIVE DIAGNOSIS: Chronic cholecystitis with extensive pericholecystic adhesions and cholelithiasis.
+PROCEDURE: Laparoscopic cholecystectomy.
+SURGEON: Dr. Christopher Bailey, MD | ANESTHESIA: General endotracheal.
+ESTIMATED BLOOD LOSS: 20 mL | SPECIMENS: Gallbladder containing multiple cholesterol calculi.
+
+OPERATIVE TECHNIQUE:
+Under general anesthesia, the patient was positioned supine. Pneumoperitoneum was established via Hasson cutdown technique at the umbilicus to 15 mmHg. A 10-mm laparoscope was introduced. Additional 5-mm trocars were placed in the epigastrium and right upper quadrant under direct vision.
+
+Extensive dense omental adhesions to the gallbladder fundus and hepatic flexure were dissected sharply and with cautery. The infundibulum was grasped and retracted laterally and superiorly, displaying the hepatocystic triangle (Calot's triangle). Careful dissection cleared fibrofatty tissue to achieve the Critical View of Safety: the cystic duct and cystic artery were isolated cleanly, and the lower third of the gallbladder was mobilized off the liver bed.
+
+The cystic duct was secured with two titanium clips distally and one proximally and transected. The cystic artery was clipped twice proximally and once distally and transected. The gallbladder was dissected from the gallbladder bed of the liver using electrocautery. Hemostasis of the liver bed was achieved. The specimen was placed into an extraction pouch and retrieved through the umbilical port. The fascia at the umbilicus was closed with 0-Vicryl sutures. Skin incisions were closed with subcuticular 4-0 Monocryl. Sponge and needle counts were correct.

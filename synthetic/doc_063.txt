@@ -1,0 +1,25 @@
+RECORD 63 | TYPE: CONSULTATION NOTE (PHYSICAL MEDICINE & REHABILITATION)
+
+PATIENT: Synthetic-063 | AGE: 61 | SEX: M | CONSULTANT: Dr. Elena Rostova, MD
+REQUESTING SERVICE: Acute Neurology
+REASON FOR CONSULTATION: Inpatient rehabilitation evaluation following acute left MCA ischemic stroke.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 61-year-old male admitted 5 days ago with an acute left middle cerebral artery ischemic stroke resulting in right hemiparesis and moderate expressive aphasia. He received IV thrombolysis and underwent successful endovascular thrombectomy (TICI 2b reperfusion). Neurologic deficits have partially improved, but significant functional impairment persists.
+
+FUNCTIONAL MOBILITY ASSESSMENT:
+* Bed Mobility: Requires moderate assistance (level 3) for rolling and supine-to-sit transitions.
+* Transfers: Requires maximum assistance of one person for sit-to-stand and wheelchair transfers.
+* Ambulation: Non-ambulatory; unable to take steps safely due to right lower extremity foot drop and extensor weakness.
+* Upper Extremity Function: Right arm flaccid with trace wrist flexion (1/5); unable to grasp or release objects. Left arm 5/5.
+* Activities of Daily Living (ADLs): Dependent for lower body dressing, toileting, and bathing; requires moderate assistance for upper body grooming.
+* Cognition & Communication: Follows 2-step axial commands reliably; exhibits word-finding pauses and phonemic paraphasias. Comprehension superior to verbal output.
+
+REHABILITATION POTENTIAL:
+High rehabilitation potential. Patient is medically stable, motivated, demonstrates active family support, and has the physical endurance to tolerate >= 3 hours of intensive therapy per day.
+
+RECOMMENDATIONS:
+1. Patient meets all clinical criteria for Acute Inpatient Rehabilitation Facility (IRF) admission.
+2. Intensive Therapy Prescription: 3 hours daily of multidisciplinary therapy (Physical Therapy for gait/transfers, Occupational Therapy for ADLs/neuro-motor retraining, Speech-Language Pathology for expressive aphasia).
+3. Equipment Needs: Right ankle-foot orthosis (AFO) and hemi-height wheelchair with lap tray.
+4. Deep Vein Thrombosis Prophylaxis: Continue Enoxaparin 40 mg SC daily throughout rehabilitation stay.

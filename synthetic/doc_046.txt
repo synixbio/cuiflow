@@ -1,0 +1,26 @@
+RECORD 46 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-046 | AGE: 21 | SEX: M | DATE: 2027-02-28 01:15
+CHIEF COMPLAINT: High fever, severe headache, photophobia, and neck stiffness.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 21-year-old college student residing in an on-campus dormitory who presents with sudden onset of excruciating, throbbing headache, high fever, and extreme neck pain that began 8 hours ago. Roommates noted him becoming increasingly confused and disoriented tonight. He vomited twice prior to arrival. Denies recent head trauma, travel outside the country, or known sick contacts.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 108/62 mmHg, HR 118 bpm, RR 22 bpm, Temp 39.4 C, SpO2 97% room air.
+General: Acute distress, eyes closed due to light sensitivity, groaning in discomfort.
+HEENT: Normocephalic, pupils equal and reactive, photophobia prominent.
+Neck: Severe nuchal rigidity with involuntary resistance to passive neck flexion. Positive Kernig sign (inability to extend knee past 135 degrees when hip flexed) and positive Brudzinski sign (flexion of neck induces involuntary flexion of hips and knees).
+Skin: Warm, dry. Two small petechial lesions observed on the right lower quadrant of abdomen and left forearm.
+
+EMERGENCY MANAGEMENT:
+Clinical suspicion for acute bacterial meningitis (meningococcal suspected).
+1. Immediate Empiric Antimicrobial Therapy (prior to lumbar puncture due to clinical urgency):
+   * IV Ceftriaxone 2 g
+   * IV Vancomycin 1.75 g (25 mg/kg)
+   * IV Ampicillin 2 g (covering Listeria)
+   * IV Dexamethasone 10 mg (given immediately before/with first antibiotic dose to reduce hearing loss and mortality)
+2. Blood Cultures: Two sets drawn stat.
+3. Diagnostic Workup: Stat non-contrast head CT ordered to rule out mass effect, to be followed immediately by diagnostic lumbar puncture.
+4. Infection Control: Placed patient in respiratory droplet isolation.
+5. Public Health Notification: Contact campus health authorities for chemoprophylaxis (Rifampin or Ciprofloxacin) of close dormitory contacts.

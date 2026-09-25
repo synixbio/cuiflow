@@ -1,0 +1,25 @@
+RECORD 36 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (ORTHOPEDICS)
+
+PATIENT: Synthetic-036 | AGE: 53 | SEX: M | DATE: 2026-10-14
+REASON FOR ENCOUNTER: Left knee pain and mechanical locking.
+
+SUBJECTIVE:
+The patient is a 53-year-old high school physical education teacher who experienced an acute twisting injury to his left knee while demonstrating soccer skills 3 weeks ago. He felt a distinct "pop" followed by swelling over the next 12 hours. Since the injury, he has experienced sharp medial joint line pain, particularly with deep squatting and pivoting, as well as intermittent catching and painful "locking" where he cannot fully straighten the knee without manipulating it manually.
+
+PHYSICAL EXAMINATION:
+Left Knee:
+* Inspection: Moderate joint effusion present. No obvious erythema or ecchymosis.
+* Range of Motion: Active extension lacks 5 degrees compared to contralateral side (extension block); flexion to 125 degrees with discomfort.
+* Palpation: Exquisite point tenderness along the posterior medial joint line. Lateral joint line non-tender.
+* Stability: Lachman negative (firm endpoint), Anterior/Posterior Drawer negative. Varus and Valgus stress stable at 0 and 30 degrees of flexion.
+* Provocative Tests: McMurray test positive for a painful click along the medial compartment. Thessaly test positive at 20 degrees of flexion.
+
+IMAGING:
+* Plain Radiographs (4-view left knee): Normal joint alignment, mild medial compartment narrowing, no acute avulsion fractures.
+* MRI Left Knee: Complex tear of the posterior horn and body of the medial meniscus, with a flipped bucket-handle fragment displaced into the intercondylar notch. ACL, PCL, MCL, and LCL intact.
+
+ASSESSMENT & PLAN:
+Left knee displaced bucket-handle tear of the medial meniscus causing mechanical locking and loss of terminal extension.
+1. Indication for Surgery: Because of the displaced fragment and mechanical blockade, surgical intervention is indicated over conservative physical therapy.
+2. Procedure Scheduled: Left knee arthroscopy with partial medial meniscectomy vs. meniscal repair (repair prioritized if tissue quality in the vascular red-white zone allows).
+3. Preoperative orders placed; patient instructed to remain partial weight-bearing with crutches and ice the knee.

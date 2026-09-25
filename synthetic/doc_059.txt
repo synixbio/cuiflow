@@ -1,0 +1,17 @@
+RECORD 59 | TYPE: SURGICAL OPERATIVE REPORT
+
+PATIENT: Synthetic-059 | AGE: 69 | SEX: M | DATE: 2027-09-02
+PREOPERATIVE DIAGNOSIS: Prostatic adenocarcinoma, Gleason score 4+3=7 (Grade Group 3), localized.
+POSTOPERATIVE DIAGNOSIS: Prostatic adenocarcinoma, localized.
+PROCEDURE: Robot-Assisted Laparoscopic Radical Prostatectomy (RALP) with bilateral pelvic lymph node dissection and bilateral nerve sparing.
+SURGEON: Dr. Tariq Al-Mansoor, MD | ANESTHESIA: General endotracheal.
+ESTIMATED BLOOD LOSS: 100 mL | COMPLICATIONS: None.
+
+OPERATIVE TECHNIQUE:
+The patient was placed in dorsal lithotomy and steep Trendelenburg position. Pneumoperitoneum was established. The da Vinci surgical robotic system was docked with standard transperitoneal configuration.
+
+The bladder was mobilized by incising the peritoneum along the medial umbilical ligaments and dropping the bladder off the anterior abdominal wall into the space of Retzius. The endopelvic fascia was incised bilaterally, and the puboprostatic ligaments were preserved. The superficial dorsal venous complex was secured with a figure-of-eight 2-0 Vicryl suture.
+
+The bladder neck was dissected sharply off the prostate base, identifying and preserving the ureteral orifices. The vas deferens and seminal vesicles were dissected and mobilized bilaterally. The prostatic pedicles were divided using Hem-o-lok clips and bipolar cautery, preserving the neurovascular bundles bilaterally via an interfascial plane dissection.
+
+The apical urethra was transected sharply leaving maximal urethral stump length. Bilateral extended pelvic lymph node dissections (obturator and external iliac packets) were performed and sent separately. A vesicourethral anastomosis was created over a 20 Fr silicone Foley catheter using continuous running 3-0 Monocryl (Van Velthoven technique). Anastomotic water-tightness was verified by instilling 200 mL of sterile saline with no extravasation. The robotic arms were undocked and specimens removed in an Endo Catch bag. Skin closed with 4-0 Monocryl.

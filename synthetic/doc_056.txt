@@ -1,0 +1,26 @@
+RECORD 56 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-056 | AGE: 79 | SEX: F | DATE: 2027-07-09 23:40
+CHIEF COMPLAINT: Acute left hip pain and inability to bear weight after a mechanical fall.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 79-year-old female with osteoporosis and mild dementia who tripped over a laundry basket at home approximately 2 hours ago, landing directly on her left lateral hip. She experienced immediate, intense left groin and hip pain and was unable to get up. Paramedics assisted her off the floor. She denies head trauma, loss of consciousness, neck pain, or antecedent dizziness or chest pain.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 148/82 mmHg, HR 86 bpm regular, RR 18 bpm, Temp 36.8 C, SpO2 97% room air.
+Left Lower Extremity: The left leg is visibly shortened and externally rotated compared to the right leg. Exquisite tenderness to palpation over the left femoral neck and greater trochanter. Inability to perform active straight leg raise or tolerate passive internal rotation of the left hip.
+Distal Neurovascular: Strong 2+ dorsalis pedis and posterior tibial pulses. Sensation intact over the femoral, saphenous, peroneal, and tibial nerve distributions. Toes warm with brisk capillary refill.
+Pelvis: Stable to gentle compression; no pubic symphyseal tenderness.
+
+RADIOLOGICAL IMAGING:
+* AP Pelvis and Left Hip Radiographs: Displaced transcervical fracture of the left femoral neck (Garden Stage IV). Normal acetabulum. Demineralization consistent with osteoporosis. No pubic rami fractures.
+
+EMERGENCY COURSE & PLAN:
+Left displaced femoral neck fracture secondary to mechanical ground-level fall.
+1. Analgesia: Performed an ultrasound-guided left femoral nerve block / fascia iliaca compartment block using 30 mL of 0.2% Ropivacaine, resulting in marked pain relief.
+2. Orthopedic Consultation: Dr. Higgins consulted; patient scheduled for left hip hemiarthroplasty tomorrow morning.
+3. Preoperative Optimization:
+   * IV maintenance fluids at 75 mL/hr.
+   * Type and screen 2 units PRBCs.
+   * Basic metabolic panel, CBC, and PT/INR obtained.
+   * NPO after midnight.

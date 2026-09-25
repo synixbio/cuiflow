@@ -1,0 +1,27 @@
+RECORD 74 | TYPE: CONSULTATION NOTE (SURGICAL ONCOLOGY)
+
+PATIENT: Synthetic-074 | AGE: 61 | SEX: M | CONSULTANT: Dr. Rachel Gomez, MD
+REQUESTING SERVICE: Gastroenterology
+REASON FOR CONSULTATION: Resectable adenocarcinoma of the pancreatic head.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 61-year-old male who presented with painless obstructive jaundice, dark tea-colored urine, clay-colored stools, and a 10-lb weight loss over 5 weeks. Total bilirubin on admission was 11.2 mg/dL. Abdominal CT pancreas protocol revealed a 2.8 cm hypoenhancing mass in the head of the pancreas with upstream dilation of the common bile duct (14 mm) and main pancreatic duct (6 mm) ("double duct sign"). EGD with endoscopic ultrasound (EUS) and fine-needle aspiration (FNA) confirmed invasive ductal adenocarcinoma.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 128/78 mmHg, HR 72 bpm, Wt 74 kg.
+General: Marked scleral icterus and generalized jaundice.
+Abdomen: Soft, non-tender, palpable non-tender gallbladder in right upper quadrant (Courvoisier sign). No ascites.
+
+IMAGING & MULTIDISCIPLINARY REVIEW:
+* High-Resolution Pancreas CT Protocol:
+  * 2.8 cm mass in pancreatic head.
+  * Clear fat plane preserved around the celiac axis, superior mesenteric artery (SMA), and common hepatic artery (> 180-degree clearance).
+  * Superior mesenteric vein (SMV) and portal vein abutted over < 90 degrees with no venous occlusion or contour deformity.
+  * No distant hepatic or peritoneal metastases.
+* Staging: Resectable pancreatic head adenocarcinoma (T2N0M0).
+
+RECOMMENDATIONS & SURGICAL PLAN:
+1. Patient has anatomically resectable pancreatic head adenocarcinoma with excellent performance status (ECOG 0).
+2. Proposed Surgical Procedure: Pancreaticoduodenectomy (Whipple Procedure).
+3. Preoperative Biliary Drainage: Because total bilirubin is > 10 mg/dL, ERCP with placement of a short plastic biliary stent was performed yesterday to relieve obstruction prior to definitive resection.
+4. Tumor Board Consensus: Proceed with surgical resection in 2 weeks once bilirubin drops below 4 mg/dL, followed by adjuvant mFOLFIRINOX chemotherapy.

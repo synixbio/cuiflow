@@ -1,0 +1,59 @@
+name: Nightly integration
+
+# The integration tests against real engines and a real terminology store, run every night
+# against the engines' latest releases, so an engine release that breaks an adapter is caught
+# before a user finds it. CI (ci.yml) covers the adapters through fakes only.
+#
+# The UMLS indexes are licensed and never stored in the repository or on hosted runners. This
+# job runs on a self-hosted runner with the label `umls` that has them on disk. Set their paths
+# as repository variables (Settings > Actions > Variables):
+#   CUIFLOW_MMLITE_INDEX     mmlite IVF index directory
+#   CUIFLOW_UMLSMATCH_DB     umlsmatch SQLite index
+#   CUIFLOW_TERMINOLOGY_DB   terminology store built with --mrrel
+#   CUIFLOW_GOLD             optional: a gold set, for the adapter-parity and heading checks
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  integration:
+    runs-on: umls
+    timeout-minutes: 60
+    env:
+      CUIFLOW_MMLITE_INDEX: ${{ vars.CUIFLOW_MMLITE_INDEX }}
+      CUIFLOW_UMLSMATCH_DB: ${{ vars.CUIFLOW_UMLSMATCH_DB }}
+      CUIFLOW_TERMINOLOGY_DB: ${{ vars.CUIFLOW_TERMINOLOGY_DB }}
+      CUIFLOW_GOLD: ${{ vars.CUIFLOW_GOLD }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: The indexes must be configured
+        # Unset, every integration test would skip and the job would pass having tested nothing.
+        run: |
+          for name in CUIFLOW_MMLITE_INDEX CUIFLOW_UMLSMATCH_DB CUIFLOW_TERMINOLOGY_DB; do
+            value="${!name}"
+            if [ -z "$value" ] || [ ! -e "$value" ]; then
+              echo "$name is not set, or '$value' does not exist on this runner"
+              exit 1
+            fi
+          done
+
+      - name: Install cuiflow with the latest engine releases
+        run: |
+          python -m venv .nightly
+          .nightly/bin/python -m pip install --upgrade pip
+          .nightly/bin/python -m pip install --upgrade -e ".[dev,all]"
+          .nightly/bin/python -m pip install en_core_web_sm@https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+          .nightly/bin/python -m pip list | grep -i -E "^(mmlite|umlsmatch) "
+
+      - name: Integration tests
+        # -rs lists skips: the terminology gate cases skip unless the store is UMLS 2026AA.
+        run: .nightly/bin/python -m pytest -q -rs -m integration

@@ -1,0 +1,24 @@
+RECORD 43 | TYPE: INPATIENT DISCHARGE SUMMARY
+
+PATIENT: Synthetic-043 | AGE: 23 | SEX: F | ADMISSION: 2027-01-29 | DISCHARGE: 2027-02-02
+ADMISSION DIAGNOSIS: Diabetic Ketoacidosis (DKA).
+DISCHARGE DIAGNOSES:
+1. Diabetic ketoacidosis, resolved.
+2. Type 1 Diabetes Mellitus, suboptimally controlled.
+3. Hypomagnesemia, corrected.
+
+HOSPITAL COURSE:
+A 23-year-old female with an 8-year history of Type 1 Diabetes Mellitus presented with nausea, recurrent vomiting, abdominal pain, and Kussmaul respirations. Her personal continuous glucose monitor had been malfunctioning for 2 days, and she had omitted multiple basal insulin doses due to financial barriers in obtaining glargine refills. Admission labs: Blood glucose 542 mg/dL, arterial blood gas pH 7.18, bicarbonate 9 mEq/L, anion gap 28, beta-hydroxybutyrate 6.8 mmol/L, serum potassium 5.2 mEq/L.
+
+Patient was admitted to the step-down unit and managed on the institutional DKA insulin protocol. Aggressive fluid resuscitation with isotonic saline was initiated, transitioning to D5 0.45% NS once blood glucose reached 220 mg/dL. Potassium repletion was added to IV fluids. By Hospital Day 2 (26 hours), the anion gap closed to 10, bicarbonate rose to 20 mEq/L, and she was transitioned to subcutaneous insulin with a 2-hour overlap before the insulin drip was discontinued. Certified diabetes educators met with the patient and enrolled her in pharmaceutical manufacturer co-pay assistance.
+
+DISCHARGE MEDICATIONS:
+1. Insulin Glargine 24 units subcutaneous once daily at bedtime.
+2. Insulin Lispro 5 units subcutaneous before meals, plus correction scale.
+3. Ketone urine test strips.
+4. Dexcom G7 Continuous Glucose Monitoring supply kit.
+
+DISCHARGE PLAN:
+* Outpatient endocrine follow-up in 10 days.
+* Social work follow-up for insulin pharmacy copay card activation.
+* Detailed sick-day management guidelines provided to patient and family.

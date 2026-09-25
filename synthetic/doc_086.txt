@@ -1,0 +1,31 @@
+RECORD 86 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (ALLERGY & IMMUNOLOGY)
+
+PATIENT: Synthetic-086 | AGE: 7 years | SEX: M | DATE: 2028-10-26
+REASON FOR ENCOUNTER: Evaluation of suspected peanut allergy and oral food challenge planning.
+
+SUBJECTIVE:
+The patient is a 7-year-old male brought by his parents. At 14 months of age, he ingested a peanut butter cracker and immediately developed perioral hives, lip swelling, and vomiting, successfully treated with diphenhydramine. He has maintained strict peanut avoidance since that event. Parents are interested in determining if he has outgrown the allergy so he can safely attend school functions without excessive food anxiety. He has mild allergic rhinitis managed with intermittent antihistamines.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 96/60 mmHg, HR 82 bpm, RR 18 bpm, Wt 23.5 kg.
+General: Well-appearing, cooperative child.
+Skin: Clear, no active eczema, hives, or dermatographism.
+HEENT: Clear rhinorrhea, pale nasal turbinates, oropharynx clear.
+Lungs: Clear to auscultation bilaterally, no wheezes.
+
+ALLERGY TESTING:
+* Skin Prick Testing (SPT):
+  * Histamine control: 6 mm wheal / 18 mm flare (positive control valid).
+  * Saline control: 0 mm (negative control valid).
+  * Peanut extract: 2 mm wheal / 4 mm flare (significantly reduced from 8 mm wheal 4 years ago).
+* Component-Resolved In Vitro IgA/IgE Diagnostics:
+  * Total Serum IgE: 78 kU/L.
+  * Peanut Specific IgE: 0.65 kU/L (low-level sensitivity).
+  * Ara h 2 (major anaphylaxis storage protein): < 0.10 kU/L (Undetectable).
+
+ASSESSMENT & PLAN:
+Probable resolution / outgrowing of IgE-mediated peanut allergy, supported by negative Ara h 2 and minimal skin prick reactivity.
+1. Graded In-Clinic Oral Food Challenge (OFC):
+   * Scheduled for a 4-hour supervised graded challenge next week: incremental dosing of peanut butter starting at 1/16 teaspoon up to a cumulative serving of 2 tablespoons under physician observation.
+   * Resuscitation equipment, intramuscular epinephrine, and nursing staff prepared.
+2. Safety Instructions: Maintain strict peanut avoidance until completion of the oral food challenge. Continue carrying two unexpired Epinephrine auto-injectors (0.15 mg).

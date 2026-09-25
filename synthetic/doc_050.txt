@@ -1,0 +1,21 @@
+RECORD 50 | TYPE: DISCHARGE SUMMARY (PSYCHIATRY)
+
+PATIENT: Synthetic-050 | AGE: 22 | SEX: F | ADMISSION: 2027-04-14 | DISCHARGE: 2027-04-25
+ADMISSION DIAGNOSIS: Bipolar I disorder, current episode manic with psychotic features.
+DISCHARGE DIAGNOSES:
+1. Bipolar I disorder, manic with psychotic features, in remission.
+2. Generalized anxiety disorder.
+
+HOSPITAL COURSE:
+A 22-year-old female university student was brought to the psychiatric crisis unit by campus safety after exhibiting 8 days of decreased need for sleep (sleeping 1-2 hours per night), rapid pressured speech, hyper-religiosity, grandiose delusions that she was an appointed messenger of galactic peace, and impulsive reckless spending ($12,000 on credit cards). Urine toxicology was negative for illicit substances.
+
+Upon inpatient admission, she was placed on 1:1 observation. She was initiated on Lithium Carbonate 300 mg PO TID and titrated to 900 mg daily, along with Olanzapine 10 mg PO at bedtime for rapid control of acute mania and psychosis. Over 11 hospital days, her grandiosity completely resolved, thought process reorganized to linear and goal-directed, and sleep normalized to 8 hours nightly. Serum lithium level reached a therapeutic concentration of 0.82 mEq/L with normal renal and thyroid panels. She developed full insight into her bipolar diagnosis and engaged well in psychoeducation groups.
+
+DISCHARGE MEDICATIONS:
+1. Lithium Carbonate 450 mg PO BID (Therapeutic level maintained at 0.8 mEq/L).
+2. Olanzapine 5 mg PO at bedtime (taper plan outlined for eventual discontinuation as maintenance mood stabilizer stabilizes).
+
+FOLLOW-UP PLAN:
+* Outpatient psychiatric appointment with Dr. Neil Henderson in 5 days.
+* Serum lithium level, BMP, and TSH scheduled in 2 weeks.
+* Referral to university student mental health disability coordinator for academic accommodations.

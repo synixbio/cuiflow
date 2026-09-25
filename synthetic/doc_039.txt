@@ -1,0 +1,31 @@
+RECORD 39 | TYPE: INPATIENT PROGRESS NOTE (NEUROLOGY)
+
+PATIENT: Synthetic-039 | AGE: 26 | SEX: F | DATE: 2026-12-08
+HOSPITAL DAY: 2
+REASON FOR ADMISSION: Acute bilateral lower extremity weakness, sensory level, and urinary retention.
+
+SUBJECTIVE:
+Patient reports that numbness in her feet that began 3 days ago has ascended up to her mid-abdomen (umbilicus). She woke up yesterday morning unable to bear weight on her legs and had to be catheterized in the ED for 800 mL acute urinary retention. She notes a tight "band-like" squeezing sensation around her waist. Upper extremity strength remains intact. Denies recent diarrheal illness or vaccinations.
+
+OBJECTIVE:
+Vitals: BP 118/74 mmHg, HR 68 bpm, RR 16 bpm, Temp 36.8 C.
+Neurologic Exam:
+* Cranial Nerves: II-XII intact, normal visual acuity and pupillary responses.
+* Motor: Bilateral upper extremities 5/5 strength throughout. Bilateral lower extremities: hip flexors 2/5, knee extensors 3/5, dorsiflexors 2/5, plantarflexors 3/5.
+* Sensory: Sharp sensory pinprick and temperature level identified at the T10 dermatome (umbilicus). Vibration and proprioception markedly reduced at the toes and ankles bilaterally.
+* Reflexes: 3+ hyperreflexia at bilateral patellar and Achilles tendons; bilateral extensor plantar responses (positive Babinski).
+* Genitourinary: Indwelling Foley catheter in place draining clear urine.
+
+DIAGNOSTIC WORKUP:
+* MRI Thoracic Spine with Gadolinium: Demonstrates a 2.5-cm hyperintense T2/FLAIR intramedullary lesion centered at T8-T10 with patchy contrast enhancement, occupying greater than two-thirds of the spinal cord cross-sectional area (Longitudinally Extensive Transverse Myelitis - LETM).
+* MRI Brain and Cervical Spine: Unremarkable; no periventricular white matter lesions.
+* Lumbar Puncture: CSF WBC 45 cells/uL (85% lymphocytes), Protein 68 mg/dL, Glucose 62 mg/dL. CSF Oligoclonal bands: Negative.
+* Serum Neuromyelitis Optica (NMO / AQP4-IgG) autoantibody: PENDING.
+* Serum MOG-IgG autoantibody: PENDING.
+
+ASSESSMENT & PLAN:
+Acute Longitudinally Extensive Transverse Myelitis (LETM), suspicious for Neuromyelitis Optica Spectrum Disorder (NMOSD) or MOG-antibody disease.
+1. High-Dose Corticosteroids: Administer IV Methylprednisolone 1,000 mg daily for 5 days.
+2. Therapeutic Plasma Exchange (PEX): Consult apheresis service. If no noticeable motor recovery within 48-72 hours of high-dose steroids, proceed immediately with 5-7 cycles of plasma exchange.
+3. Bladder / Bowel Care: Maintain indwelling catheter; initiate bowel regimen with Senna and Docusate.
+4. Physical Therapy: In-room active-assisted physical and occupational therapy.

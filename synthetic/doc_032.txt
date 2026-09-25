@@ -1,0 +1,27 @@
+RECORD 32 | TYPE: INPATIENT PROGRESS NOTE (OB/GYN)
+
+PATIENT: Synthetic-032 | AGE: 31 | SEX: F | DATE: 2026-08-19
+HOSPITAL DAY: 2 | POSTPARTUM DAY: 1
+DELIVERY SUMMARY: 39w2d Gestational age, uncomplicated spontaneous vaginal delivery over intact perineum yesterday at 14:10. Infant male, 3420 g, Apgars 9 and 9.
+
+SUBJECTIVE:
+Patient reports feeling well and bonding nicely with her infant. Successfully breastfeeding on demand every 2 to 3 hours with good latch. Lochia has been moderate, red, without large clots. Mild uterine cramping during breastfeeding. Passing flatus; has not had a bowel movement yet. Ambulating without assistance.
+
+OBJECTIVE:
+Vitals: BP 114/72 mmHg, HR 68 bpm, RR 16 bpm, Temp 36.8 C, SpO2 99% room air.
+Physical Exam:
+* Breasts: Soft, colostrum expressed bilaterally, nipples intact without fissures or erythema.
+* Abdomen: Soft, fundus firm, contracted, midline, located 1 cm below the umbilicus.
+* Perineum: Inspected; minimal edema, no hematoma, no laceration repair breakdown.
+* Lochia: Lochia rubra, moderate, no foul odor.
+* Extremities: Bilateral lower extremities non-edematous, calves non-tender, Homans sign negative.
+
+LABS:
+Postpartum Day 1 CBC: Hemoglobin 10.8 g/dL (pre-delivery 11.6 g/dL), Hematocrit 32.4%, WBC 11.2 x 10^3/uL. Blood type O positive, Rh positive, Rubella immune.
+
+PLAN:
+1. Routine postpartum care: Continue postpartum multivitamin and Docusate sodium 100 mg PO BID.
+2. Analgesia: Ibuprofen 600 mg PO Q6H PRN uterine cramping; Acetaminophen 650 mg PRN breakthrough.
+3. Lactation: Continue bedside lactation consultant support.
+4. Contraception Counseling: Patient desires progestin-only oral contraceptive pill or subdermal implant; prescription provided.
+5. Anticipate routine discharge tomorrow (Postpartum Day 2) with scheduled 6-week postpartum clinic follow-up.

@@ -1,0 +1,31 @@
+RECORD 68 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (OPHTHALMOLOGY)
+
+PATIENT: Synthetic-068 | AGE: 68 | SEX: F | DATE: 2028-01-20
+REASON FOR ENCOUNTER: Annual diabetic retinopathy screening and gradual bilateral blurred vision.
+
+SUBJECTIVE:
+The patient is a 68-year-old female with a 15-year history of Type 2 Diabetes Mellitus (most recent HbA1c 8.4%). She reports gradual, painless reduction in visual acuity bilaterally over the past year, describing difficulties reading small print and driving at night due to glare around streetlights. Denies sudden vision loss, flashes of light, floaters, or eye pain.
+
+OBJECTIVE:
+Visual Acuity (with correction):
+* Right Eye (OD): 20/50
+* Left Eye (OS): 20/60
+Intraocular Pressure: OD 16 mmHg, OS 15 mmHg (normal).
+Slit Lamp Examination:
+* Cornea/Anterior Chamber: Clear, deep, quiet bilaterally.
+* Lens: 2+ nuclear sclerotic cataract and 1+ cortical spokes bilaterally.
+Dilated Funduscopic Examination:
+* Optic Nerve: Sharp disc margins, cup-to-disc ratio 0.3 bilaterally.
+* Macula: Mild retinal thickening and hard exudates involving the center of the macula in the left eye; flat in the right eye.
+* Retinal Vasculature: Bilateral scattered microaneurysms, dot-and-blot hemorrhages, and cotton wool spots in all four quadrants. No neovascularization of the disc (NVD) or elsewhere (NVE).
+
+OPTICAL COHERENCE TOMOGRAPHY (OCT):
+* Left Eye: Clinically significant diabetic macular edema (CSME) with central subfield thickness of 380 microns and intraretinal fluid cysts.
+* Right Eye: Normal foveal architecture, central thickness 245 microns.
+
+ASSESSMENT & PLAN:
+1. Moderate Non-Proliferative Diabetic Retinopathy (NPDR) bilaterally.
+2. Center-involving Diabetic Macular Edema (DME), Left Eye.
+3. Bilateral nuclear sclerotic cataracts contributing to glare and decreased acuity.
+4. Intervention: Intravitreal injection of Anti-VEGF agent (Aflibercept 2 mg / 0.05 mL) performed in the left eye under sterile conditions today.
+5. Follow-up: Re-evaluate left eye in 4 weeks for repeat OCT and second anti-VEGF injection. Emphasized systemic glycemic and blood pressure optimization with primary care.

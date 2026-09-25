@@ -1,0 +1,23 @@
+RECORD 90 | TYPE: DISCHARGE SUMMARY (GENERAL SURGERY)
+
+PATIENT: Synthetic-090 | AGE: 43 | SEX: F | ADMISSION: 2028-12-20 | DISCHARGE: 2028-12-26
+ADMISSION DIAGNOSIS: Necrotizing soft tissue infection (NSTI) of the left lower extremity.
+DISCHARGE DIAGNOSES:
+1. Necrotizing fasciitis, left thigh and calf, polymicrobial, status-post multiple surgical debridements.
+2. Sepsis secondary to soft tissue infection, resolved.
+3. Type 2 Diabetes Mellitus.
+
+HOSPITAL COURSE:
+A 43-year-old female with uncontrolled diabetes presented with rapidly spreading erythema, bullae, exquisite pain out of proportion to exam, and crepitus along her left calf and thigh, alongside hypotension and high fevers. Emergent bedside incision revealed "dishwater" fluid and loss of fascial resistance. She was rushed to the OR immediately for emergent radical surgical debridement of skin, subcutaneous fat, and necrotic fascia. Cultures grew Streptococcus pyogenes, Enterococcus faecalis, and Bacteroides fragilis.
+
+Broad-spectrum antimicrobial therapy with IV Vancomycin, Meropenem, and Clindamycin (for toxin suppression) was initiated. She underwent a second-look debridement on Hospital Day 2 which demonstrated clean, healthy, bleeding margins with no further fascial necrosis. Negative pressure wound therapy (wound VAC) was applied at 125 mmHg continuous suction. Blood cultures cleared, fevers resolved, and inflammatory markers normalized. At discharge, the wound base is covered with healthy, beefy red granulation tissue.
+
+DISCHARGE MEDICATIONS:
+1. Amoxicillin-Clavulanate 875/125 mg PO BID (to complete 14 total antibiotic days).
+2. Metformin 1,000 mg PO BID.
+3. Insulin Glargine 18 units SC at bedtime.
+4. Oxycodone 5 mg PO Q6H PRN severe wound pain.
+
+FOLLOW-UP PLAN:
+* Home Health Nursing arranged for dressing changes of portable Wound VAC three times weekly.
+* Revisit General Surgery and Plastic Surgery clinics in 7 days to evaluate wound bed preparation for split-thickness skin graft coverage.

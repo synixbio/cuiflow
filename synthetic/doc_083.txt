@@ -1,0 +1,26 @@
+RECORD 83 | TYPE: INPATIENT PROGRESS NOTE (PULMONOLOGY)
+
+PATIENT: Synthetic-083 | AGE: 72 | SEX: M | DATE: 2028-09-04
+HOSPITAL DAY: 3
+PRIMARY DIAGNOSIS: Massive acute pulmonary embolism treated with catheter-directed thrombolysis.
+
+SUBJECTIVE:
+The patient is a 72-year-old male who presented 48 hours ago with sudden syncope, hypotension, and acute hypoxemic respiratory failure due to bilateral saddle pulmonary emboli with right ventricular strain. He underwent successful ultrasound-assisted catheter-directed thrombolysis (EKOS) with low-dose tPA (1 mg/hr/catheter for 12 hours). Catheters were pulled 18 hours ago. He reports breathing is substantially easier today. Denies chest pain, hemoptysis, groin puncture site pain, or bleeding.
+
+OBJECTIVE:
+Vitals: BP 124/78 mmHg (off all pressors), HR 78 bpm regular (down from 124 bpm), RR 18 bpm, SpO2 96% on 2 L nasal cannula.
+Exam:
+* Cardiovascular: Normal S1/S2, JVP normalized to 6 cm H2O, no peripheral edema.
+* Lungs: Clear to auscultation bilaterally.
+* Access Sites: Bilateral femoral venous puncture sites soft, flat, clean, without hematoma or active oozing.
+
+DIAGNOSTIC REASSESSMENT:
+* Repeat Bedside Echocardiogram: Dramatic reduction in RV size; RV systolic function improved from severely depressed to mildly depressed. Tricuspid annular plane systolic excursion (TAPSE) improved from 11 mm to 17 mm. RV systolic pressure decreased from 58 mmHg to 32 mmHg.
+* Troponin I: Decreased to 45 ng/L (peaked at 890 ng/L).
+
+ASSESSMENT & PLAN:
+Submassive-to-massive pulmonary embolism with excellent hemodynamic and echocardiographic recovery post-catheter-directed thrombolysis.
+1. Anticoagulation: Transitioned from IV unfractionated heparin bridge to oral Apixaban 10 mg PO BID (to complete 7 days loading, then 5 mg PO BID).
+2. Oxygen Weaning: Wean nasal cannula to room air today with continuous pulse oximetry.
+3. Ambulation: Transfer from ICU to step-down unit; begin gentle hallway ambulation with physical therapy.
+4. Etiology: Hypercoagulability workup deferred; lower extremity venous Doppler negative for residual DVT (likely completely embolized).

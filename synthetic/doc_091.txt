@@ -1,0 +1,27 @@
+RECORD 91 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-091 | AGE: 59 | SEX: F | DATE: 2029-01-08 20:15
+CHIEF COMPLAINT: Sudden excruciating left eye pain, blurred vision, headache, and vomiting.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 59-year-old female who was watching a movie in a dark theater when she experienced sudden, intense, boring pain in her left eye that rapidly spread to the left hemicranium. She notes severe blurred vision in that eye with rainbow-colored halos around lights, accompanied by nausea and two episodes of vomiting. Denies prior ocular surgery or trauma. She took an over-the-counter diphenhydramine pill 4 hours prior for allergy symptoms.
+
+PHYSICAL EXAMINATION:
+Left Eye (OS):
+* Visual Acuity: Count fingers at 2 feet (markedly diminished; Right eye OD: 20/25).
+* Intraocular Pressure (Tonometry): OS 62 mmHg (Critically High; Normal 10-21 mmHg; OD 16 mmHg).
+* External / Slit Lamp: Severe ciliary flush and conjunctival injection. Cornea is hazy, steamy, and edematous. Anterior chamber is shallow with peripheral iris-cornea apposition.
+* Pupil: Mid-dilated (5 mm), vertically oval, non-reactive to direct or consensual light.
+Right Eye (OD):
+* Unremarkable anterior chamber; narrow peripheral angle on gonioscopic evaluation.
+
+ASSESSMENT & EMERGENCY INTERVENTIONS:
+Acute angle-closure glaucoma (AACG), left eye, precipitated by darkness and anticholinergic medication (diphenhydramine).
+1. Stat Medical Intraocular Pressure Reduction:
+   * Timolol 0.5% ophthalmic drops: 1 drop OS stat.
+   * Apraclonidine 1% ophthalmic drops: 1 drop OS stat.
+   * Pilocarpine 2% ophthalmic drops: 1 drop OS stat (repeated once after 15 min).
+   * IV Acetazolamide 500 mg IV push stat.
+   * IV Mannitol 20% solution (1.5 g/kg) infused over 30 minutes for osmotic vitreous dehydration.
+2. Response: Left IOP dropped to 22 mmHg after 75 minutes; cornea cleared and pain reduced significantly.
+3. Urgent Ophthalmology Consultation: Bedside evaluation by Dr. Sean Patel; patient scheduled for bilateral Nd:YAG laser peripheral iridotomy (LPI) tomorrow morning (definitive treatment for affected eye and prophylactic for contralateral narrow-angle eye).

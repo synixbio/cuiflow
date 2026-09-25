@@ -1,0 +1,21 @@
+RECORD 61 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-061 | AGE: 53 | SEX: M | DATE: 2027-10-04 18:20
+CHIEF COMPLAINT: Massive bright red blood per rectum (hematochezia) and presyncope.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 53-year-old male with essential hypertension who presents via EMS after experiencing three large episodes of bright red blood and clots per rectum over the preceding 4 hours. While attempting to stand from the toilet, he developed sudden tunnel vision, profound diaphoresis, and dropped to his knees. He denies abdominal pain, melena, prior lower GI bleeding, or NSAID use. He has never had a screening colonoscopy.
+
+PHYSICAL EXAMINATION:
+Vitals: Supine BP 94/56 mmHg, HR 114 bpm; Standing BP 78/44 mmHg, HR 138 bpm (Orthostatic shock). RR 20 bpm, SpO2 98% room air.
+General: Diaphoretic, pale, anxious, cool extremities.
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds; no peritoneal signs.
+Rectal Exam: Copious bright red blood and maroon clots on digital exam; no palpable rectal mass or external hemorrhoidal thrombosis.
+Nasogastric Lavage: Clear gastric secretions with bile; no gross blood or coffee-ground material (suggests lower GI source).
+
+EMERGENCY RESUSCITATION:
+1. Vascular Access: Two 14-gauge peripheral IV lines established stat.
+2. Fluid & Transfusion: 1,000 mL warmed Lactated Ringer's bolus infused. Type and crossmatch 4 units PRBCs; transfused 2 units emergency uncrossed O-negative packed red cells with normalization of supine blood pressure to 118/72 mmHg and heart rate 88 bpm.
+3. Diagnostic Labs: Initial Hemoglobin 8.1 g/dL (down from 14.2 g/dL 6 months ago), Platelets 194 x 10^3/uL, INR 1.0, BUN 28 mg/dL, Creatinine 1.1 mg/dL.
+4. Urgent Diagnostics: CT Angiography (CTA) of the Abdomen and Pelvis performed: Active contrast extravasation identified in the ascending colon, consistent with active diverticular hemorrhage.
+5. Disposition: Urgent transfer to Interventional Radiology for transcatheter arterial embolization vs. urgent colonoscopy.

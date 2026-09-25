@@ -1,0 +1,30 @@
+RECORD 71 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-071 | AGE: 36 | SEX: F | DATE: 2028-03-09 13:10
+CHIEF COMPLAINT: Recurrent syncope, severe palpitations, and muscle spasms.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 36-year-old female with a history of bariatric Roux-en-Y gastric bypass 4 years ago who presents after two syncopal episodes today. Prior to passing out, she felt flutterings in her chest and lightheadedness. She has experienced tingling in her fingertips and circumoral paresthesias for the past 2 weeks. She ran out of her prescribed calcium and vitamin D supplements two months ago.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 102/64 mmHg, HR 88 bpm irregular, RR 16 bpm, SpO2 98% room air.
+Cardiovascular: Irregular rhythm, S1/S2 present, no murmurs.
+Neuromuscular:
+* Chvostek Sign: Tapping the facial nerve anterior to the earlobe elicits prompt involuntary twitching of the ipsilateral upper lip and facial muscles (Positive).
+* Trousseau Sign: Inflation of blood pressure cuff above systolic pressure for 2 minutes induces painful carpal spasm with flexion of wrist and MCP joints and extension of interphalangeal joints (Positive).
+
+DIAGNOSTIC WORKUP:
+* 12-lead ECG: Demonstrates marked prolongation of the QTc interval at 540 ms (Normal < 460 ms), secondary to ST-segment elongation. Telemetry captures a short 6-beat burst of polymorphic ventricular tachycardia (Torsades de Pointes) terminating spontaneously.
+* Serum Ionized Calcium: 0.68 mmol/L (Critically Low, normal 1.15-1.33).
+* Total Serum Calcium: 5.6 mg/dL (Critically Low) | Albumin: 3.9 g/dL.
+* Serum Magnesium: 1.1 mg/dL (Low).
+* Serum Potassium: 3.7 mEq/L.
+
+ASSESSMENT & PLAN:
+Severe symptomatic hypocalcemia and hypomagnesemia with dangerous QTc prolongation and non-sustained Torsades de Pointes.
+1. Emergent Intravenous Repletion:
+   * IV Calcium Gluconate: 2 grams (20 mL of 10% solution) in 100 mL D5W infused IV over 15 minutes under continuous cardiac monitoring.
+   * Follow with continuous IV Calcium Gluconate infusion at 1 mg/kg/hr.
+   * IV Magnesium Sulfate: 2 grams IV over 30 minutes.
+2. Cardiac Telemetry: Direct admission to Cardiac ICU; defibrillator pads placed at bedside.
+3. Transition Plan: Recheck ionized calcium Q2H; initiate high-dose oral Calcium Carbonate (1,500 mg elemental calcium TID) and active Vitamin D (Calcitriol 0.5 mcg PO BID).

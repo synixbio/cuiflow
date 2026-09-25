@@ -1,0 +1,468 @@
+{
+  "cuiflow_version": "0.1.0",
+  "created_at": "2026-09-25T05:13:14Z",
+  "reference": {
+    "name": "heldout.jsonl",
+    "kind": "cuiflow",
+    "documents": 10,
+    "caveat": "Reference sources: adjudicated:claude-draft. Not human-annotated: scores are agreement with this reference, not accuracy."
+  },
+  "scope_groups": [
+    "ANATOMY",
+    "DISORDER",
+    "DRUG",
+    "FINDING",
+    "PROCEDURE"
+  ],
+  "config": {
+    "mode": "single:umlsmatch",
+    "profile": "strict",
+    "overlaps": "keep",
+    "conflict_policy": "prefer:umlsmatch",
+    "semantic_groups": [],
+    "code_systems": [],
+    "ancestor_depth": 0,
+    "include_ingredients": false,
+    "include_text": false,
+    "mention_filter": "guidelines",
+    "mmlite_negation": "negex",
+    "mmlite_index": "ivf",
+    "umlsmatch_db": "umls_sno_rx.sqlite",
+    "terminology_db": "terminology.sqlite",
+    "extra": {}
+  },
+  "engines": {
+    "mmlite": {
+      "name": "mmlite",
+      "version": "0.1.3",
+      "dictionary": "ivf",
+      "umls_release": null,
+      "settings": {
+        "negation": "negex",
+        "keep_subsumed": false
+      }
+    },
+    "umlsmatch": {
+      "name": "umlsmatch",
+      "version": "0.1.0",
+      "dictionary": "umls_sno_rx.sqlite",
+      "umls_release": null,
+      "settings": {
+        "profile": "strict",
+        "assessed_attributes": [
+          "history_of",
+          "negated",
+          "subject",
+          "uncertain"
+        ]
+      }
+    }
+  },
+  "modes": {
+    "single:mmlite": {
+      "reference_mentions": 230,
+      "predicted_mentions": 320,
+      "overlap": {
+        "precision": 0.5563,
+        "recall": 0.7739,
+        "f1": 0.6473,
+        "tp": 178,
+        "fp": 142,
+        "fn": 52
+      },
+      "exact": {
+        "precision": 0.5563,
+        "recall": 0.7739,
+        "f1": 0.6473,
+        "tp": 178,
+        "fp": 142,
+        "fn": 52
+      },
+      "cui_set": {
+        "precision": 0.535,
+        "recall": 0.7806,
+        "f1": 0.6349,
+        "tp": 153,
+        "fp": 133,
+        "fn": 43
+      },
+      "attributes": {
+        "conditional": {
+          "reference_assessed": 178,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 41
+        },
+        "history_of": {
+          "reference_assessed": 178,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 30
+        },
+        "negated": {
+          "reference_assessed": 178,
+          "coverage": 1.0,
+          "precision": 0.95,
+          "recall": 0.7308,
+          "f1": 0.8261,
+          "tp": 19,
+          "fp": 1,
+          "fn": 7
+        },
+        "subject": {
+          "reference_assessed": 178,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 40
+        },
+        "uncertain": {
+          "reference_assessed": 178,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 19
+        }
+      },
+      "seconds": 0.46
+    },
+    "single:umlsmatch": {
+      "reference_mentions": 230,
+      "predicted_mentions": 291,
+      "overlap": {
+        "precision": 0.6048,
+        "recall": 0.7652,
+        "f1": 0.6756,
+        "tp": 176,
+        "fp": 115,
+        "fn": 54
+      },
+      "exact": {
+        "precision": 0.6048,
+        "recall": 0.7652,
+        "f1": 0.6756,
+        "tp": 176,
+        "fp": 115,
+        "fn": 54
+      },
+      "cui_set": {
+        "precision": 0.6104,
+        "recall": 0.7755,
+        "f1": 0.6831,
+        "tp": 152,
+        "fp": 97,
+        "fn": 44
+      },
+      "attributes": {
+        "conditional": {
+          "reference_assessed": 176,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 41
+        },
+        "history_of": {
+          "reference_assessed": 176,
+          "coverage": 1.0,
+          "precision": 0.8571,
+          "recall": 0.2,
+          "f1": 0.3243,
+          "tp": 6,
+          "fp": 1,
+          "fn": 24
+        },
+        "negated": {
+          "reference_assessed": 176,
+          "coverage": 1.0,
+          "precision": 0.9167,
+          "recall": 0.8462,
+          "f1": 0.88,
+          "tp": 22,
+          "fp": 2,
+          "fn": 4
+        },
+        "subject": {
+          "reference_assessed": 176,
+          "coverage": 1.0,
+          "precision": 0.8696,
+          "recall": 0.5,
+          "f1": 0.6349,
+          "tp": 20,
+          "fp": 3,
+          "fn": 20
+        },
+        "uncertain": {
+          "reference_assessed": 176,
+          "coverage": 1.0,
+          "precision": 0.8571,
+          "recall": 0.6667,
+          "f1": 0.75,
+          "tp": 12,
+          "fp": 2,
+          "fn": 6
+        }
+      },
+      "seconds": 0.86
+    },
+    "ensemble:union": {
+      "reference_mentions": 230,
+      "predicted_mentions": 330,
+      "overlap": {
+        "precision": 0.5515,
+        "recall": 0.7913,
+        "f1": 0.65,
+        "tp": 182,
+        "fp": 148,
+        "fn": 48
+      },
+      "exact": {
+        "precision": 0.5515,
+        "recall": 0.7913,
+        "f1": 0.65,
+        "tp": 182,
+        "fp": 148,
+        "fn": 48
+      },
+      "cui_set": {
+        "precision": 0.5322,
+        "recall": 0.801,
+        "f1": 0.6395,
+        "tp": 157,
+        "fp": 138,
+        "fn": 39
+      },
+      "attributes": {
+        "conditional": {
+          "reference_assessed": 182,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 43
+        },
+        "history_of": {
+          "reference_assessed": 182,
+          "coverage": 0.9176,
+          "precision": 0.8333,
+          "recall": 0.1724,
+          "f1": 0.2857,
+          "tp": 5,
+          "fp": 1,
+          "fn": 24
+        },
+        "negated": {
+          "reference_assessed": 182,
+          "coverage": 1.0,
+          "precision": 0.913,
+          "recall": 0.84,
+          "f1": 0.875,
+          "tp": 21,
+          "fp": 2,
+          "fn": 4
+        },
+        "subject": {
+          "reference_assessed": 182,
+          "coverage": 0.9176,
+          "precision": 0.8696,
+          "recall": 0.5,
+          "f1": 0.6349,
+          "tp": 20,
+          "fp": 3,
+          "fn": 20
+        },
+        "uncertain": {
+          "reference_assessed": 182,
+          "coverage": 0.9176,
+          "precision": 0.8571,
+          "recall": 0.6316,
+          "f1": 0.7273,
+          "tp": 12,
+          "fp": 2,
+          "fn": 7
+        }
+      },
+      "seconds": 0.58
+    },
+    "ensemble:consensus": {
+      "reference_mentions": 230,
+      "predicted_mentions": 244,
+      "overlap": {
+        "precision": 0.6803,
+        "recall": 0.7217,
+        "f1": 0.7004,
+        "tp": 166,
+        "fp": 78,
+        "fn": 64
+      },
+      "exact": {
+        "precision": 0.6803,
+        "recall": 0.7217,
+        "f1": 0.7004,
+        "tp": 166,
+        "fp": 78,
+        "fn": 64
+      },
+      "cui_set": {
+        "precision": 0.6714,
+        "recall": 0.7296,
+        "f1": 0.6993,
+        "tp": 143,
+        "fp": 70,
+        "fn": 53
+      },
+      "attributes": {
+        "conditional": {
+          "reference_assessed": 166,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 38
+        },
+        "history_of": {
+          "reference_assessed": 166,
+          "coverage": 1.0,
+          "precision": 0.875,
+          "recall": 0.2333,
+          "f1": 0.3684,
+          "tp": 7,
+          "fp": 1,
+          "fn": 23
+        },
+        "negated": {
+          "reference_assessed": 166,
+          "coverage": 1.0,
+          "precision": 0.92,
+          "recall": 0.8519,
+          "f1": 0.8846,
+          "tp": 23,
+          "fp": 2,
+          "fn": 4
+        },
+        "subject": {
+          "reference_assessed": 166,
+          "coverage": 1.0,
+          "precision": 0.8696,
+          "recall": 0.5128,
+          "f1": 0.6452,
+          "tp": 20,
+          "fp": 3,
+          "fn": 19
+        },
+        "uncertain": {
+          "reference_assessed": 166,
+          "coverage": 1.0,
+          "precision": 0.8571,
+          "recall": 0.6667,
+          "f1": 0.75,
+          "tp": 12,
+          "fp": 2,
+          "fn": 6
+        }
+      },
+      "seconds": 0.6
+    },
+    "ensemble:hybrid_staged": {
+      "reference_mentions": 230,
+      "predicted_mentions": 320,
+      "overlap": {
+        "precision": 0.5563,
+        "recall": 0.7739,
+        "f1": 0.6473,
+        "tp": 178,
+        "fp": 142,
+        "fn": 52
+      },
+      "exact": {
+        "precision": 0.5563,
+        "recall": 0.7739,
+        "f1": 0.6473,
+        "tp": 178,
+        "fp": 142,
+        "fn": 52
+      },
+      "cui_set": {
+        "precision": 0.535,
+        "recall": 0.7806,
+        "f1": 0.6349,
+        "tp": 153,
+        "fp": 133,
+        "fn": 43
+      },
+      "attributes": {
+        "conditional": {
+          "reference_assessed": 178,
+          "coverage": 0.0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "tp": 0,
+          "fp": 0,
+          "fn": 41
+        },
+        "history_of": {
+          "reference_assessed": 178,
+          "coverage": 1.0,
+          "precision": 0.8571,
+          "recall": 0.2,
+          "f1": 0.3243,
+          "tp": 6,
+          "fp": 1,
+          "fn": 24
+        },
+        "negated": {
+          "reference_assessed": 178,
+          "coverage": 1.0,
+          "precision": 0.9167,
+          "recall": 0.8462,
+          "f1": 0.88,
+          "tp": 22,
+          "fp": 2,
+          "fn": 4
+        },
+        "subject": {
+          "reference_assessed": 178,
+          "coverage": 1.0,
+          "precision": 0.8696,
+          "recall": 0.5,
+          "f1": 0.6349,
+          "tp": 20,
+          "fp": 3,
+          "fn": 20
+        },
+        "uncertain": {
+          "reference_assessed": 178,
+          "coverage": 1.0,
+          "precision": 0.8667,
+          "recall": 0.6842,
+          "f1": 0.7647,
+          "tp": 13,
+          "fp": 2,
+          "fn": 6
+        }
+      },
+      "seconds": 0.64
+    }
+  }
+}

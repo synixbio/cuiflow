@@ -1,0 +1,23 @@
+RECORD 89 | TYPE: SURGICAL OPERATIVE REPORT
+
+PATIENT: Synthetic-089 | AGE: 75 | SEX: M | DATE: 2028-12-14
+PREOPERATIVE DIAGNOSIS: Severe triple-vessel coronary artery disease with preserved LVEF.
+POSTOPERATIVE DIAGNOSIS: Severe calcific atherosclerotic triple-vessel coronary artery disease.
+PROCEDURE: Coronary Artery Bypass Grafting (CABG) x 3:
+1. Left Internal Mammary Artery (LIMA) to Left Anterior Descending (LAD) artery.
+2. Reverse saphenous vein graft (SVG) to Obtuse Marginal (OM1) artery.
+3. Reverse saphenous vein graft (SVG) to Posterior Descending Artery (PDA).
+SURGEON: Dr. Victor Sterling, MD | ANESTHESIA: General endotracheal.
+CARDIOPULMONARY BYPASS TIME: 88 minutes | AORTIC CROSS-CLAMP TIME: 64 minutes.
+
+PROCEDURE SUMMARY:
+Following sternotomy, the left internal mammary artery (LIMA) was skeletonized and harvested down to the bifurcation with topical papaverine applied. Concurrently, the left greater saphenous vein was harvested endoscopically. Systemic heparin was administered to achieve an activated clotting time (ACT) > 480 seconds.
+
+Ascending aortic cannulation and two-stage venous right atrial cannulation were executed, and cardiopulmonary bypass was initiated. The aorta was cross-clamped, and cold blood cardioplegia was delivered into the aortic root, producing prompt diastolic cardiac arrest.
+
+The distal anastomoses were completed sequentially:
+1. PDA was opened and the first vein graft was sewn using continuous 7-0 Prolene.
+2. OM1 was opened and the second vein graft was sewn using continuous 7-0 Prolene.
+3. LAD was identified and arteriotomy performed; the in-situ LIMA was anastomosed to the mid-LAD using continuous 8-0 Prolene.
+
+The aortic cross-clamp was removed, and the heart resumed sinus rhythm spontaneously. While rewarming, the proximal vein graft anastomoses were constructed onto the ascending aorta using a partial-occlusion side-biting clamp and 6-0 Prolene sutures. Transit-time flow probes confirmed excellent diastolic graft flows (> 40 mL/min with pulsatility index < 2.5 in all 3 conduits). Protamine was administered, decannulation performed, mediastinal drains placed, and sternum closed with stainless steel wires.

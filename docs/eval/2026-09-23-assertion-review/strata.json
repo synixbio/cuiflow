@@ -1,0 +1,15 @@
+{
+  "notes": 30,
+  "per_cell": 100,
+  "seed": 0,
+  "totals": {
+    "single:mmlite|negated|neg": 2679,
+    "single:mmlite|negated|pos": 134,
+    "single:umlsmatch|history_of|neg": 2283,
+    "single:umlsmatch|history_of|pos": 80,
+    "single:umlsmatch|negated|neg": 2086,
+    "single:umlsmatch|negated|pos": 277,
+    "single:umlsmatch|uncertain|neg": 2305,
+    "single:umlsmatch|uncertain|pos": 58
+  }
+}

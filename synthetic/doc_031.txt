@@ -1,0 +1,26 @@
+RECORD 31 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-031 | AGE: 68 | SEX: M | DATE: 2026-08-04 11:20
+CHIEF COMPLAINT: Gross hematuria with passage of large blood clots and acute urinary retention.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 68-year-old male with benign prostatic hyperplasia (BPH) who presents with sudden onset painless gross hematuria starting this morning. Over 3 hours, the urine became heavily bloody with passage of numerous cranberry-colored jelly-like clots. For the past 90 minutes, he has been completely unable to void, experiencing severe suprapubic fullness and crampy pain. Denies prior trauma, recent instrumentation, or fever. He takes Apixaban 5 mg BID for non-valvular atrial fibrillation.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 152/90 mmHg, HR 92 bpm, RR 18 bpm, Temp 37.0 C, SpO2 98% room air.
+Abdomen: Distended, tense, exquisitely tender suprapubic mass palpated up to the umbilicus, dull to percussion.
+Genitourinary: Normal uncircumcised male pharynx; no blood at meatus.
+Digital Rectal Exam: Smooth, enlarged prostate (estimated 50 grams), no hard discrete nodules.
+
+EMERGENCY INTERVENTIONS:
+1. Bedside Bladder Ultrasound: Confirmed marked acute urinary retention with > 950 mL of fluid containing echogenic debris/clots.
+2. Urological Catheterization: Attempted standard 16 Fr Foley catheter with immediate obstruction by clot. Placed a large 22 Fr 3-way coudé-tip Foley catheter under sterile conditions with immediate return of 1,100 mL of dark bloody urine and extensive clot evacuation using Toomey syringe manual saline irrigation.
+3. Continuous Bladder Irrigation (CBI): Initiated with 3-liter bags of sterile saline titrated to maintain clear, light pink effluent.
+
+LABS:
+* Hemoglobin: 12.2 g/dL (baseline 13.8 g/dL).
+* Platelets: 210 x 10^3/uL | INR: 1.1.
+* Serum Creatinine: 1.4 mg/dL (baseline 1.0 mg/dL, mild post-renal AKI).
+
+DISPOSITION:
+Admit to Urology Inpatient Service for continuous bladder irrigation, monitoring of hemoglobin, and urgent cystoscopy in the morning to evaluate for bladder or upper tract source. Apixaban held.

@@ -1,0 +1,33 @@
+RECORD 92 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (HEMATOLOGY)
+
+PATIENT: Synthetic-092 | AGE: 34 | SEX: M | DATE: 2029-01-25
+REASON FOR ENCOUNTER: Evaluation of erythrocytosis / polycythemia.
+
+SUBJECTIVE:
+The patient is a 34-year-old male nonsmoker referred after routine insurance labs revealed elevated hemoglobin and hematocrit. He reports troublesome generalized pruritus, characteristically triggered by warm showers or baths (aquagenic pruritus). He also notices intermittent burning pain and erythema in his fingertips and toes (erythromelalgia). Denies daytime somnolence, heavy snoring, high altitude residence, or anabolic steroid use.
+
+OBJECTIVE:
+Vitals: BP 138/84 mmHg, HR 74 bpm, SpO2 99% room air, BMI 24.1 kg/m^2.
+Physical Exam:
+* General: Ruddy, plethoric facial complexion.
+* Abdomen: Spleen tip palpable 2 cm below left costal margin (mild splenomegaly).
+* Extremities: Erythematous, warm distal toes and fingertips without cyanosis.
+
+LABORATORY INVESTIGATIONS:
+* Complete Blood Count:
+  * Hemoglobin: 19.8 g/dL (Elevated, Ref 13.5-17.5)
+  * Hematocrit: 60.2% (Elevated, Ref 41-50%)
+  * RBC Count: 6.8 x 10^6/uL
+  * WBC: 12.8 x 10^3/uL | Platelets: 460 x 10^3/uL (Mild leukocytosis and thrombocytosis)
+* Serum Erythropoietin (EPO): < 1.0 mIU/mL (Suppressed; normal 4.0-24.0).
+* Molecular Genetics:
+  * JAK2 V617F Mutation: POSITIVE (detected in 68% of alleles).
+  * BCR-ABL1 PCR: Negative.
+
+ASSESSMENT & PLAN:
+Polycythemia Vera (PV), meeting 3 major WHO criteria (elevated Hb/Hct, JAK2 mutation, suppressed EPO).
+1. Therapeutic Phlebotomy:
+   * Perform initial 500 mL therapeutic phlebotomy today in clinic; repeat 1-2 times weekly until hematocrit is strictly < 45%.
+2. Antiplatelet Therapy: Initiate Aspirin 81 mg PO daily to reduce arterial thrombosis risk and relieve erythromelalgia.
+3. Risk Stratification: Low-risk PV (age < 60 and no prior thrombotic events). Hydroxyurea cytoreductive therapy deferred for now.
+4. Symptom Management: Recommended cooler showers and oral antihistamines for aquagenic pruritus.

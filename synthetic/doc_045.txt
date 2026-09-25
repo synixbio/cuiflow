@@ -1,0 +1,24 @@
+RECORD 45 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (NEUROLOGY)
+
+PATIENT: Synthetic-045 | AGE: 67 | SEX: M | DATE: 2027-02-12
+REASON FOR ENCOUNTER: Assessment of progressive resting tremor and gait difficulties.
+
+SUBJECTIVE:
+The patient is a 67-year-old retired civil engineer accompanied by his spouse. Over the past 14 months, he has developed an asymmetric shaking of his right hand, most prominent when his arm is resting in his lap or while watching television. He notices his handwriting has become small and cramped (micrographia). His wife reports he moves more slowly, takes small shuffling steps, and has difficulty turning around in the hallway. He denies visual hallucinations, orthostatic dizziness, or rapid eye movement (REM) sleep behavior disorder.
+
+OBJECTIVE:
+Neurological Examination:
+* Mental Status: Alert, oriented x 4. MoCA score 28/30. Affect is somewhat masked (hypomimia) with decreased spontaneous blinking.
+* Motor:
+  * Tremor: 4-5 Hz "pill-rolling" rest tremor of the right hand and wrist, suppressed with action/finger-to-nose testing, re-emerging after latency.
+  * Rigidity: Marked "cogwheel" rigidity in the right upper extremity, reinforced by contralateral wrist movement (Froment sign); mild lead-pipe rigidity in left wrist.
+  * Bradykinesia: Progressive decrement in speed and amplitude upon rapid right finger taps and hand pronation-supination.
+* Gait & Posture: Stooped posture. Hesitation on initiation of gait; decreased right arm swing; turns en bloc requiring 5-6 steps to make a 180-degree turn. Retropulsion test demonstrates postural instability (recovers after 3 backward steps).
+
+ASSESSMENT & PLAN:
+Idiopathic Parkinson's Disease (Hoehn and Yahr Stage II), asymmetric, right-sided predominance.
+1. Dopaminergic Therapy Initiation:
+   * Carbidopa-Levodopa (Sinemet 25/100 mg) 1/2 tablet PO TID with meals for 1 week, then titrate to 1 full tablet PO TID.
+   * Advised patient regarding potential adverse effects including nausea, lightheadedness, and somnolence.
+2. Physical Therapy: Referral to a Parkinson's disease-specific exercise program (LSVT BIG therapy) to improve stride length and balance.
+3. Follow-up: Clinic reassessment in 6 weeks to evaluate symptomatic response and dosage titration.

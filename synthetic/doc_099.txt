@@ -1,0 +1,27 @@
+RECORD 99 | TYPE: INPATIENT DISCHARGE SUMMARY
+
+PATIENT: Synthetic-099 | AGE: 50 | SEX: M | ADMISSION: 2029-05-02 | DISCHARGE: 2029-05-07
+ADMISSION DIAGNOSIS: Severe acute alcohol withdrawal / Delirium Tremens.
+DISCHARGE DIAGNOSES:
+1. Severe alcohol withdrawal delirium, resolved.
+2. Severe Alcohol Use Disorder.
+3. Alcoholic liver disease without cirrhosis (mild steatohepatitis).
+4. Wernicke encephalopathy prophylaxis completed.
+
+HOSPITAL COURSE:
+A 50-year-old male with a 20-year history of heavy ethanol consumption (approx. 1 pint of vodka daily) presented 48 hours after his last drink with severe tremors, autonomic hyperactivity (HR 132, BP 172/104), drenching sweats, auditory and visual hallucinations (insects crawling on walls), and profound confusion (CIWA-Ar score 32).
+
+He was admitted to the step-down unit and treated with symptom-triggered IV Lorazepam protocol (receiving a total of 28 mg over the first 36 hours) and high-dose IV Thiamine (500 mg TID for 3 days prior to any glucose administration). Autonomic instability and agitation peaked on Hospital Day 2 and progressively resolved by Day 4. Delirium cleared completely, hallucinations ceased, and CIWA-Ar score decreased to 2.
+
+Addiction Medicine evaluated the patient. He acknowledged his alcohol dependence and expressed a strong desire for rehabilitation. He was initiated on oral Gabapentin and Acamprosate for craving reduction. At discharge, he is alert, fully oriented, tremor-free, and medically cleared.
+
+DISCHARGE MEDICATIONS:
+1. Acamprosate 666 mg PO TID (anticraving agent).
+2. Gabapentin 300 mg PO TID.
+3. Thiamine 100 mg PO daily.
+4. Folic Acid 1 mg PO daily.
+5. Multivitamin 1 tablet PO daily.
+
+DISCHARGE PLAN:
+* Direct hand-off and scheduled admission to Serenity Springs Inpatient Addiction Rehabilitation Program today at 13:00.
+* Primary care appointment in 30 days.

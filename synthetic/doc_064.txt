@@ -1,0 +1,31 @@
+RECORD 64 | TYPE: INPATIENT PROGRESS NOTE (GASTROENTEROLOGY)
+
+PATIENT: Synthetic-064 | AGE: 49 | SEX: M | DATE: 2027-11-11
+HOSPITAL DAY: 3
+PRIMARY DIAGNOSIS: Decompensated alcoholic cirrhosis with acute esophageal variceal hemorrhage.
+
+SUBJECTIVE:
+Patient underwent emergent therapeutic EGD 48 hours ago with placement of 5 endoscopic rubber bands for actively bleeding esophageal varices. No further hematemesis, melena, or hematochezia since banding. He is resting comfortably in bed. Denies abdominal pain, fever, or confusion.
+
+OBJECTIVE:
+Vitals: BP 114/70 mmHg, HR 74 bpm regular, RR 16 bpm, Temp 36.9 C, SpO2 98% room air.
+Exam:
+* General: Alert, oriented x 4, mild scleral icterus, spider angiomas across chest.
+* Neurologic: No asterixis on outstretched dorsiflexed wrists.
+* Abdomen: Distended, fluid wave present, non-tender, no peritoneal signs.
+* Extremities: 1+ pitting bilateral lower extremity edema.
+
+LABORATORY MONITORING:
+* Hemoglobin: 8.8 g/dL (stable from 8.6 g/dL yesterday; post-transfusion target achieved).
+* Platelets: 62 x 10^3/uL | INR: 1.6.
+* Total Bilirubin: 2.8 mg/dL | Serum Albumin: 2.7 g/dL.
+* Serum Sodium: 134 mEq/L | Creatinine: 0.9 mg/dL.
+* Model for End-Stage Liver Disease (MELD-Na) Score: 17.
+
+ASSESSMENT & PLAN:
+Acute esophageal variceal hemorrhage in decompensated cirrhosis; bleeding successfully arrested.
+1. Vasoactive Infusion: Complete 72 hours of IV Octreotide infusion (50 mcg bolus followed by 50 mcg/hr continuous) to reduce splanchnic blood flow.
+2. Antimicrobial Prophylaxis: Complete 7-day course of IV Ceftriaxone 1 g daily (spontaneous bacterial peritonitis and bacteremia prophylaxis in cirrhotics with GI bleed).
+3. Secondary Variceal Prophylaxis: Initiate non-selective beta-blocker Nadolol 20 mg PO daily once Octreotide infusion is stopped, titrating to resting HR 55-60 bpm.
+4. Endoscopic Surveillance: Schedule repeat outpatient surveillance EGD in 2 to 4 weeks for repeat band ligation until variceal obliteration.
+5. Substance Use Counseling: Hospital addiction medicine consult for alcohol cessation support and acamprosate initiation.

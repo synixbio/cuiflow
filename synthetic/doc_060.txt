@@ -1,0 +1,24 @@
+RECORD 60 | TYPE: DISCHARGE SUMMARY (PEDIATRIC HOSPITAL MEDICINE)
+
+PATIENT: Synthetic-060 | AGE: 7 years | SEX: M | ADMISSION: 2027-09-15 | DISCHARGE: 2027-09-18
+ADMISSION DIAGNOSIS: Status Asthmaticus.
+DISCHARGE DIAGNOSES:
+1. Acute severe asthma exacerbation, resolved.
+2. Moderate persistent asthma.
+3. Allergic rhinitis.
+
+HOSPITAL COURSE:
+A 7-year-old male with known asthma presented to the pediatric ED with severe acute dyspnea, tachypnea (RR 48 bpm), and subcostal retractions following a viral upper respiratory infection. Room air SpO2 was 89%. He remained in moderate-to-severe respiratory distress after 3 back-to-back nebulized Albuterol/Ipratropium treatments and was transferred to the inpatient pediatric unit on continuous Albuterol nebulization (10 mg/hr) and IV Methylprednisolone 1 mg/kg Q12H.
+
+Over the next 36 hours, his bronchospasm improved markedly. He was transitioned from continuous nebulizers to intermittent Albuterol treatments spaced from every 2 hours to every 4 hours. Systemic steroids were transitioned to oral Prednisolone 1 mg/kg/day. At the time of discharge, his lungs are completely clear without wheezing, work of breathing is normal, SpO2 is 98% on room air, and peak expiratory flow is 85% of his personal best.
+
+DISCHARGE MEDICATIONS:
+1. Prednisolone oral suspension 20 mg PO daily for 3 more days (complete 5-day course; no taper needed).
+2. Fluticasone propionate / Salmeterol (Advair Diskus 100/50 mcg) 1 puff BID (daily controller).
+3. Albuterol HFA 90 mcg inhaler: 2 puffs with valved holding chamber Q4H PRN cough or wheezing.
+4. Cetirizine 5 mg PO daily for allergic rhinitis.
+
+FOLLOW-UP PLAN:
+* Pediatrician follow-up in 3-5 days.
+* Updated Asthma Action Plan provided and reviewed with parents.
+* Outpatient Pediatric Allergy & Pulmonology referral in 4 weeks.

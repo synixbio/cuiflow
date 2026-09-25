@@ -1,0 +1,29 @@
+RECORD 48 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (GASTROENTEROLOGY)
+
+PATIENT: Synthetic-048 | AGE: 27 | SEX: F | DATE: 2027-03-25
+REASON FOR ENCOUNTER: Chronic diarrhea, weight loss, and recurrent aphthous stomatitis.
+
+SUBJECTIVE:
+The patient is a 27-year-old female presenting with an 8-month history of 4-6 bulky, foul-smelling, loose bowel movements daily, accompanied by abdominal bloating, flatulence, and an unintentional 12-pound weight loss. She complains of chronic fatigue and frequent, painful oral ulcers. She has tried an empiric lactose-free diet with no improvement. Denies gross rectal bleeding, fever, or family history of inflammatory bowel disease.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 106/66 mmHg, HR 72 bpm, BMI 18.2 kg/m^2 (underweight).
+General: Thin, mildly pale female.
+HEENT: Two small, discrete aphthous ulcers on the lower labial mucosa with erythematous halos.
+Abdomen: Mild diffuse tympany and mild lower abdominal tenderness to deep palpation; no rebound or organomegaly.
+Extremities: No edema; no skin rashes (no dermatitis herpetiformis).
+
+LABORATORIES & SEROLOGY:
+* Hemoglobin: 10.4 g/dL, MCV 74 fL (microcytic anemia).
+* Ferritin: 8 ng/mL (profound iron deficiency).
+* Vitamin D 25-OH: 16 ng/mL (deficient).
+* IgA Tissue Transglutaminase (tTG-IgA): > 100 U/mL (Normal < 10 U/mL, strongly positive).
+* Total Serum IgA: 210 mg/dL (ruling out selective IgA deficiency).
+* Anti-Endomysial IgA (EMA): Positive.
+
+ASSESSMENT & PLAN:
+Strong serological evidence of Celiac Disease with malabsorption syndrome (iron deficiency, vitamin D deficiency).
+1. Diagnostic Confirmation: Scheduled for upper endoscopy (EGD) with multiple duodenal bulb and distal duodenal biopsies to confirm Marsh histopathologic classification (villous atrophy, crypt hyperplasia, intraepithelial lymphocytosis).
+   * Emphasized that the patient MUST continue consuming gluten until the biopsy is performed to prevent false-negative pathology.
+2. Nutritional Supplementation: Oral ferrous gluconate with Vitamin C and Ergocalciferol 50,000 IU weekly.
+3. Dietary Education: Referred to registered GI dietitian specializing in strict lifelong gluten-free diets upon histologic confirmation.

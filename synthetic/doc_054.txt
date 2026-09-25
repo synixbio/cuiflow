@@ -1,0 +1,24 @@
+RECORD 54 | TYPE: CONSULTATION NOTE (CARDIOLOGY)
+
+PATIENT: Synthetic-054 | AGE: 81 | SEX: M | CONSULTANT: Dr. Marcus Vance, MD
+REQUESTING SERVICE: Orthopedic Surgery
+REASON FOR CONSULTATION: Preoperative cardiovascular risk stratification prior to elective total hip arthroplasty.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is an 81-year-old male scheduled for right total hip replacement for end-stage degenerative joint disease. Past medical history includes hypertension, hyperlipidemia, and coronary artery disease status-post bare metal stent to the circumflex artery 12 years ago. He is restricted by severe hip pain but can ambulate 2 blocks on level ground and climb one flight of stairs without chest tightness or shortness of breath (> 4 METs functional capacity). He denies orthopnea, paroxysmal nocturnal dyspnea, palpitations, syncope, or resting angina.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 134/80 mmHg, HR 68 bpm, RR 16 bpm, SpO2 96% room air.
+Cardiovascular: Regular rhythm, normal S1 and S2, no S3 or S4 gallops. Soft 1/6 early systolic flow murmur at the base; carotid upstrokes normal. JVP not elevated. Peripheral pulses 2+ throughout; no lower extremity edema.
+Lungs: Clear to auscultation bilaterally.
+
+DIAGNOSTIC DATA:
+* 12-lead ECG: Normal sinus rhythm, rate 66 bpm. Normal PR and QTc intervals. Non-specific ST-T wave changes in lateral leads; unchanged from tracing 18 months ago.
+* Transthoracic Echocardiogram (4 months ago): LVEF 60%, normal LV wall thickness, mild left atrial enlargement, trivial aortic regurgitation.
+* Revised Cardiac Risk Index (RCRI): History of CAD (1 point). Total RCRI Score = 1 (Low-to-moderate risk, ~1% risk of major adverse cardiac events).
+
+CARDIAC CLEARANCE IMPRESSION & RECOMMENDATIONS:
+Low-to-intermediate perioperative cardiovascular risk. Functional capacity exceeds 4 METs without active ischemic or heart failure symptoms. No indications for preoperative pharmacologic stress testing or coronary revascularization.
+1. Proceed with planned orthopedic surgery from a cardiovascular perspective.
+2. Medications: Continue Atorvastatin 40 mg and Amlodipine 5 mg perioperatively. Hold Lisinopril the morning of surgery to avoid intraoperative hypotension.
+3. Anticoagulation: Coordinate post-op DVT prophylaxis (Aspirin or DOAC) with orthopedics per surgical protocols.

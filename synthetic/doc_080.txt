@@ -1,0 +1,21 @@
+RECORD 80 | TYPE: DISCHARGE SUMMARY (HOSPICE CARE)
+
+PATIENT: Synthetic-080 | AGE: 86 | SEX: M | ADMISSION: 2028-07-12 | DISCHARGE: 2028-07-18
+ADMISSION DIAGNOSIS: Intractable dyspnea and agitation in end-stage Amyotrophic Lateral Sclerosis (ALS).
+DISCHARGE DIAGNOSES:
+1. End-stage Amyotrophic Lateral Sclerosis with bulbar and respiratory failure.
+2. Comfort-focused symptom control achieved.
+
+HOSPITAL / HOSPICE COURSE:
+An 86-year-old male with end-stage ALS (forced vital capacity < 20% predicted, tracheostomy declined, PEG tube declined per living will) was admitted to the inpatient hospice facility for severe respiratory distress, terminal secretions, and agitation refractory to outpatient home hospice interventions.
+
+Upon admission, the palliative team initiated a continuous subcutaneous infusion of Morphine sulfate for relief of air hunger, alongside subcutaneous Glycopyrrolate for terminal bronchial secretions ("death rattle") and subcutaneous Midazolam for severe terminal restlessness. Over 48 hours, his respiratory rate eased from 36 to 14 breaths per minute without visible distress or retractions. Tracheal secretions subsided, and agitation resolved completely. The patient was maintained in a comfortable, peaceful state surrounded by his family.
+
+DISCHARGE PLAN:
+The patient's condition has stabilized at a comfort level permitting transfer back to home hospice care per family request.
+1. Continuous Home Hospice Protocol:
+   * Sublingual Morphine liquid 20 mg/mL (10-20 mg SL Q2H PRN dyspnea or pain).
+   * Sublingual Lorazepam 1-2 mg SL Q4H PRN restlessness.
+   * Subcutaneous Glycopyrrolate 0.2 mg Q4H PRN secretions.
+2. Durable Medical Equipment: Hospital bed, suction machine, and home oxygen concentrator dispatched to the home.
+3. Nursing Support: Dedicated hospice RN assigned for daily home visits and 24/7 on-call availability. Full DNR/Comfort Care POLST reaffirmed.

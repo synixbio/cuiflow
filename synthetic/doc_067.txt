@@ -1,0 +1,26 @@
+RECORD 67 | TYPE: INPATIENT DISCHARGE SUMMARY
+
+PATIENT: Synthetic-067 | AGE: 70 | SEX: M | ADMISSION: 2028-01-05 | DISCHARGE: 2028-01-11
+ADMISSION DIAGNOSIS: Acute ischemic stroke in evolution.
+DISCHARGE DIAGNOSES:
+1. Acute ischemic infarct of the right frontoparietal cortex (thromboembolic).
+2. Paroxysmal atrial fibrillation (newly diagnosed).
+3. Hypertension.
+4. Hyperlipidemia.
+
+HOSPITAL COURSE:
+A 70-year-old male presented with acute left facial droop and left arm weakness starting 6 hours prior to arrival. Brain MRI confirmed acute non-hemorrhagic cortical infarction in the right middle cerebral artery territory. Continuous cardiac telemetry on Hospital Day 2 detected multiple asymptomatic runs of paroxysmal atrial fibrillation lasting up to 45 minutes, establishing the cardioembolic etiology of the stroke.
+
+Neurologic deficits improved with occupational and physical therapy. Transesophageal echocardiogram revealed no left atrial appendage thrombus, and carotid duplex showed no hemodynamically significant stenosis. By Hospital Day 5, left arm motor strength had recovered to 4+/5. Systemic anticoagulation was initiated on Day 6 following a repeat non-contrast head CT confirming absence of hemorrhagic transformation.
+
+DISCHARGE MEDICATIONS:
+1. Apixaban 5 mg PO BID (for stroke prevention in non-valvular atrial fibrillation; CHA2DS2-VASc = 4).
+2. Atorvastatin 80 mg PO daily.
+3. Lisinopril 20 mg PO daily.
+4. Metoprolol Tartrate 25 mg PO BID (for ventricular rate control).
+
+FOLLOW-UP INSTRUCTIONS:
+* Outpatient Neurology clinic follow-up in 4 weeks.
+* Outpatient physical and occupational therapy twice weekly.
+* Avoid NSAIDs or antiplatelet agents while on Apixaban.
+* Return precautions for recurrent neurological symptoms reviewed.

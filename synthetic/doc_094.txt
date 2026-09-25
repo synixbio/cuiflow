@@ -1,0 +1,24 @@
+RECORD 94 | TYPE: CONSULTATION NOTE (OTOLARYNGOLOGY)
+
+PATIENT: Synthetic-094 | AGE: 54 | SEX: M | CONSULTANT: Dr. Sean Patel, MD
+REQUESTING SERVICE: Primary Care
+REASON FOR CONSULTATION: Progressive hoarseness of 8 weeks duration in a smoker.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 54-year-old male with a 35 pack-year tobacco smoking history and moderate alcohol use who presents with progressive, non-resolving dysphonia (raspy, breathy voice) lasting 2 months. He feels like he needs to constantly clear his throat. Denies dysphagia, odynophagia, hemoptysis, stridor, otalgia (ear pain), or weight loss.
+
+PHYSICAL EXAMINATION:
+General: Pleasant male speaking with a distinctly rough, strained, hoarse voice.
+Neck: Supple, trachea midline. Thorough palpation reveals a single, firm, non-tender, fixed 2.0-cm lymph node in the left upper jugular chain (Level IIa). No other masses.
+Oral Cavity: Mucosa moist, dentition fair, tongue mobile; no mucosal lesions in oral cavity or oropharynx.
+
+FLEXIBLE FIBEROPTIC LARYNGOSCOPY:
+* Nasopharynx and base of tongue: Normal anatomy without masses.
+* Epiglottis and supraglottis: Clear.
+* True Vocal Cords: A fungating, exophytic, ulcerated 1.2-cm mass is visualized arising from the middle third of the left true vocal fold, with impaired left vocal fold mobility (partial fixity). Anterior commissure is uninvolved; right true vocal cord is normal and fully mobile. Subglottis appears clear.
+
+ASSESSMENT & PLAN:
+Laryngeal mass involving the left true vocal cord with regional cervical lymphadenopathy; highly suspicious for laryngeal squamous cell carcinoma (clinical stage cT3N1M0).
+1. Operative Biopsy: Scheduled for direct microlaryngoscopy with biopsy under general anesthesia in the ambulatory surgical center in 4 days.
+2. Staging Imaging: Contrast-enhanced CT of the neck and chest ordered to evaluate cartilage invasion and pulmonary metastases.
+3. Multidisciplinary Tumor Board: Case to be presented for definitive management planning (concurrent chemoradiation vs. surgical resection).

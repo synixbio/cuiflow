@@ -1,0 +1,15 @@
+RECORD 47 | TYPE: SURGICAL OPERATIVE REPORT
+
+PATIENT: Synthetic-047 | AGE: 71 | SEX: M | DATE: 2027-03-10
+PREOPERATIVE DIAGNOSIS: Critical right internal carotid artery stenosis (>80%), symptomatic.
+POSTOPERATIVE DIAGNOSIS: Severe ulcerative right carotid bifurcation atherosclerotic plaque.
+PROCEDURE: Right carotid endarterectomy (CEA) with Dacron patch angioplasty.
+SURGEON: Dr. Victor Sterling, MD | ANESTHESIA: General endotracheal with continuous EEG monitoring.
+ESTIMATED BLOOD LOSS: 50 mL | COMPLICATIONS: None.
+
+OPERATIVE TECHNIQUE:
+The patient was placed supine with the head extended and turned slightly to the left. An oblique incision was made along the anterior border of the right sternocleidomastoid muscle. Dissection was carried through the platysma. The facial vein was identified, doubly ligated, and transected.
+
+The common carotid artery, external carotid artery, and internal carotid artery (ICA) were carefully skeletonized. The hypoglossal nerve (CN XII) was visualized and mobilized safely out of the surgical field. Systemic heparinization was achieved with 5,000 units IV. Vascular clamps were applied in order: ICA, common carotid, and external carotid. Continuous intraoperative EEG showed no focal cerebral ischemic slowing; therefore, an intraluminal shunt was not required.
+
+A longitudinal arteriotomy was performed from the common carotid extending across the plaque into the healthy distal internal carotid artery. An endarterectomy plane was established between the plaque and the arterial media. The heavy, ulcerated atheroma was cleanly elevated and transected proximally and feathered smoothly at the distal ICA endpoint, leaving no intimal flaps. The lumen was vigorously flushed with heparinized saline. A Dacron patch was sewn into the arteriotomy using continuous 6-0 Prolene sutures. Flow was restored sequentially through the external and internal carotids. Neuromonitoring remained stable. The wound was closed in layers over a Jackson-Pratt drain.

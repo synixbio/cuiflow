@@ -1,0 +1,15 @@
+RECORD 97 | TYPE: SURGICAL OPERATIVE REPORT
+
+PATIENT: Synthetic-097 | AGE: 65 | SEX: F | DATE: 2029-04-03
+PREOPERATIVE DIAGNOSIS: Left breast invasive lobular carcinoma, cT2N0M0.
+POSTOPERATIVE DIAGNOSIS: Left breast invasive lobular carcinoma, pT2pN0(sn).
+PROCEDURE: Left partial mastectomy (lumpectomy) with sentinel lymph node biopsy using dual-modality mapping (radioisotope and indocyanine green fluorescence).
+SURGEON: Dr. Sarah Lin, MD | ANESTHESIA: General endotracheal.
+ESTIMATED BLOOD LOSS: 15 mL | COMPLICATIONS: None.
+
+OPERATIVE TECHNIQUE:
+The patient was brought to the OR, intubated, and prepped in standard surgical fashion. Technetium-99m sulfur colloid had been injected in nuclear medicine preoperatively. Intraoperatively, 2 mL of indocyanine green (ICG) was injected intradermally into the left periareolar region and massaged for 5 minutes.
+
+Using near-infrared fluorescence imaging and a handheld gamma probe, a hot, fluorescent lymphatic channel was traced into the left axilla. A 2.5-cm transverse axillary skin crease incision was made. Dissection revealed two discrete sentinel lymph nodes that were both radioactive (gamma counts > 1,500/sec) and fluorescent green. The nodes were excised cleanly. The axillary bed was surveyed; residual background radioactivity was < 10% of the hottest node, and no palpable lymphadenopathy was detected. Touch-prep cytology on sentinel nodes: Negative for malignancy.
+
+Attention was turned to the left breast tumor at the 2 o'clock position. A curvilinear skin incision was made overlying the mass. The 2.5-cm firm lobular mass was widely excised with a surrounding cuff of gross healthy tissue down to the pectoralis major fascia. Specimen radiograph confirmed the biopsy clip was centered within the surgical specimen with generous margins. Margins were inked in 6 colors and orienting surgical clips placed in the biopsy cavity for radiation oncology planning. Wounds closed in layers with absorbable sutures.

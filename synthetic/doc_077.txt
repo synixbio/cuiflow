@@ -1,0 +1,17 @@
+RECORD 77 | TYPE: SURGICAL OPERATIVE REPORT
+
+PATIENT: Synthetic-077 | AGE: 38 | SEX: F | DATE: 2028-05-22
+PREOPERATIVE DIAGNOSIS: Papillary thyroid carcinoma, Bethesda Category VI nodule, right thyroid lobe.
+POSTOPERATIVE DIAGNOSIS: Papillary thyroid carcinoma, right lobe; normal left lobe.
+PROCEDURE: Total thyroidectomy with central neck dissection (Level VI) and intraoperative recurrent laryngeal nerve monitoring.
+SURGEON: Dr. Victor Sterling, MD | ANESTHESIA: General endotracheal (NIM EMG endotracheal tube).
+ESTIMATED BLOOD LOSS: 25 mL | COMPLICATIONS: None.
+
+OPERATIVE NARRATIVE:
+Under general endotracheal anesthesia with a Medtronic NIM recurrent laryngeal nerve monitoring tube correctly positioned between the vocal cords, a low transverse collar incision was made along a natural skin crease. Subplatysmal flaps were developed superiorly to the thyroid cartilage and inferiorly to the sternal notch.
+
+The strap muscles were separated in the midline and retracted laterally. The right thyroid lobe was mobilized. The middle thyroid vein was ligated. The superior thyroid pole vessels were skeletonized and individually divided close to the thyroid capsule to preserve the external branch of the superior laryngeal nerve. The right recurrent laryngeal nerve (RLN) was identified in the tracheoesophageal groove and stimulated, yielding a robust 850 microvolt EMG signal. The right superior and inferior parathyroid glands were identified, mobilized on their vascular pedicles, and preserved.
+
+The right lobe and isthmus were mobilized off the trachea. Attention was directed to the left thyroid lobe, which was mobilized in identical fashion; the left RLN was mapped and stimulated with normal EMG response, and both left parathyroid glands were preserved intact. Bilateral central compartment (Level VI) lymph nodes were cleared from the hyoid bone superiorly to the innominate artery inferiorly.
+
+The total thyroidectomy specimen was removed intact. Final stimulation of bilateral RLNs at the skull base revealed intact nerve conduction (> 900 microvolts). Hemostasis was complete. The strap muscles were reapproximated with 3-0 Vicryl, and the skin closed subcuticularly with 4-0 Monocryl.

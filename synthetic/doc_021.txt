@@ -1,0 +1,28 @@
+RECORD 21 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-021 | AGE: 24 | SEX: M | DATE: 2026-03-15 22:10
+CHIEF COMPLAINT: Acute shortness of breath, facial swelling, and diffuse hives after eating shellfish.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 24-year-old male with no known drug allergies who presents via private vehicle with sudden-onset periorbital edema, lip swelling, diffuse pruritic urticaria, and throat tightness. Symptoms began 20 minutes after consuming shrimp pad thai at a local restaurant. Associated with hoarseness, lightheadedness, and abdominal cramping. Denies history of asthma or prior anaphylaxis.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 88/54 mmHg, HR 122 bpm, RR 28 bpm, SpO2 91% on room air, Temp 36.9 C.
+General: In moderate respiratory distress, sitting upright, audible stridor.
+Skin: Diffuse erythematous raised wheals across face, chest, back, and upper extremities.
+HEENT: Prominent angioedema of the upper and lower lips, tongue swelling without total airway occlusion, uvula mildly edematous.
+Respiratory: Inspiratory stridor audible without stethoscope; bilateral diffuse expiratory wheezes throughout lung fields.
+Cardiovascular: Tachycardic, regular rhythm, pulses rapid but palpable.
+
+ASSESSMENT & IMMEDIATE INTERVENTIONS:
+Severe Anaphylaxis with respiratory compromise and hemodynamic instability (hypotension).
+1. Intramuscular Epinephrine: Administered 0.5 mg (1:1,000 solution) IM into the anterolateral right thigh immediately at 22:12.
+2. Oxygenation: High-flow oxygen via non-rebreather mask at 12 L/min; SpO2 improved to 98%.
+3. Vascular Access & Resuscitation: Two large-bore (16G) IV lines placed; 1000 mL Normal Saline bolus initiated wide open.
+4. Adjunctive Medications:
+   * IV Diphenhydramine 50 mg.
+   * IV Famotidine 20 mg.
+   * IV Methylprednisolone 125 mg.
+   * Nebulized Albuterol 2.5 mg.
+5. Reassessment (22:25): BP 114/70 mmHg, HR 96 bpm, RR 20 bpm. Airway stridor significantly decreased, wheezing improved, lip angioedema stabilizing.
+6. Disposition: Admit to Step-down / Intensive Observation Unit for minimum 12-24 hour biphasic anaphylaxis observation window. Prescribe EpiPen 2-pack upon discharge with allergy referral.

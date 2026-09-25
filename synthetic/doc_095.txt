@@ -1,0 +1,33 @@
+RECORD 95 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-095 | AGE: 27 | SEX: F | DATE: 2029-03-01 10:20
+CHIEF COMPLAINT: Severe headache, sudden visual disturbances, epigastric pain at 34 weeks gestation.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 27-year-old primigravida female at 34 weeks 2 days gestation who presents to the triage unit complaining of a relentless frontal throbbing headache for 24 hours, unresponsive to acetaminophen. Over the last 4 hours, she developed blurred vision with flickering "sparkles" (scotomas) and sharp right upper quadrant abdominal pain. Her spouse noted facial puffiness and marked hand swelling.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 178/112 mmHg (repeated at 174/110 mmHg 15 min later), HR 84 bpm, RR 18 bpm, SpO2 98% room air.
+General: Distressed, squinting from room lights, facial and periorbital edema.
+Cardiovascular: Regular, normal heart sounds.
+Abdomen: Gravid uterus appropriate for dates; notable tenderness to palpation in the right upper quadrant and epigastrium; no uterine tenderness or vaginal bleeding.
+Neuromuscular: 4+ hyperreflexia at bilateral patellar tendons with 3 beats of unsustained clonus at bilateral ankles.
+Extremities: 3+ pitting pretibial and hand edema.
+
+STAT DIAGNOSTICS & LABS:
+* Urine Dipstick: 4+ Protein (> 500 mg/dL).
+* Platelet Count: 68 x 10^3/uL (Thrombocytopenia).
+* AST: 280 U/L | ALT: 310 U/L (Markedly elevated transaminases).
+* Serum Creatinine: 1.3 mg/dL (Elevated for pregnancy).
+* Lactic Acid Dehydrogenase (LDH): 780 U/L.
+* Fetal Heart Rate Monitoring: Baseline 140 bpm, moderate variability, positive accelerations, no decelerations.
+
+ASSESSMENT & EMERGENCY ACTION PLAN:
+Severe Preeclampsia / HELLP Syndrome (Hemolysis, Elevated Liver enzymes, Low Platelets) with impending eclamptic seizure.
+1. Seizure Prophylaxis:
+   * IV Magnesium Sulfate 4-gram loading dose administered IV over 20 minutes, followed by continuous infusion at 2 g/hr.
+2. Acute Antihypertensive Management:
+   * IV Labetalol 20 mg IV push stat; BP rechecked every 10 minutes (target SBP 140-150, DBP 90-100 mmHg).
+3. Fetal Lung Maturation:
+   * Intramuscular Betamethasone 12 mg IM administered stat.
+4. Obstetric Management: Emergent Labor & Delivery transfer for stabilization and urgent primary cesarean delivery.

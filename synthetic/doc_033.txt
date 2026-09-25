@@ -1,0 +1,33 @@
+RECORD 33 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (GERIATRICS)
+
+PATIENT: Synthetic-033 | AGE: 82 | SEX: F | DATE: 2026-09-08
+REASON FOR ENCOUNTER: Annual comprehensive geriatric assessment and fall risk evaluation.
+
+SUBJECTIVE:
+Patient is an 82-year-old female living alone in a single-story home, accompanied by her daughter. Her daughter reports that the patient had two non-injurious ground-level falls in the last 4 months (one tripping on a throw rug, another when getting out of bed quickly at night). Patient acknowledges fear of falling that has led her to restrict her walking outdoors. Denies true rotatory vertigo, syncope, or loss of consciousness. Reports chronic bilateral knee stiffness due to osteoarthritis.
+
+MEDICATION RECONCILIATION:
+* Hydrochlorothiazide 25 mg daily
+* Zolpidem 10 mg nightly at bedtime (used for 6 years)
+* Diphenhydramine 25 mg PRN sleep
+* Acetaminophen 500 mg TID PRN joint pain
+
+OBJECTIVE:
+Vitals: Lying BP 138/82 mmHg, HR 70 bpm; Standing (3 minutes) BP 112/68 mmHg, HR 82 bpm (Orthostatic hypotension confirmed).
+Physical Exam:
+* Cognition: Montreal Cognitive Assessment (MoCA): 26/30 (mild executive function decrement).
+* Musculoskeletal: Crepitus on passive flexion of bilateral knees, no acute effusions.
+* Neurologic: Intact light touch, vibration sense diminished at halluces bilaterally. Romberg negative.
+* Mobility Assessment:
+  * Timed Up and Go (TUG) Test: 16.2 seconds (>12 seconds indicates high fall risk).
+  * 4-Stage Balance Test: Unable to hold tandem stance beyond 4 seconds.
+
+ASSESSMENT & PLAN:
+Multifactorial fall risk and orthostatic hypotension exacerbated by polypharmacy and Beers Criteria medications (Zolpidem, Diphenhydramine).
+1. Deprescribing:
+   * Discontinue Diphenhydramine completely.
+   * Structured taper plan for Zolpidem (reduce to 5 mg for two weeks, then discontinue) with cognitive-behavioral sleep hygiene education.
+   * Reduce Hydrochlorothiazide to 12.5 mg daily to mitigate postural blood pressure drops.
+2. Physical Therapy: Referral for outpatient PT focusing on lower extremity strengthening, gait balance training, and cane fitting.
+3. Home Safety: Ordered home occupational therapy evaluation for environmental modifications (removal of throw rugs, installation of bathroom grab bars, nightlights).
+4. Bone Health: Check 25-OH Vitamin D level; initiate Vitamin D3 1000 IU daily.

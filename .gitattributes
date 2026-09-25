@@ -1,0 +1,3 @@
+# Normalize to LF in the repository (as umlsmatch does), so a Windows clone does not commit
+# CRLF and make every later diff on a Linux/CI checkout show whole files as changed.
+* text=auto eol=lf

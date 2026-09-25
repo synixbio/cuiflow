@@ -1,0 +1,104 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "cuiflow"
+dynamic = ["version"]  # single-sourced from src/cuiflow/__init__.py
+description = "Clinical concept extraction and UMLS terminology mapping, combining mmlite and umlsmatch"
+readme = "README.md"
+# The higher of the two engines' floors: mmlite needs 3.11, umlsmatch 3.10.
+requires-python = ">=3.11"
+authors = [{ name = "synixbio", email = "synixbio@gmail.com" }]
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+keywords = ["umls", "snomed-ct", "rxnorm", "icd-10-cm", "clinical-nlp", "concept-extraction", "mcp"]
+classifiers = [
+    # Alpha, not Beta: every mode is measured, but only on a Claude-drafted gold set of
+    # synthetic notes (signed off, not human-annotated),
+    # and nothing has been validated on real notes yet (DESIGN_PLAN §11, Phase 6).
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Healthcare Industry",
+    "Intended Audience :: Science/Research",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Scientific/Engineering :: Medical Science Apps.",
+    "Topic :: Text Processing :: Linguistic",
+    "Typing :: Typed",
+]
+# Empty on purpose: the core (data model, config, manifests, terminology store, JSONL I/O, CLI)
+# is standard library only. Every engine and interface is an extra.
+dependencies = []
+
+[project.optional-dependencies]
+# umlsmatch's base install is stdlib-only; mmlite needs it for the shared cTAKES semantic-group
+# table (DESIGN_PLAN §3.2), so both engine extras pull it in.
+# umlsmatch 0.2.0 is the first release with ClinicalPipeline.assess(), which
+# ensemble:hybrid_staged needs (DESIGN_PLAN §4.1).
+mmlite = ["mmlite[nlp]>=0.1.4", "umlsmatch>=0.2.0"]
+umlsmatch = ["umlsmatch[nlp]>=0.2.0"]
+all-engines = ["cuiflow[mmlite,umlsmatch]"]
+parquet = ["pyarrow>=15"]
+server = ["fastapi>=0.110", "uvicorn>=0.29", "prometheus-client>=0.20"]
+mcp = ["mcp>=2.2,<3", "umlsmatch>=0.2.0"]  # 2.x API (MCPServer); umlsmatch for group names
+all = ["cuiflow[all-engines,parquet,server,mcp]"]
+dev = ["pytest>=8", "ruff>=0.6", "mypy>=1.10", "httpx>=0.27", "build>=1.2"]
+# The spaCy model (en_core_web_sm) cannot be listed: it is not on PyPI, and PyPI rejects
+# direct URL references. Install it as its own step (README).
+
+[project.scripts]
+cuiflow = "cuiflow.interfaces.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/synixbio/cuiflow"
+Source = "https://github.com/synixbio/cuiflow"
+Changelog = "https://github.com/synixbio/cuiflow/blob/main/CHANGELOG.md"
+Issues = "https://github.com/synixbio/cuiflow/issues"
+
+[tool.hatch.version]
+path = "src/cuiflow/__init__.py"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/cuiflow"]
+
+[tool.hatch.build.targets.sdist]
+# tests/ loads the scripts in examples/ and tools/, so the sdist ships them too; the unit tests
+# then pass from an unpacked sdist. Leading slashes anchor the files at the root: a bare
+# "README.md" also matches examples/README.md and every other nested README.
+include = [
+    "/src",
+    "/tests",
+    "/examples",
+    "/tools",
+    "/cuiflow.example.toml",
+    "/README.md",
+    "/CHANGELOG.md",
+    "/CONTRIBUTING.md",
+    "/LICENSE",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "integration: needs a built engine index (set CUIFLOW_MMLITE_INDEX / CUIFLOW_UMLSMATCH_DB)",
+]
+
+[tool.mypy]
+files = ["src/cuiflow"]
+strict = true
+
+[[tool.mypy.overrides]]
+# Optional extras: CI type-checks the core without them installed.
+module = ["mmlite.*", "umlsmatch.*", "mcp.*", "fastapi.*", "pyarrow.*", "uvicorn.*"]
+ignore_missing_imports = true
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "W", "F", "I", "UP", "B", "C4", "SIM", "RUF"]

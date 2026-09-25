@@ -1,0 +1,30 @@
+RECORD 34 | TYPE: INPATIENT PROGRESS NOTE (CARDIAC CARE UNIT)
+
+PATIENT: Synthetic-034 | AGE: 62 | SEX: M | DATE: 2026-09-24
+CCU DAY: 2 | POST-CARDIAC ARREST DAY: 2
+PRIMARY DIAGNOSIS: Out-of-hospital cardiac arrest (OHCA) secondary to ventricular fibrillation; resuscitated with return of spontaneous circulation (ROSC) after 14 minutes.
+
+SUBJECTIVE:
+Patient underwent targeted temperature management (TTM) maintained at 36.0 C for 24 hours and has completed active rewarming to 37.0 C. Sedation (Propofol) and paralytic were stopped 6 hours ago.
+
+OBJECTIVE:
+Vitals: BP 112/64 mmHg (on Norepinephrine 0.04 mcg/kg/min), HR 78 bpm (sinus), Temp 36.9 C, SpO2 99% on FiO2 35%, PEEP 6 cmH2O.
+Neurological Examination:
+* GCS: E2VTM2 (Score: 5T).
+* Pupillary light reflex: Bilaterally present, equal, 3 mm -> 2 mm.
+* Corneal reflex: Intact bilaterally.
+* Cough and Gag reflexes: Present upon endotracheal suctioning.
+* Motor: Withdraws upper extremities to noxious nailbed pressure; no posturing.
+* Continuous Video EEG: Moderate generalized background slowing; no epileptiform discharges or electrographic status epilepticus.
+
+CARDIAC & LAB DATA:
+* Transthoracic Echocardiogram: Left ventricular ejection fraction 35% with anterior apical hypokinesis (status-post drug-eluting stent to proximal LAD yesterday).
+* Arterial Blood Gas: pH 7.38, PaCO2 38 mmHg, PaO2 110 mmHg, HCO3 22 mEq/L.
+* Serum Troponin I: Peaked at 4,800 ng/L, now trending down to 2,900 ng/L.
+
+ASSESSMENT & PLAN:
+Post-cardiac arrest syndrome following LAD STEMI and VF arrest, status-post successful PCI; emerging from therapeutic hypothermia with favorable early brainstem reflexes.
+1. Neuro-prognostication: Defer formal neuro-prognostication until at least 72 hours post-rewarming and clearance of residual sedatives.
+2. Hemodynamics: Wean Norepinephrine as tolerated; target MAP 65-80 mmHg.
+3. Antiplatelet / Anticoagulation: Aspirin 81 mg daily via OGT and Ticagrelor 90 mg BID via OGT.
+4. Vent Support: Maintain lung-protective ventilation and normocarbia (target PaCO2 35-45 mmHg) to avoid intracranial vasoconstriction or vasodilation.

@@ -1,0 +1,31 @@
+RECORD 98 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (PEDIATRICS)
+
+PATIENT: Synthetic-098 | AGE: 4 years | SEX: F | DATE: 2029-04-19
+REASON FOR ENCOUNTER: Assessment of newly developed petechiae and bruising.
+
+SUBJECTIVE:
+The patient is a 4-year-old previously healthy female brought by her parents with a 2-day history of pinpoint red spots across her legs and trunk and prominent bruising on her shins and arms with minimal trauma. Yesterday, her mother noticed bleeding from her gums when brushing her teeth. She had a typical viral upper respiratory illness (rhinorrhea, low fevers) approximately 2 weeks ago that resolved completely. She is otherwise acting energetic and eating well. Denies fever, bone pain, joint swelling, weight loss, dark urine, or black stools.
+
+PHYSICAL EXAMINATION:
+Vitals: Temp 37.0 C, HR 96 bpm, RR 20 bpm, BP 94/58 mmHg.
+General: Active, happy child playing in the exam room.
+HEENT: Normocephalic; dry blood crust on upper gingiva; no active bleeding, oral petechiae, or mucosal wet purpura.
+Lymphatics: No cervical, axillary, or inguinal lymphadenopathy.
+Abdomen: Soft, non-tender; spleen and liver are NOT palpable (no hepatosplenomegaly).
+Skin: Profuse petechial eruptions over bilateral lower extremities, lower abdomen, and forearms. Multiple non-tender ecchymoses (1-3 cm) on anterior pretibial areas.
+
+LABORATORY INVESTIGATIONS:
+* Complete Blood Count:
+  * Platelet Count: 14 x 10^3/uL (Critically Low, normal 150-450).
+  * Hemoglobin: 12.4 g/dL (Normal).
+  * WBC: 7.2 x 10^3/uL with normal differential (Normal).
+* Peripheral Blood Smear: Confirmed severe thrombocytopenia with large, normal-appearing platelets; no schistocytes, dysplastic leukocytes, or blast cells.
+* Coagulation: PT 11.8 s, PTT 28 s (Normal).
+
+ASSESSMENT & PLAN:
+Immune Thrombocytopenia (ITP), acute pediatric presentation following viral prodrome.
+1. Management Decision: Given absence of severe active mucosal bleeding ("dry purpura"), outpatient observation vs. single-dose therapy was discussed. Because platelet count is < 20k with gingival bleeding, opted to administer Intravenous Immunoglobulin (IVIG) 1 g/kg single infusion to accelerate platelet recovery.
+2. Safety Instructions:
+   * Strict avoidance of contact sports, rough play, and bicycle riding until platelets > 50k.
+   * Avoid all aspirin, ibuprofen, and NSAID products (use acetaminophen only).
+3. Follow-up: Repeat CBC scheduled in 48 hours to confirm platelet response. Return precautions for head trauma or mucosal hemorrhage reviewed.

@@ -1,0 +1,18 @@
+RECORD 37 | TYPE: SURGICAL OPERATIVE REPORT
+
+PATIENT: Synthetic-037 | AGE: 41 | SEX: F | DATE: 2026-11-03
+PREOPERATIVE DIAGNOSIS: Symptomatic uterine leiomyomata with severe menorrhagia and pelvic pressure.
+POSTOPERATIVE DIAGNOSIS: Multiple intramural and subserosal uterine leiomyomata.
+PROCEDURE: Total laparoscopic hysterectomy with bilateral salpingectomy; conservation of ovaries.
+SURGEON: Dr. Sarah Lin, MD | ANESTHESIA: General endotracheal.
+ESTIMATED BLOOD LOSS: 50 mL | SPECIMEN WEIGHT: 420 grams.
+
+OPERATIVE FINDINGS:
+Uterus enlarged to approximately 14-week gestational size, distorted by multiple fibroids ranging from 2 cm to 6 cm in diameter. Fallopian tubes normal bilaterally. Both ovaries grossly normal with healthy follicular architecture and preserved ovarian vascular pedicles.
+
+PROCEDURE DETAILS:
+After intubation and placement in dorsal lithotomy, a VCare uterine manipulator was inserted. A 5-mm optical trocar was placed at the umbilicus, and three 5-mm lower abdominal trocars were placed under vision. The bilateral fallopian tubes were excised completely using bipolar electrocautery and sent for permanent pathology (ovarian cancer risk reduction).
+
+The round ligaments were cauterized and divided bilaterally. The bladder flap was developed by incising the uterovesical peritoneum and mobilizing the bladder base inferiorly away from the lower uterine segment and cervix. Bilateral uterine arteries were identified, skeletonized, and coagulated at the level of the internal os using advanced bipolar vessel sealing.
+
+The cardinal and uterosacral ligaments were divided. Circumferential colpotomy was performed using monopolar hook cautery along the cup of the manipulator. The uterus and cervix were amputated and removed through the vaginal canal. The vaginal cuff was closed horizontally with a continuous running 0-barbed absorbable suture (V-Loc), anchoring the bilateral uterosacral ligaments to provide apical vaginal support. Hemostasis was verified. Trocars were removed under visual guidance and skin incisions were approximated.

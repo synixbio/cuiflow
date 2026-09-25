@@ -1,0 +1,24 @@
+RECORD 38 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (INFECTIOUS DISEASE)
+
+PATIENT: Synthetic-038 | AGE: 31 | SEX: M | DATE: 2026-11-20
+REASON FOR ENCOUNTER: Initial evaluation for newly diagnosed Human Immunodeficiency Virus (HIV-1) infection.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 31-year-old male who underwent routine sexual health screening at a community clinic 10 days ago. Screening HIV 1/2 antigen-antibody combo immunoassay was repeatedly reactive, and confirmatory HIV-1/HIV-2 differentiation assay confirmed HIV-1 infection. He reports having flu-like symptoms (low-grade fevers, pharyngitis, generalized body aches, and a transient trunk rash) approximately 6 weeks ago that resolved spontaneously over 10 days (consistent with acute seroconversion syndrome). No history of opportunistic infections (no oral candidiasis, chronic diarrhea, unexplained weight loss, or visual changes).
+
+BASELINE LABORATORY RESULTS:
+* HIV-1 Viral Load (RNA PCR): 142,000 copies/mL
+* CD4+ T-cell count: 485 cells/uL (28%)
+* Baseline Genotypic Resistance Testing: Pending
+* HLA-B*5701: Negative
+* Hepatitis B Surface Ag: Negative; Hep B Surface Ab: Positive (immune)
+* Hepatitis C Ab: Negative
+* Serum Creatinine: 0.9 mg/dL | Urine Protein: Negative | LFTs: Normal
+* Syphilis RPR: Non-reactive
+
+ASSESSMENT & PLAN:
+Newly diagnosed HIV-1 infection, CDC Stage 2 (CD4 count 485 cells/uL).
+1. Antiretroviral Therapy (ART) Initiation: In accordance with rapid ART start guidelines, initiated Bictegravir / Emtricitabine / Tenofovir Alafenamide (Biktarvy 50/200/25 mg) one tablet PO daily with or without food.
+2. Counseling: Educated patient on the critical importance of daily adherence to prevent viral mutation and resistance. Discussed "Undetectable = Untransmittable" (U=U) science once sustained viral suppression is achieved.
+3. Preventative Measures: Prescribed barrier protection during intercourse; recommended partner testing and PrEP consultation.
+4. Laboratory Monitoring: Follow-up visit in 4 weeks with repeat viral load, renal panel, and review of pending baseline genotypic resistance panel.

@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# ---- PHI and licensed data: never commit ------------------------------------------------------
+# Every output quotes note text and every document key may be a patient identifier.
+out/
+runs/
+# UMLS-derived indexes and databases are licensed content (DESIGN_PLAN §10).
+data/
+ivf/
+*.sqlite
+*.sqlite-journal
+*.db
+*.RRF
+# Result files anywhere except the tests' own synthetic fixtures.
+*.jsonl
+*.jsonl.gz
+*.parquet
+!tests/**/*.jsonl
+
+# Local configuration may name local paths.
+cuiflow.toml
+
+# Gold sets, annotation worksheets and adjudication records live outside the repository.
+docs/annotation/
+
+# Local review notes.
+critique.md
+CRITIQUE.md
+DESIGN_PLAN.md
+
+# Editor state.
+.obsidian/
+
+# Local review pages; they quote note text.
+review.html

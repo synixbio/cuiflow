@@ -1,0 +1,23 @@
+RECORD 22 | TYPE: INPATIENT DISCHARGE SUMMARY
+
+PATIENT: Synthetic-022 | AGE: 51 | SEX: M | ADMISSION: 2026-03-10 | DISCHARGE: 2026-03-16
+ADMISSION DIAGNOSIS: Acute severe ulcerative colitis flare.
+DISCHARGE DIAGNOSES:
+1. Ulcerative pancolitis flare, steroid-responsive, resolving.
+2. Iron deficiency anemia secondary to chronic GI blood loss.
+3. Hypokalemia, corrected.
+
+HOSPITAL COURSE:
+A 51-year-old male with a 6-year history of ulcerative colitis maintained on Mesalamine presented with 10-12 daily bloody bowel movements, severe tenesmus, fecal urgency, and crampy lower abdominal pain for two weeks. Laboratory workup showed CRP 68 mg/L, ESR 45 mm/hr, Hemoglobin 9.4 g/dL, and negative Clostridioides difficile PCR and enteric stool pathogens. Flexible sigmoidoscopy performed on Hospital Day 2 demonstrated severe continuous erythema, granularity, deep mucosal ulcerations, and spontaneous bleeding from rectum to splenic flexure (Mayo endoscopic subscore 3).
+
+Patient was started on IV Methylprednisolone 60 mg daily and supportive bowel rest with low-residue nutrition. Oral potassium repletion was provided. By Hospital Day 4, stool frequency decreased to 3 formed non-bloody stools daily, with resolution of urgency and normalization of CRP to 11 mg/L. Patient was transitioned to oral Prednisone 40 mg daily on Day 5 and tolerated a soft diet well. Biologic induction with Infliximab was discussed and outpatient infusion center intake was arranged.
+
+DISCHARGE MEDICATIONS:
+1. Prednisone 40 mg PO daily (taper by 5 mg per week until discontinued).
+2. Mesalamine 1.2 g PO four tablets daily (4.8 g/day total).
+3. Ferrous sulfate 325 mg PO daily on empty stomach with Vitamin C.
+4. Calcium carbonate 500 mg / Vitamin D 400 IU PO BID during steroid course.
+
+FOLLOW-UP PLAN:
+* Outpatient gastroenterology clinic visit in 10 days for therapeutic monitoring and Infliximab biosimilar infusion scheduling.
+* Repeat CBC and CRP in 2 weeks.

@@ -1,0 +1,44 @@
+# Copy to cuiflow.toml (git-ignored) and adjust. Precedence, highest first:
+# CLI flags > CUIFLOW_* environment variables > this file > profile defaults.
+
+[cuiflow]
+# single:mmlite | single:umlsmatch | ensemble:union | ensemble:consensus | ensemble:hybrid_staged
+# On the synthetic gold set only consensus passes its gate (higher precision, lower recall);
+# union and hybrid_staged fail it. See docs/EVALUATION.md.
+# Left unset, the profile decides (single:umlsmatch; ensemble:consensus for high_precision).
+# mode = "single:umlsmatch"
+
+# strict (reproduces the published figures) | clinical_recall | high_precision (proposed)
+profile = "strict"
+
+# keep | longest. Left unset, the profile decides (keep; longest for high_precision).
+# overlaps = "keep"
+
+# prefer:umlsmatch | prefer:mmlite | negated_if_any | unknown
+conflict_policy = "prefer:umlsmatch"
+
+# cTAKES semantic groups to keep; empty keeps all.
+semantic_groups = []
+
+# Attach codes from these vocabularies (needs terminology_db).
+code_systems = ["SNOMEDCT_US", "RXNORM", "ICD10CM"]
+
+# Attach each ICD-10-CM / SNOMED CT code's ancestors up to this distance (0: none), and each
+# RxNorm code's ingredient RxCUIs. Both need a terminology_db built with --mrrel.
+ancestor_depth = 0
+include_ingredients = false
+
+# negex | context (context adds temporality and experiencer)
+mmlite_negation = "negex"
+
+# Include the note text in each result. It is PHI.
+include_text = false
+
+# none | guidelines: drop headings, template words and extra CUIs per span, keep the longest
+# span (docs/EVALUATION.md, "Guideline post-filter")
+mention_filter = "none"
+
+# Built from your own licensed UMLS files; all from the SAME release (DESIGN_PLAN §5.2).
+mmlite_index = "data/ivf"
+umlsmatch_db = "data/umls_sno_rx.sqlite"
+terminology_db = "data/terminology.sqlite"

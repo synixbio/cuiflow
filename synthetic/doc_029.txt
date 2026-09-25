@@ -1,0 +1,25 @@
+RECORD 29 | TYPE: INPATIENT DISCHARGE SUMMARY
+
+PATIENT: Synthetic-029 | AGE: 76 | SEX: M | ADMISSION: 2026-07-22 | DISCHARGE: 2026-07-28
+ADMISSION DIAGNOSIS: Left lower extremity cellulitis with systemic inflammatory response syndrome (SIRS).
+DISCHARGE DIAGNOSES:
+1. Left lower extremity non-purulent cellulitis, clinically improved.
+2. Chronic venous insufficiency with stasis dermatitis.
+3. Peripheral artery disease.
+4. Stage 2 Essential Hypertension.
+
+HOSPITAL COURSE:
+A 76-year-old male with chronic venous stasis presented with 3 days of progressive redness, warmth, pain, and swelling of the left lower leg accompanied by rigors and temperature of 38.8 C. On admission, examination revealed erythema extending from the ankle to the mid-calf with demarcated borders, warmth, and 2+ pitting edema. Blood cultures drawn on admission remained negative after 5 days.
+
+The patient was initiated on IV Cefazolin 2 g every 8 hours. The leading erythematous margins were marked with a surgical pen. Over the course of 72 hours, erythema markedly receded, tenderness improved, and fever resolved. Inflammatory markers trended downward (CRP dropped from 84 mg/L to 14 mg/L). Swelling was managed with leg elevation. On Day 5, he was transitioned to oral Cephalexin 500 mg QID which he tolerated without gastrointestinal upset. At the time of discharge, erythema was faint, local heat was absent, and pain was minimal.
+
+DISCHARGE MEDICATIONS:
+1. Cephalexin 500 mg PO QID (to complete 5 additional days of outpatient therapy).
+2. Amlodipine 5 mg PO daily.
+3. Aspirin 81 mg PO daily.
+4. Compression stockings (20-30 mmHg) to be worn daily after cellulitis completely resolves.
+
+DISCHARGE INSTRUCTIONS:
+* Keep left leg elevated above the level of the heart when seated or resting.
+* Monitor leg margins daily; return to ED if erythema spreads past markings or if fevers reoccur.
+* Primary care appointment in 10 days.

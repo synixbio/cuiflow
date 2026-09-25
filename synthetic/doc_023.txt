@@ -1,0 +1,32 @@
+RECORD 23 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (ENDOCRINOLOGY)
+
+PATIENT: Synthetic-023 | AGE: 34 | SEX: F | DATE: 2026-04-18
+REASON FOR ENCOUNTER: Management of newly diagnosed Graves' disease.
+
+SUBJECTIVE:
+The patient is a 34-year-old female referred for hyperthyroidism. She reports 3 months of palpitations, unintentional 15-lb weight loss despite increased appetite, fine tremors in her hands, heat intolerance, and insomnia. Menstrual cycles have become light and irregular. She notes occasional eye dryness and mild foreign-body sensation, but denies diplopia or retro-orbital pain.
+
+OBJECTIVE:
+Vitals: BP 136/84 mmHg, HR 108 bpm resting, RR 18 bpm, Wt 54.2 kg.
+Exam:
+* Eyes: Mild bilateral lid retraction and stare; no significant proptosis (exophthalmometry 17 mm bilaterally), intact extraocular movements.
+* Neck: Diffusely enlarged, non-tender, symmetric thyroid gland (approx. 45 grams) with an audible bruit over the superior poles. No discrete nodules.
+* Cardiovascular: Tachycardic, regular, prominent point of maximal impulse.
+* Neuromuscular: 3+ hyperreflexia at bilateral patellar and Achilles tendons. Fine resting postural tremor of outstretched hands.
+* Skin: Warm, smooth, mildly diaphoretic; no pretibial myxedema.
+
+LABORATORIES:
+* TSH: < 0.01 uIU/mL (Suppressed)
+* Free T4: 3.8 ng/dL (Elevated, Ref 0.8-1.8)
+* Free T3: 8.4 pg/mL (Elevated, Ref 2.3-4.2)
+* Thyroid Stimulating Immunoglobulin (TSI): 380% (Ref < 140%, positive)
+* Anti-TPO Antibodies: 240 IU/mL
+
+ASSESSMENT & PLAN:
+Overt thyrotoxicosis secondary to Graves' disease with mild thyroid eye disease.
+1. Symptom Control: Propranolol 20 mg PO TID for rapid adrenergic symptom and tremor alleviation.
+2. Antithyroid Pharmacotherapy: Initiate Methimazole 15 mg PO daily.
+   * Educated on side effects, specifically agranulocytosis (instructed to obtain immediate CBC and hold med if developing fever, chills, or sore throat) and hepatotoxicity (monitor for jaundice/acholic stools).
+   * Discussed contraception; verified patient is currently using an IUD and not planning pregnancy.
+3. Ophthalmologic Care: Prescribed lubricating artificial tears during day and ocular ointment at bedtime.
+4. Monitoring: Recheck free T4, total T3, CBC, and LFTs in 4 weeks.

@@ -1,0 +1,34 @@
+RECORD 72 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (NEPHROLOGY)
+
+PATIENT: Synthetic-072 | AGE: 62 | SEX: M | DATE: 2028-03-24
+REASON FOR ENCOUNTER: Chronic Kidney Disease (CKD) Stage 4 management and vascular access planning.
+
+SUBJECTIVE:
+The patient is a 62-year-old male with long-standing Type 2 Diabetes Mellitus and hypertensive nephrosclerosis. He presents for routine CKD surveillance. He notes mild decrease in energy and chronic restless leg sensations at night. Denies nausea, vomiting, metallic taste, pruritus, chest pain, or shortness of breath. Compliant with renal diet and restricted potassium intake.
+
+OBJECTIVE:
+Vitals: BP 128/76 mmHg, HR 68 bpm regular, RR 14 bpm, Wt 82.1 kg.
+Exam:
+* Cardiovascular: Regular rate and rhythm, no pericardial rub.
+* Lungs: Clear to auscultation bilaterally.
+* Extremities: 1+ pitting pretibial edema bilaterally.
+* Vascular: Bilateral upper extremities examined; cephalic veins palpable in non-dominant left forearm with good caliber on tourniquet application; modified Allen test demonstrates intact palmar collateral circulation.
+
+LABORATORY MONITORING:
+* Serum Creatinine: 3.2 mg/dL | BUN: 48 mg/dL
+* Estimated GFR (CKD-EPI): 21 mL/min/1.73m^2 (CKD Stage 4)
+* Serum Potassium: 4.8 mEq/L | Bicarbonate: 21 mEq/L
+* Serum Calcium: 8.9 mg/dL | Serum Phosphate: 4.9 mg/dL (mildly elevated)
+* Intact PTH: 185 pg/mL (secondary hyperparathyroidism)
+* Hemoglobin: 10.2 g/dL (normocytic, normochromic)
+* Urine Albumin-to-Creatinine Ratio: 1,200 mg/g
+
+ASSESSMENT & PLAN:
+Stage 4 Chronic Kidney Disease approaching end-stage renal disease (ESRD); mineral and bone disorder.
+1. Vascular Access Planning:
+   * Placed formal referral to Vascular Surgery for creation of a left radiocephalic or brachiocephalic arteriovenous (AV) fistula to ensure adequate maturation before dialysis initiation.
+   * "Save the Vein" education: strict avoidance of venipunctures, IV lines, and blood pressure cuffs in the left arm.
+2. CKD-MBD Management: Initiate Calcium Acetate 667 mg PO TID with meals as a phosphate binder.
+3. Anemia: Recheck iron panel and ferritin; consider erythropoietin-stimulating agent (ESA) when Hb < 10.0 g/dL.
+4. Metabolic Acidosis: Initiate Sodium Bicarbonate 650 mg PO BID to target serum HCO3 > 22 mEq/L.
+5. Follow-up: Recheck renal panel in 8 weeks.

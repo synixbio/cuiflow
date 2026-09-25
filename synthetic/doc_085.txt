@@ -1,0 +1,23 @@
+RECORD 85 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-085 | AGE: 88 | SEX: F | DATE: 2028-10-10 15:40
+CHIEF COMPLAINT: Fever, severe abdominal distension, obstipation, and vomiting.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is an 88-year-old female resident of a memory care facility with advanced vascular dementia and chronic constipation who presents with progressive abdominal distension over 48 hours. She has not passed flatus or stool in 3 days. This morning, she developed bilious emesis and low-grade fevers. Staff notes she has had similar milder distension episodes in the past treated with enemas.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 104/62 mmHg, HR 108 bpm, RR 22 bpm, Temp 38.1 C, SpO2 95% room air.
+General: Frail, elderly female in visible discomfort, grimaces with abdominal palpation.
+Abdomen: Markedly distended, tense, tympanitic like a drum. High-pitched "tinkling" bowel sounds with focal tenderness in the left lower quadrant; mild voluntary guarding, no rigid involuntary rebound.
+Rectal Exam: Empty rectal vault, no stool or palpable masses; no gross blood.
+
+DIAGNOSTICS:
+* Abdominal Radiograph (KUB): Massive dilation of a large loop of colon originating from the pelvis and projecting to the right upper quadrant, resembling a "coffee bean" sign without haustra.
+* CT Abdomen & Pelvis with IV Contrast: Confirms Sigmoid Volvulus with severe dilation of the sigmoid colon up to 9 cm, with a distinct "whirl sign" of twisted mesentery. Small amount of pelvic free fluid; no pneumoperitoneum (no bowel perforation).
+
+ASSESSMENT & INTERVENTION:
+Acute Sigmoid Volvulus without evidence of gangrene or peritonitis.
+1. Emergent Endoscopic Decompression: Gastroenterology performed bedside flexible sigmoidoscopy. Upon advancing through the twisted segment at 25 cm, the mucosa appeared viable and pink (no ischemia). The scope successfully navigated past the torsion point with a dramatic, immediate release of large volumes of gas and liquid feces, collapsing the volvulus.
+2. Rectal Tube Placement: A soft 30 Fr rectal flatus tube was positioned beyond the torsion point and secured to maintain decompression.
+3. Surgical Consultation: Evaluated by General Surgery. Because recurrence rates after non-operative detorsion exceed 70%, patient's medical power of attorney was counseled regarding elective semi-urgent sigmoid resection during this admission once stabilized.

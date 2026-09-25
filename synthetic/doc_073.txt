@@ -1,0 +1,25 @@
+RECORD 73 | TYPE: INPATIENT DISCHARGE SUMMARY
+
+PATIENT: Synthetic-073 | AGE: 84 | SEX: F | ADMISSION: 2028-04-02 | DISCHARGE: 2028-04-08
+ADMISSION DIAGNOSIS: Urosepsis with altered mental status.
+DISCHARGE DIAGNOSES:
+1. Klebsiella pneumoniae urosepsis, resolved.
+2. Toxic-metabolic encephalopathy / delirium, resolved.
+3. Prerenal acute kidney injury, resolved.
+4. Chronic neurogenic bladder managed with intermittent catheterization.
+
+HOSPITAL COURSE:
+An 84-year-old female was brought from an assisted living facility with acute lethargy, confusion, hypothermia (Temp 35.8 C), and foul-smelling cloudy urine. Admission labs: WBC 16.4 x 10^3/uL with 18% bands, lactic acid 2.8 mmol/L, serum creatinine 2.1 mg/dL (baseline 0.9 mg/dL). Blood and urine cultures both grew Klebsiella pneumoniae sensitive to Ceftriaxone.
+
+She received 30 mL/kg IV crystalloid fluid resuscitation and was treated with IV Ceftriaxone 1 g daily. Over 72 hours, leukocytosis and lactic acidosis resolved, renal function returned to baseline (Cr 0.88 mg/dL), and her confusion cleared completely, returning to her baseline baseline cognitive state (alert, oriented x 3). Her clean intermittent catheterization protocol was reviewed with facility staff. She was transitioned to oral Cefpodoxime to complete a 10-day total antibiotic course.
+
+DISCHARGE MEDICATIONS:
+1. Cefpodoxime 200 mg PO BID for 4 more days.
+2. Cranberry concentrate supplement 500 mg PO daily.
+3. Donepezil 10 mg PO at bedtime (resumed).
+4. Polyethylene glycol 17 g PO daily PRN constipation.
+
+DISCHARGE PLAN:
+* Return to assisted living facility at baseline care level.
+* Follow up with primary care physician in 2 weeks.
+* Repeat clean-catch urine culture in 3 weeks only if symptomatic.

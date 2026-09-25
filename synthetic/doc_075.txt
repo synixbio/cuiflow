@@ -1,0 +1,26 @@
+RECORD 75 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (PSYCHIATRY)
+
+PATIENT: Synthetic-075 | AGE: 41 | SEX: F | DATE: 2028-04-20
+REASON FOR ENCOUNTER: Management of Post-Traumatic Stress Disorder (PTSD).
+
+SUBJECTIVE:
+The patient is a 41-year-old female military veteran who presents for ongoing management of combat-related PTSD. She reports persistent intrusive memories, vivid nightmares of past trauma, hypervigilance in public places, and exaggerated startle response to loud noises. She avoids crowds and shopping centers. Her score on the PTSD Checklist for DSM-5 (PCL-5) is 48 (elevated). She endorses chronic severe sleep disturbance, waking up multiple times drenched in sweat from nightmares. Denies suicidal or homicidal ideation.
+
+OBJECTIVE:
+Mental Status Examination:
+* Appearance: Neatly groomed, hyper-attentive to sounds in the hallway.
+* Behavior: Cooperative, tense posture, scans the consultation room.
+* Speech: Clear, regular rate and volume.
+* Mood: "Anxious and on guard."
+* Affect: Anxious, constricted range, congruent with mood.
+* Thought Content: Recurrent intrusive trauma recollections; no delusions or hallucinations. No suicidal thoughts.
+* Cognition: Fully oriented x 4; intact memory and fund of knowledge.
+
+ASSESSMENT & PLAN:
+Post-Traumatic Stress Disorder (PTSD), chronic, with prominent nocturnal trauma nightmares and hyperarousal.
+1. Targeted Pharmacotherapy for Nightmares:
+   * Initiate Prazosin (alpha-1 adrenergic antagonist) 1 mg PO at bedtime for 3 nights, then increase to 2 mg PO at bedtime to suppress trauma-related nightmares.
+   * Monitored baseline blood pressure (118/76 mmHg); instructed patient on potential first-dose orthostatic hypotension and to rise slowly from bed.
+2. Maintenance Medication: Continue Sertraline 150 mg PO daily.
+3. Psychotherapy: Patient is actively engaged in Prolonged Exposure (PE) therapy with VA clinical psychologist; encourage continued weekly attendance.
+4. Follow-up: Clinic appointment in 4 weeks for Prazosin dose titration and symptom reassessment.

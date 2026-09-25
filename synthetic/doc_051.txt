@@ -1,0 +1,30 @@
+RECORD 51 | TYPE: EMERGENCY DEPARTMENT NOTE
+
+PATIENT: Synthetic-051 | AGE: 65 | SEX: M | DATE: 2027-05-01 19:30
+CHIEF COMPLAINT: Sudden weakness in the right arm and leg, speech difficulty that resolved after 45 minutes.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 65-year-old male with a history of hypertension and hyperlipidemia who presents following a transient neurologic episode. At 17:45 while dining, he experienced sudden heaviness and inability to lift his right upper extremity, dragging of his right foot, and dysarthria. His symptoms spontaneously resolved completely by 18:30 while en route via EMS. Currently, he feels completely back to baseline. He has never had these symptoms previously.
+
+PHYSICAL EXAMINATION:
+Vitals: BP 154/88 mmHg, HR 74 bpm, RR 16 bpm, Temp 36.7 C, SpO2 98% room air.
+Neurologic Exam: Fully alert, oriented x 4. Speech fluent without dysarthria or aphasia. Cranial nerves II-XII intact. Motor strength 5/5 in all four extremities. Sensation intact bilaterally. Pronator drift absent. Finger-to-nose testing normal. Gait normal. NIHSS Score: 0.
+
+DIAGNOSTIC WORKUP:
+* Non-contrast Head CT: No acute intracranial hemorrhage or territorial infarction.
+* ECG: Normal sinus rhythm at 72 bpm, no ST changes, no atrial fibrillation.
+* Point-of-Care Blood Glucose: 104 mg/dL.
+* ABCD2 Score Calculation:
+  * Age >= 60 (1)
+  * Blood Pressure >= 140/90 (1)
+  * Clinical features: Unilateral weakness (2)
+  * Duration: 10-59 minutes (1)
+  * Diabetes: No (0)
+  * Total ABCD2 Score = 5 (High risk for early stroke, 48-hour stroke risk ~6-8%).
+
+ASSESSMENT & PLAN:
+High-risk Transient Ischemic Attack (TIA) in the left middle cerebral artery territory; ABCD2 score = 5.
+1. Dual Antiplatelet Therapy (DAPT): In accordance with POINT/CHANCE guidelines, initiate Aspirin 81 mg PO daily and Plavix (Clopidogrel) 300 mg loading dose followed by 75 mg PO daily for 21 days.
+2. Inpatient Admission: Admit to Stroke Telemetry Unit for continuous cardiac telemetry monitoring (evaluating for occult atrial fibrillation).
+3. MRI Brain with DWI: Ordered to evaluate for focal acute infarction.
+4. Carotid Duplex Ultrasound & Transthoracic Echocardiogram scheduled for morning.

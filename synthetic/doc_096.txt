@@ -1,0 +1,31 @@
+RECORD 96 | TYPE: OUTPATIENT CLINICAL ENCOUNTER (GASTROENTEROLOGY)
+
+PATIENT: Synthetic-096 | AGE: 39 | SEX: M | DATE: 2029-03-18
+REASON FOR ENCOUNTER: Follow-up of Crohn's Disease.
+
+SUBJECTIVE:
+The patient is a 39-year-old male with an 8-year history of ileocolonic Crohn's disease with historic perianal fistulizing complications. He has been maintained on subcutaneous Adalimumab 40 mg every 2 weeks for 3 years. Recently, over the past 6 weeks, he reports return of right lower quadrant crampy pain, 4-5 semi-formed bowel movements daily, low-grade fatigue, and a 5-lb weight loss. Denies fevers, gross hematochezia, or perianal discharge.
+
+OBJECTIVE:
+Vitals: BP 118/72 mmHg, HR 76 bpm, RR 14 bpm, Wt 71.2 kg.
+Exam:
+* Abdomen: Mild tenderness to deep palpation in the right lower quadrant; no palpable mass, rebound, or guarding.
+* Perianal: Previous fistulectomy scar well healed; no active external openings, induration, or purulent drainage.
+
+LABORATORY & THERAPEUTIC MONITORING:
+* Fecal Calprotectin: 640 mcg/g (Significantly elevated, indicates active mucosal inflammation; normal < 50).
+* CRP: 22.4 mg/L (Elevated).
+* Complete Blood Count: Hemoglobin 11.8 g/dL, WBC 9.2 x 10^3/uL.
+* Therapeutic Drug Monitoring:
+  * Serum Adalimumab Trough Level: 2.1 mcg/mL (Sub-therapeutic; target > 7.5 mcg/mL).
+  * Anti-Adalimumab Antibodies: HIGH TITER POSITIVE (> 80 ng/mL), confirming immunogenic secondary loss of response.
+
+ASSESSMENT & PLAN:
+Active flare of ileocolonic Crohn's disease with secondary loss of response to Adalimumab due to high-titer anti-drug neutralizing antibodies.
+1. Biologic Class Switch:
+   * Discontinue Adalimumab completely.
+   * Switch to an alternate biologic mechanism: Initiate Ustekinumab (anti-IL-12/23):
+     * Weight-based IV induction infusion (390 mg IV) scheduled next week.
+     * Follow with maintenance subcutaneous dosing: 90 mg SC every 8 weeks starting 8 weeks post-infusion.
+2. Short-term Symptom Control: Oral Budesonide (Entocort EC) 9 mg PO daily for 8 weeks to induce local ileal remission with minimal systemic steroid effects.
+3. Follow-up: Recheck fecal calprotectin and clinical score in 12 weeks.
